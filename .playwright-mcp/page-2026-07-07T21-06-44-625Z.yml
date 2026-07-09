@@ -1,0 +1,651 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "home" [ref=e6]:
+          - /url: /
+          - img "Orbix Studio" [ref=e7]
+        - navigation [ref=e8]:
+          - button "Services" [ref=e10] [cursor=pointer]:
+            - link "Services" [ref=e11]:
+              - /url: /services
+          - button "Case Studies (42)" [ref=e14] [cursor=pointer]:
+            - link "Case Studies (42)" [ref=e15]:
+              - /url: /case-studies
+              - text: Case Studies
+              - superscript [ref=e16]: (42)
+          - button "Pricing" [ref=e18] [cursor=pointer]:
+            - link "Pricing" [ref=e19]:
+              - /url: /pricing
+          - link "About Us" [ref=e20]:
+            - /url: /about
+            - generic [ref=e21]: About Us
+          - button "Blog" [ref=e23] [cursor=pointer]:
+            - link "Blog" [ref=e24]:
+              - /url: /blogs
+          - button "Resources" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]: Resources
+        - link "Contact Us" [ref=e29]:
+          - /url: /contact
+          - generic [ref=e31]: Contact Us
+    - main [ref=e32]:
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - region "carousel" [ref=e37]:
+            - group "1 of 3" [ref=e39]:
+              - generic [ref=e42]: Teams Across USA, UAE & KSA
+            - text: 
+            - button "next slide" [ref=e44] [cursor=pointer]: 
+          - heading "Product Design & Dev Agency for B2B SaaS Companies" [level=1] [ref=e45]:
+            - text: Product Design & Dev Agency for
+            - text: B2B SaaS Companies
+          - generic [ref=e46]: We help SaaS companies turn ideas into modern digital products through fast product design and development processes completed in as little as 2–4 weeks.
+        - generic [ref=e48]:
+          - link "Icon Icon 43+ Reviews" [ref=e49]:
+            - /url: https://clutch.co/profile/orbix-studio
+            - img "Icon" [ref=e50]
+            - generic [ref=e51]:
+              - img "Icon" [ref=e52]
+              - generic [ref=e53]: 43+ Reviews
+          - generic [ref=e54]:
+            - link "Book a Free 30-Min Call" [ref=e55]:
+              - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+              - generic [ref=e58]: Book a Free 30-Min Call
+            - link "Chat on WhatsApp" [ref=e59]:
+              - /url: https://api.whatsapp.com/send/?phone=16465987983&text&type=phone_number&app_absent=0
+              - generic [ref=e61]: Chat on WhatsApp
+      - link "open lightbox" [ref=e64]:
+        - /url: "#"
+        - img "Showreel Image" [ref=e65]
+      - generic [ref=e68]:
+        - generic [ref=e69]: Chosen by 80+ SaaS Startups and Product Teams
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e76]
+              - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=e80]
+            - generic [ref=e86]:
+              - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e90]
+              - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=e94]
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - img "Line graph showing a steady increase from 0% to 100% over time." [ref=e104]
+              - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e106]
+              - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=e109]
+            - generic [ref=e115]:
+              - img "Line graph showing a steady increase from 0% to 100% over time." [ref=e118]
+              - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e120]
+              - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=e123]
+      - generic [ref=e132]:
+        - generic [ref=e133]:
+          - generic [ref=e134]:
+            - heading "Get A Full SaaS Design Team For Less Than Hiring In-House" [level=2] [ref=e136]
+            - generic [ref=e137]:
+              - generic [ref=e138]: Most SaaS teams lose time managing designers, developers, and slow communication. We work as part of your team to help you design, build, and launch products faster.
+              - link "See Our Plans" [ref=e140]:
+                - /url: /pricing
+                - generic [ref=e142]: See Our Plans
+          - generic [ref=e144]:
+            - generic [ref=e146]: Fast SaaS Product Builds
+            - generic [ref=e149]: Dedicated Product Team
+            - generic [ref=e152]: Better Landing Pages
+            - generic [ref=e155]: Clean & Scalable UI Design
+            - generic [ref=e158]: Monthly Design & Dev Support
+        - generic [ref=e159]:
+          - generic [ref=e160]:
+            - generic [ref=e162]: Fast Support
+            - generic [ref=e163]:
+              - heading "Work With A Dedicated Team" [level=3] [ref=e164]
+              - generic [ref=e166]: Get ongoing design and development support without hiring a full in-house team.
+          - generic [ref=e167]:
+            - generic [ref=e169]: Built To Move
+            - generic [ref=e170]:
+              - heading "Launch Products In Weeks" [level=3] [ref=e171]
+              - generic [ref=e173]: We help SaaS teams design and build products faster with streamlined workflows and fast delivery.
+          - generic [ref=e174]:
+            - generic [ref=e176]: Flexible Scaling
+            - generic [ref=e177]:
+              - heading "Scale Your Product Team" [level=3] [ref=e178]
+              - generic [ref=e180]: Increase or reduce support based on your product goals, roadmap, and launch schedule.
+          - generic [ref=e181]:
+            - generic [ref=e183]: Focused Execution
+            - generic [ref=e184]:
+              - heading "Focus On Growing Your SaaS" [level=3] [ref=e185]
+              - generic [ref=e187]: We handle the design and development work so your team can focus on product growth and users.
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - heading "Featured Case Studies" [level=2] [ref=e195]
+          - link "View all" [ref=e196]:
+            - /url: /case-studies
+            - generic [ref=e198]: View all
+        - list [ref=e203]:
+          - listitem [ref=e204]:
+            - generic [ref=e205]:
+              - link "PXGEN is an AI-powered image generation platform that creates images from text descriptions. View Project" [ref=e207]:
+                - /url: /case-studies/ai-image-generation-website
+                - generic [ref=e208]: PXGEN is an AI-powered image generation platform that creates images from text descriptions.
+                - generic [ref=e210]: View Project
+              - generic [ref=e212]:
+                - generic [ref=e213]: PXGEN
+                - generic [ref=e214]: Web Design
+          - listitem [ref=e215]:
+            - generic [ref=e216]:
+              - generic [ref=e217]:
+                - img "job recruiting Website" [ref=e218]
+                - link "Upmatch is a web-based job recruiting platform designed to bridge the gap between organizations and top-tier talent. View Project" [ref=e219]:
+                  - /url: /case-studies/upmatch-job-recruiting-website
+                  - generic [ref=e220]: Upmatch is a web-based job recruiting platform designed to bridge the gap between organizations and top-tier talent.
+                  - generic [ref=e222]: View Project
+              - generic [ref=e224]:
+                - generic [ref=e225]: Upmatch Website
+                - generic [ref=e226]: Web Design
+          - listitem [ref=e227]:
+            - generic [ref=e228]:
+              - link "We designed a suite of powerful functionalities meticulously crafted for our invest enthusiast users to elevate their financial process. View Project" [ref=e230]:
+                - /url: /case-studies/investiq-mobile-app-design
+                - generic [ref=e231]: We designed a suite of powerful functionalities meticulously crafted for our invest enthusiast users to elevate their financial process.
+                - generic [ref=e233]: View Project
+              - generic [ref=e235]:
+                - generic [ref=e236]: InvestIQ
+                - generic [ref=e237]: Mobile Apps
+          - listitem [ref=e238]:
+            - generic [ref=e239]:
+              - link "Simplifying Parcel Shipping with Modern Tracking and Management View Project" [ref=e241]:
+                - /url: /case-studies/nexcard
+                - generic [ref=e242]: Simplifying Parcel Shipping with Modern Tracking and Management
+                - generic [ref=e244]: View Project
+              - generic [ref=e246]:
+                - generic [ref=e247]: NexCard
+                - generic [ref=e248]: Mobile Apps
+          - listitem [ref=e249]:
+            - generic [ref=e250]:
+              - link "The Event Booking App is a mobile platform designed to help people discover local events and buy tickets. View Project" [ref=e252]:
+                - /url: /case-studies/9events-app
+                - generic [ref=e253]: The Event Booking App is a mobile platform designed to help people discover local events and buy tickets.
+                - generic [ref=e255]: View Project
+              - generic [ref=e257]:
+                - generic [ref=e258]: 9Events
+                - generic [ref=e259]: Mobile Apps
+          - listitem [ref=e260]:
+            - generic [ref=e261]:
+              - link "Reimagining charitable giving with verified NGOs, real-time impact tracking, and complete donation transparency View Project" [ref=e263]:
+                - /url: /case-studies/givehub-app
+                - generic [ref=e264]: Reimagining charitable giving with verified NGOs, real-time impact tracking, and complete donation transparency
+                - generic [ref=e266]: View Project
+              - generic [ref=e268]:
+                - generic [ref=e269]: Givehub
+                - generic [ref=e270]: Mobile Apps
+          - listitem [ref=e271]:
+            - generic [ref=e272]:
+              - link "Simplifying Parcel Shipping with Modern Tracking and Management View Project" [ref=e274]:
+                - /url: /case-studies/couriq-parcel-app
+                - generic [ref=e275]: Simplifying Parcel Shipping with Modern Tracking and Management
+                - generic [ref=e277]: View Project
+              - generic [ref=e279]:
+                - generic [ref=e280]: Couriq Parcel
+                - generic [ref=e281]: Mobile Apps
+          - listitem [ref=e282]:
+            - generic [ref=e283]:
+              - link "What if planning a trip felt like talking to a local guide? This AI Travel Booking App case study shows how we simplified itinerary creation and reduced booking friction. View Project" [ref=e285]:
+                - /url: /case-studies/ai-travel-booking
+                - generic [ref=e286]: What if planning a trip felt like talking to a local guide? This AI Travel Booking App case study shows how we simplified itinerary creation and reduced booking friction.
+                - generic [ref=e288]: View Project
+              - generic [ref=e290]:
+                - generic [ref=e291]: AI Travel Booking
+                - generic [ref=e292]: Mobile Apps
+      - generic [ref=e293]:
+        - generic [ref=e294]:
+          - generic [ref=e295]:
+            - generic [ref=e296]: UI UX Design
+            - iframe [ref=e299]
+            - generic [ref=e300]:
+              - generic [ref=e301]: (01)
+              - generic [ref=e302]: Explore services
+            - link "uiux-design" [ref=e303]:
+              - /url: /services/ui-ux-design
+          - generic [ref=e304]:
+            - generic [ref=e305]: Mobile App Design
+            - iframe [ref=e308]
+            - generic [ref=e309]:
+              - generic [ref=e310]: (02)
+              - generic [ref=e311]: Explore services
+            - link "mobile-app" [ref=e312]:
+              - /url: /services/mobile-app-development
+          - generic [ref=e313]:
+            - generic [ref=e314]: Logo & Branding
+            - iframe [ref=e317]
+            - generic [ref=e318]:
+              - generic [ref=e319]: (3)
+              - generic [ref=e320]: Explore services
+            - link "logo&branding" [ref=e321]:
+              - /url: /services/brand-design
+          - generic [ref=e322]:
+            - generic [ref=e323]: MVP Design
+            - iframe [ref=e326]
+            - generic [ref=e327]:
+              - generic [ref=e328]: (4)
+              - generic [ref=e329]: Explore services
+            - link "mvp" [ref=e330]:
+              - /url: /services/mvp-development
+          - generic [ref=e331]:
+            - generic [ref=e332]: Full Stack Development
+            - iframe [ref=e335]
+            - generic [ref=e336]:
+              - generic [ref=e337]: (5)
+              - generic [ref=e338]: Explore services
+            - link "full-stack" [ref=e339]:
+              - /url: /services/full-stack-development
+          - generic [ref=e340]:
+            - generic [ref=e341]: Custom Web app
+            - iframe [ref=e344]
+            - generic [ref=e345]:
+              - generic [ref=e346]: (6)
+              - generic [ref=e347]: Explore services
+            - link "web-app" [ref=e348]:
+              - /url: /services/saas-design
+          - generic [ref=e349]:
+            - generic [ref=e350]: Webflow Design
+            - iframe [ref=e353]
+            - generic [ref=e354]:
+              - generic [ref=e355]: (7)
+              - generic [ref=e356]: Explore services
+            - link "webflow" [ref=e357]:
+              - /url: /services/webflow-expert-agency
+          - generic [ref=e358]:
+            - generic [ref=e359]: AI-Powered Product
+            - iframe [ref=e362]
+            - generic [ref=e363]:
+              - generic [ref=e364]: (8)
+              - generic [ref=e365]: Explore services
+            - link "ai-power" [ref=e366]:
+              - /url: /services/ai-creative-production
+        - generic [ref=e368]:
+          - generic [ref=e369]:
+            - generic [ref=e371]: Our Services
+            - heading "Design and Development, Made Simple" [level=2] [ref=e372]
+            - generic [ref=e373]: From first idea to final launch, we help bring everything together. We design the look, build the experience to make the whole process clear from start to finish.
+          - generic [ref=e374]:
+            - link "UI UX Design Simple, clear interfaces designed for smooth user experiences." [ref=e375]:
+              - /url: /services/ui-ux-design
+              - generic [ref=e376]:
+                - generic [ref=e377]: UI UX Design
+                - generic [ref=e378]: Simple, clear interfaces designed for smooth user experiences.
+            - link "Mobile App Design Mobile app designs focused on flow, clarity, and ease." [ref=e379]:
+              - /url: /services/mobile-app-development
+              - generic [ref=e380]:
+                - generic [ref=e381]: Mobile App Design
+                - generic [ref=e382]: Mobile app designs focused on flow, clarity, and ease.
+            - link "Logo & Branding Memorable brand identities built with clarity and personality." [ref=e383]:
+              - /url: /services/brand-design
+              - generic [ref=e384]:
+                - generic [ref=e385]: Logo & Branding
+                - generic [ref=e386]: Memorable brand identities built with clarity and personality.
+            - link "MVP Design Focused product designs made for testing ideas quickly." [ref=e387]:
+              - /url: /services/mvp-development
+              - generic [ref=e388]:
+                - generic [ref=e389]: MVP Design
+                - generic [ref=e390]: Focused product designs made for testing ideas quickly.
+            - link "Full Stack Development Complete development solutions for frontend, backend, and logic." [ref=e391]:
+              - /url: /services/full-stack-development
+              - generic [ref=e392]:
+                - generic [ref=e393]: Full Stack Development
+                - generic [ref=e394]: Complete development solutions for frontend, backend, and logic.
+            - link "Custom Web App Custom web apps built around specific business needs." [ref=e395]:
+              - /url: /services/saas-design
+              - generic [ref=e396]:
+                - generic [ref=e397]: Custom Web App
+                - generic [ref=e398]: Custom web apps built around specific business needs.
+            - link "Webflow Design Clean, modern Webflow websites that are easy to manage." [ref=e399]:
+              - /url: /services/webflow-expert-agency
+              - generic [ref=e400]:
+                - generic [ref=e401]: Webflow Design
+                - generic [ref=e402]: Clean, modern Webflow websites that are easy to manage.
+            - link "Al-Powered Product AI product experiences designed to feel clear and useful." [ref=e403]:
+              - /url: /services/ai-creative-production
+              - generic [ref=e404]:
+                - generic [ref=e405]: Al-Powered Product
+                - generic [ref=e406]: AI product experiences designed to feel clear and useful.
+      - generic [ref=e409]:
+        - generic [ref=e410]:
+          - generic [ref=e412]: Our Process
+          - heading "A Faster Way To Design And Build SaaS Products" [level=2] [ref=e413]
+          - generic [ref=e414]: We simplify the product creation process for SaaS companies by combining strategy, design, and development into one efficient workflow focused on faster launches.
+        - generic [ref=e422]:
+          - generic [ref=e423]:
+            - generic [ref=e424]:
+              - generic [ref=e426]: Step 1
+              - generic [ref=e427]: Plan
+            - generic [ref=e431]:
+              - generic [ref=e432]:
+                - heading "Define the Product Goal" [level=3] [ref=e433]
+                - paragraph [ref=e434]: We start by understanding your product idea and the most important features you need first.
+              - generic [ref=e435]:
+                - img "Smiling man with beard waving during a video call interface on screen."
+          - generic [ref=e436]:
+            - generic [ref=e437]:
+              - generic [ref=e439]: Step 2
+              - generic [ref=e440]: Structure
+            - generic [ref=e444]:
+              - generic [ref=e445]:
+                - heading "Create Product Experience" [level=3] [ref=e446]
+                - paragraph [ref=e447]: We plan the screens, user flows, and product structure before moving into development.
+              - generic [ref=e448]:
+                - img "Website homepage showing food delivery app with tagline 'Fast, Fresh & Delivered To Your Door' and app interface on mobile phones."
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - generic [ref=e452]: Step 3
+              - generic [ref=e453]: Build
+            - generic [ref=e457]:
+              - generic [ref=e458]:
+                - heading "Design & Develop together" [level=3] [ref=e459]
+                - paragraph [ref=e460]: Our designers and dev work together to turn the product into a launch-ready experience.
+              - generic [ref=e461]:
+                - img "Dashboard interface on a tablet showing user welcome message, compliance score gauge at 94%, financial metrics, and usage statistics."
+      - generic [ref=e464]:
+        - heading "What SaaS Teams Say About Working With Orbix Studio" [level=2] [ref=e465]
+        - generic [ref=e466]:
+          - tabpanel "client-1" [ref=e468]:
+            - generic [ref=e472]:
+              - generic [ref=e475]:
+                - generic [ref=e476]: Website Design
+                - generic [ref=e478]: App Design
+                - generic [ref=e480]: Branding
+              - generic [ref=e482]:
+                - generic [ref=e483]: "\"Orbix Studio has created remarkable work for The Whitney building that helped us define not just this individual building but the new direction in which we are heading as a group\""
+                - generic [ref=e484]:
+                  - generic [ref=e485]: Tiyahnn Bryant
+                  - generic [ref=e486]: CEO at RollUpLife Inc
+                - generic [ref=e487]:
+                  - generic [ref=e488]:
+                    - generic [ref=e489]:
+                      - generic [ref=e490]: 4X
+                      - generic [ref=e491]: Increase in design capacity
+                    - generic [ref=e492]:
+                      - generic [ref=e493]: 60%
+                      - generic [ref=e494]: Reduction in time to market
+                    - generic [ref=e495]:
+                      - generic [ref=e496]: 40+
+                      - generic [ref=e497]: Number of brands
+                  - generic [ref=e498]:
+                    - generic:
+                      - img "Smartphone displaying a digital weather app showing a sunny day with a temperature of 36 degrees Celsius."
+                    - generic [ref=e499]:
+                      - heading "GiveHub -" [level=3] [ref=e500]
+                      - generic [ref=e501]: Transparent Donation & Charity Platform
+          - tablist [ref=e502]:
+            - tab "client-1" [selected] [ref=e503]:
+              - img "Logo of XL Axiata with the text 'Raih Performa Tertinggi' next to an orange 'XL' in a rounded square."
+            - tab "client-2" [ref=e504]
+            - tab "aria-label-3" [ref=e505]:
+              - img "Casa de las Letras logo with an open book and purple text."
+            - tab "client-4" [ref=e506]
+            - tab "client-7" [ref=e507]
+            - tab "client-5" [ref=e508]
+            - tab "client-6" [ref=e509]
+            - tab "client-8" [ref=e510]
+      - generic [ref=e516]:
+        - generic [ref=e517]:
+          - generic [ref=e520]: Global Recognition
+          - heading "Awards & Honors" [level=2] [ref=e522]
+          - generic [ref=e523]: Our work has been recognized by leading platforms for creating clear user experiences and high-performing digital products.
+        - generic [ref=e524]:
+          - img "Behance badge achievement certificate for 2025 awarded to Orbix Studio for 37 Behance badges in Digital Product Design with category icons for Behance, UI, Illustrator, Adobe XD, and Style." [ref=e526]
+          - img "Certificate for i.design Winner 2025 awarded to Orbix Studio for the project GiveHub in the Digital Product Design category, signed by the Founder & Award Director." [ref=e528]
+          - img "M design award badge for Muzli Dashboard Showcase 2025 awarded to Orbix Studio for multiple features in Digital Product Design." [ref=e530]
+      - generic [ref=e536]:
+        - generic [ref=e537]:
+          - generic [ref=e539]: membership benefits
+          - heading "Monthly Product Support as You Grow" [level=2] [ref=e540]
+          - generic [ref=e541]: We plug into your team with ongoing design support that helps you move faster, handle new priorities, and improve the product as you grow.
+        - generic [ref=e542]:
+          - generic [ref=e544]:
+            - heading "Fixed Monthly Rate" [level=3] [ref=e545]:
+              - strong [ref=e546]: Fixed Monthly Rate
+            - generic [ref=e547]:
+              - text: Pay one predictable flat
+              - text: fee every month.
+          - generic [ref=e550]:
+            - heading "Fast Delivery" [level=3] [ref=e551]
+            - generic [ref=e552]:
+              - text: Experience rapid turnaround
+              - text: times on every request.
+          - generic [ref=e555]:
+            - heading "Premium Quality" [level=3] [ref=e556]
+            - generic [ref=e557]:
+              - text: Get senior-level design
+              - text: output on every task.
+          - generic [ref=e560]:
+            - heading "Scalable & Flexible" [level=3] [ref=e561]
+            - generic [ref=e562]:
+              - text: Adapt your design capacity to
+              - text: your current roadmap
+          - generic [ref=e564]:
+            - heading "Unique & Custom" [level=3] [ref=e565]
+            - generic [ref=e566]: Every interface is built from the ground up specifically for your product.
+          - generic [ref=e568]:
+            - heading "Strategic Design Board" [level=3] [ref=e569]
+            - generic [ref=e570]:
+              - text: Manage your entire design
+              - text: queue in one place.
+      - generic [ref=e576]:
+        - generic [ref=e577]:
+          - generic [ref=e578]:
+            - generic [ref=e579]:
+              - heading "Got Questions?" [level=2] [ref=e580]
+              - heading "We’ve Got Answers" [level=2] [ref=e581]
+            - paragraph [ref=e582]: If you’re unsure where to start or want to see how we can help, reach out, and we’ll walk you through it.
+          - generic [ref=e583]:
+            - generic [ref=e584]:
+              - generic [ref=e585]:
+                - heading "Book an Intro Call" [level=3] [ref=e586]
+                - generic [ref=e587]: Let’s talk through your goals, your timeline, and how Orbix Studio can support your team.
+              - link "Book a Free Call" [ref=e588]:
+                - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+                - generic [ref=e590]: Book a Free Call
+            - generic [ref=e594]:
+              - generic [ref=e595]: Prefer Email Instead?
+              - link "hello@orbix.studio" [ref=e596]:
+                - /url: mailto:hello@orbix.studio
+        - generic [ref=e597]:
+          - generic [ref=e598]:
+            - button "What kind of companies do you work with?" [ref=e599] [cursor=pointer]:
+              - heading "What kind of companies do you work with?" [level=3] [ref=e601]:
+                - strong [ref=e602]: What kind of companies do you work with?
+            - navigation "What kind of companies do you work with?":
+              - paragraph [ref=e607]: We mainly work with B2B, SaaS, and growing teams that need strong design, fast execution, and a creative partner that understands digital products.
+          - generic [ref=e608]:
+            - button "What is your Shopify starting price?" [ref=e609] [cursor=pointer]:
+              - heading "What is your Shopify starting price?" [level=3] [ref=e611]
+            - navigation "What is your Shopify starting price?":
+              - paragraph [ref=e616]: Shopify websites start at 10k. Custom-coded sites and deeper ecommerce work are scoped separately based on the project.
+          - generic [ref=e617]:
+            - button "How long does a project usually take?" [ref=e618] [cursor=pointer]:
+              - heading "How long does a project usually take?" [level=3] [ref=e620]
+            - navigation "How long does a project usually take?":
+              - paragraph [ref=e625]: Most projects take between 2 to 4 weeks, depending on the size of the work. Smaller engagements can move faster, while larger product or brand projects may take longer.
+          - generic [ref=e626]:
+            - button "Do you only do design, or development too?" [ref=e627] [cursor=pointer]:
+              - heading "Do you only do design, or development too?" [level=3] [ref=e629]
+            - navigation "Do you only do design, or development too?":
+              - paragraph [ref=e634]: We do both. Alongside UI/UX and brand design, we also support product builds and development so ideas can move from concept to launch without the usual handoff delays.
+          - generic [ref=e635]:
+            - button "How do you communicate during projects?" [ref=e636] [cursor=pointer]:
+              - heading "How do you communicate during projects?" [level=3] [ref=e638]
+            - navigation "How do you communicate during projects?":
+              - paragraph [ref=e643]: We keep communication simple and clear through shared channels, regular updates, and quick check-ins so you always know what’s happening and what’s next.
+          - generic [ref=e644]:
+            - button "What services does Orbix Studio offer?" [ref=e645] [cursor=pointer]:
+              - heading "What services does Orbix Studio offer?" [level=3] [ref=e647]
+            - navigation "What services does Orbix Studio offer?":
+              - paragraph [ref=e652]: Orbix Studio offers product design, UI/UX, branding, creative marketing, AI design support, and development. We help teams with websites, web and mobile apps, design systems, prototypes, brand identity, pitch materials, and full product experiences from strategy to launch.
+          - generic [ref=e653]:
+            - button "Do you work with teams in different time zones?" [ref=e654] [cursor=pointer]:
+              - heading "Do you work with teams in different time zones?" [level=3] [ref=e656]:
+                - strong [ref=e657]: Do you work with teams in different time zones?
+            - navigation "Do you work with teams in different time zones?":
+              - paragraph [ref=e662]: Yes. We work with clients across different time zones and build our process to keep communication smooth, responsive, and easy to manage.
+          - generic [ref=e663]:
+            - button "Why Hire A UI/UX Design Agency Instead Of A Freelancer?" [ref=e664] [cursor=pointer]:
+              - heading "Why Hire A UI/UX Design Agency Instead Of A Freelancer?" [level=3] [ref=e666]
+            - navigation "Why Hire A UI/UX Design Agency Instead Of A Freelancer?":
+              - paragraph [ref=e671]: A UI/UX design agency like Orbix Studio provides a dedicated team covering strategy, design, and development ensuring faster delivery, consistent quality, and scalable support. Unlike freelancers, an agency offers structured processes, cross-functional collaboration, and accountability, making it the smarter choice for businesses building products that convert.
+          - generic [ref=e672]:
+            - button "Can you redesign an existing product?" [ref=e673] [cursor=pointer]:
+              - heading "Can you redesign an existing product?" [level=3] [ref=e675]
+            - navigation "Can you redesign an existing product?":
+              - paragraph [ref=e680]: Yes. We can improve an existing product’s UX, refresh the visual design, and help bring the experience up to a higher standard without starting from scratch.
+          - generic [ref=e681]:
+            - button "What makes Orbix Studio different?" [ref=e682] [cursor=pointer]:
+              - heading "What makes Orbix Studio different?" [level=3] [ref=e684]
+            - navigation "What makes Orbix Studio different?":
+              - paragraph [ref=e689]: We combine high-quality design, fast execution, and flexible support in one team, so you can move from idea to launch without the usual delays and handoff issues.
+      - generic [ref=e692]:
+        - heading "Present on Top Creative Platforms" [level=2] [ref=e693]
+        - generic [ref=e694]:
+          - link "10+ Projects Live" [ref=e695]:
+            - /url: https://webflow.com/templates/designers/orbix-studio
+            - generic [ref=e698]: 10+ Projects Live
+          - generic [ref=e703]: 5+ Projects Live
+          - link "Top Worldwide" [ref=e705]:
+            - /url: https://dribbble.com/OrbixstudioLLC
+            - generic [ref=e708]: Top Worldwide
+          - link "42+ Badges" [ref=e710]:
+            - /url: https://www.behance.net/orbixstudiollc
+            - generic [ref=e713]: 42+ Badges
+          - link "450+ Reviews" [ref=e715]:
+            - /url: https://www.fiverr.com/aparicitshohan
+            - generic [ref=e718]: 450+ Reviews
+          - link "43+ Reviews" [ref=e720]:
+            - /url: https://clutch.co/profile/orbix-studio
+            - generic [ref=e723]: 43+ Reviews
+          - link "52+ Reviews" [ref=e725]:
+            - /url: https://www.goodfirms.co/company/orbix-studio-llc
+            - generic [ref=e728]: 52+ Reviews
+          - link "5+ Projects Live" [ref=e730]:
+            - /url: https://www.designrush.com/agency/profile/orbix-studio
+            - generic [ref=e733]: 5+ Projects Live
+    - generic [ref=e738]:
+      - generic [ref=e741]:
+        - generic [ref=e742]:
+          - generic [ref=e743]:
+            - link "Orbix Studio":
+              - /url: /
+              - img "Orbix Studio"
+            - generic [ref=e744]:
+              - heading "Orbix Studio" [level=3] [ref=e745]
+              - generic [ref=e746]: We design and build scalable digital products that support complex workflows and business-critical systems.
+            - link "Company Deck" [ref=e747]:
+              - /url: https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing
+              - generic [ref=e749]: Company Deck
+          - generic [ref=e751]:
+            - generic [ref=e752]:
+              - generic [ref=e753]: Services
+              - generic [ref=e754]:
+                - link "UI/UX Design" [ref=e755]:
+                  - /url: /services/ui-ux-design
+                - link "Web Development" [ref=e756]:
+                  - /url: /services/full-stack-development
+                - link "AI Creative Production" [ref=e757]:
+                  - /url: /services/ai-creative-production
+                - link "Webflow" [ref=e758]:
+                  - /url: /services/webflow-expert-agency
+                - link "MVP Development" [ref=e759]:
+                  - /url: /services/mvp-development
+                - generic [ref=e760]: Framer
+                - link "SaaS Design" [ref=e761]:
+                  - /url: /services/saas-design
+                - link "Custom Illustration" [ref=e762]:
+                  - /url: /services/custom-illustration
+                - link "Mobile App" [ref=e763]:
+                  - /url: /services/mobile-app-development
+                - link "Motion Design" [ref=e764]:
+                  - /url: /services/motion-design
+                - link "Branding" [ref=e765]:
+                  - /url: /services/brand-design
+                - link "Creative Marketing" [ref=e766]:
+                  - /url: /services/creative-marketing
+            - generic [ref=e767]:
+              - generic [ref=e768]:
+                - generic [ref=e769]: Quick Links
+                - generic [ref=e770]:
+                  - link "Case Studies" [ref=e771]:
+                    - /url: /case-studies
+                  - link "About" [ref=e772]:
+                    - /url: /about
+                  - link "Pricing" [ref=e773]:
+                    - /url: /pricing
+                  - link "Careers" [ref=e774]:
+                    - /url: /career
+                  - link "Blog" [ref=e775]:
+                    - /url: /blogs
+                  - link "Contact" [ref=e776]:
+                    - /url: /contact
+              - generic [ref=e777]:
+                - generic [ref=e778]: Follow Us
+                - generic [ref=e779]:
+                  - link "Facebook" [ref=e780]:
+                    - /url: https://www.facebook.com/orbixstudioLLC/
+                  - link "LinkedIn" [ref=e781]:
+                    - /url: https://www.linkedin.com/company/orbixstudio/
+                  - link "Instagram" [ref=e782]:
+                    - /url: https://www.instagram.com/orbixstudiollc/?hl=en
+                  - link "(X) Twitter" [ref=e783]:
+                    - /url: https://x.com/OrbixStudio
+                  - link "Pinterest" [ref=e784]:
+                    - /url: https://www.pinterest.com/orbixstudio/
+                  - link "Dribbble" [ref=e785]:
+                    - /url: https://dribbble.com/OrbixstudioLLC
+                  - link "Behance" [ref=e786]:
+                    - /url: https://www.behance.net/orbixstudiollc
+        - generic [ref=e788]:
+          - generic [ref=e789]:
+            - generic [ref=e790]:
+              - generic [ref=e791]: Email us
+              - link "hello@orbix.studio" [ref=e792]:
+                - /url: mailto:hello@orbix.studio
+            - generic [ref=e793]:
+              - generic [ref=e794]: Call Us
+              - link "+1 (646) 598-7983" [ref=e796]:
+                - /url: https://wa.me/16465987983
+          - generic [ref=e797]:
+            - generic [ref=e798]: Limited Liability Company Based In
+            - generic [ref=e799]:
+              - generic [ref=e801]:
+                - generic [ref=e802]:
+                  - generic:
+                    - img "flug"
+                  - generic [ref=e803]:
+                    - generic [ref=e804]: NEW YORK
+                    - generic [ref=e805]: 88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States
+                - img "Shape" [ref=e807]
+              - generic [ref=e810]:
+                - generic:
+                  - img "flug"
+                - generic [ref=e811]:
+                  - generic [ref=e812]: KSA
+                  - generic [ref=e813]: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia
+                - img "Shape" [ref=e815]
+              - generic [ref=e818]:
+                - generic:
+                  - img "flug"
+                - generic [ref=e819]:
+                  - generic [ref=e820]: DUBAI
+                  - generic [ref=e821]: 35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates
+                - img "Shape" [ref=e823]
+              - generic [ref=e826]:
+                - generic:
+                  - img "flug"
+                - generic [ref=e827]:
+                  - generic [ref=e828]: DHAKA
+                  - generic [ref=e829]: OPL Ayub Tower, Dhaka 1216
+                - img "Shape" [ref=e831]
+      - generic [ref=e835]:
+        - generic [ref=e836]: © 2023-2026, Orbix Studio | All Rights Reserved.
+        - generic [ref=e837]:
+          - link "Terms of Services" [ref=e838]:
+            - /url: /terms-of-service
+          - link "Privacy Policy" [ref=e839]:
+            - /url: /privacy-policy
+          - link "Refund Policy" [ref=e840]:
+            - /url: /refund-policy
+  - alert [ref=e841]

@@ -1,0 +1,606 @@
+- main [ref=f10e2]:
+  - generic [ref=f10e3]:
+    - banner [ref=f10e4]:
+      - generic [ref=f10e5]:
+        - link "home" [ref=f10e7] [cursor=pointer]:
+          - /url: /
+          - img "Atlas Studio" [ref=f10e8]
+        - navigation [ref=f10e9]:
+          - button "Services" [ref=f10e11] [cursor=pointer]:
+            - link "Services" [ref=f10e12]:
+              - /url: /services
+          - button "Case Studies (42)" [ref=f10e15] [cursor=pointer]:
+            - link "Case Studies (42)" [ref=f10e16]:
+              - /url: /case-studies
+              - text: Case Studies
+              - superscript [ref=f10e17]: (42)
+          - button "Pricing" [ref=f10e19] [cursor=pointer]:
+            - link "Pricing" [ref=f10e20]:
+              - /url: /pricing
+          - link "About Us" [ref=f10e21] [cursor=pointer]:
+            - /url: /about
+            - generic [ref=f10e22]: About Us
+          - button "Blog" [ref=f10e24] [cursor=pointer]:
+            - link "Blog" [ref=f10e25]:
+              - /url: /blogs
+        - link "Contact Us" [ref=f10e27] [cursor=pointer]:
+          - /url: /contact
+          - generic [ref=f10e29]: Contact Us
+    - main [ref=f10e30]:
+      - generic [ref=f10e31]:
+        - generic [ref=f10e33]:
+          - generic [ref=f10e36]: Webflow Design & Development
+          - heading "Professional Webflow Development Agency" [level=1] [ref=f10e37]
+          - link "Schedule a Demo" [ref=f10e39] [cursor=pointer]:
+            - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+            - generic [ref=f10e41]: Schedule a Demo
+        - generic [ref=f10e44]:
+          - generic [ref=f10e45]: Trusted by 80+ SaaS Founders and Product Teams
+          - generic [ref=f10e46]:
+            - generic [ref=f10e47]:
+              - generic [ref=f10e48]:
+                - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=f10e52]
+                - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=f10e56]
+              - generic [ref=f10e62]:
+                - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=f10e66]
+                - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=f10e70]
+            - generic [ref=f10e76]:
+              - generic [ref=f10e77]:
+                - img "Line graph showing a steady increase from 0% to 100% over time." [ref=f10e80]
+                - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=f10e82]
+                - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=f10e85]
+              - generic [ref=f10e91]:
+                - img "Line graph showing a steady increase from 0% to 100% over time." [ref=f10e94]
+                - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=f10e96]
+                - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=f10e99]
+      - generic [ref=f10e109]:
+        - generic [ref=f10e110]:
+          - generic [ref=f10e111]:
+            - generic [ref=f10e114]: Webflow Design & Build
+            - heading "Get a Custom Webflow Website Designed and Developed in 1 Week" [level=2] [ref=f10e115]:
+              - text: Get a Custom Webflow
+              - generic [ref=f10e116]:
+                - text: Website
+                - emphasis [ref=f10e117]: Designed and Developed in 1 Week
+          - generic [ref=f10e119]: In just 1 week, we design and develop a custom Webflow website tailored to your brand, content, and goals. It’s a fast, focused process built to deliver a premium site without dragging the project out for weeks.
+          - link "Start Your Project" [ref=f10e120] [cursor=pointer]:
+            - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+            - generic [ref=f10e122]: Start Your Project
+        - img "Two silhouetted people viewing a computer screen displaying Finorix financial control website with green background." [ref=f10e125]
+      - generic [ref=f10e128]:
+        - generic [ref=f10e129]:
+          - heading "Why Orbix studio?" [level=2] [ref=f10e130]
+          - generic [ref=f10e131]: Atlas Studio is a global UI/UX design and development agency with six years of hands-on Webflow experience. We help brands launch polished, high-performing websites with the speed, structure, and quality modern teams expect.
+        - generic [ref=f10e132]:
+          - generic [ref=f10e134]:
+            - generic [ref=f10e135]: Webflow and website projects successfully delivered across startups and growing brands
+            - heading "140+" [level=3] [ref=f10e136]
+          - generic [ref=f10e139]:
+            - generic [ref=f10e140]: Brands and internal teams supported through design and development projects
+            - heading "80+" [level=3] [ref=f10e141]
+          - generic [ref=f10e143]:
+            - generic [ref=f10e144]: Years of hands-on experience building custom websites in Webflow
+            - heading "06+" [level=3] [ref=f10e145]
+          - generic [ref=f10e147]:
+            - generic [ref=f10e148]: Average client rating across projects focused on quality, speed, and trust
+            - heading "4.9" [level=3] [ref=f10e149]
+      - generic [ref=f10e152]:
+        - generic [ref=f10e153]:
+          - generic [ref=f10e156]: What We Offer
+          - heading "Custom Webflow Design & Dev for B2B SaaS and AI Products" [level=2] [ref=f10e157]
+          - generic [ref=f10e158]: Our team designs and develops custom Webflow websites from start to finish. You get a site that looks sharp, works smoothly, and is ready to support marketing and growth.
+        - generic [ref=f10e159]:
+          - generic:
+            - img "Person holding a tablet displaying a website homepage titled Flowrix with a dark-themed design and navigation menu."
+            - generic [ref=f10e160]:
+              - heading "Figma to Webflow Development" [level=3] [ref=f10e161]:
+                - strong [ref=f10e162]: Figma to Webflow Development
+              - generic: Convert Figma designs into a flawless Webflow build, launch-ready.
+          - generic:
+            - img "Person holding a tablet displaying a finance app with the headline 'Get Your Finances Under Control In Minutes' and demo statistics."
+            - generic [ref=f10e163]:
+              - heading "Custom Webflow Design" [level=3] [ref=f10e164]:
+                - strong [ref=f10e165]: Custom Webflow Design
+              - generic [ref=f10e166]: We design custom Webflow sites that reflect your brand and align with your vision.
+          - generic:
+            - img "Person holding a tablet displaying a construction website featuring a worker in a yellow helmet using equipment."
+            - generic [ref=f10e167]:
+              - heading "Webflow Landing Page Design" [level=3] [ref=f10e168]:
+                - strong [ref=f10e169]: Webflow Landing Page Design
+              - generic [ref=f10e170]: We specialize in crafting Webflow landing pages that deliver a focused message and drive conversions.
+          - generic:
+            - img "Person holding a tablet displaying a UI/UX design webpage for softcare skin products featuring a woman holding a skincare bottle."
+            - generic [ref=f10e171]:
+              - heading "Full Webflow Design + Development" [level=3] [ref=f10e172]:
+                - strong [ref=f10e173]: Full Webflow Design + Development
+              - generic [ref=f10e174]: We oversee the complete website creation, from design to Webflow build, for a smooth experience.
+          - generic:
+            - img "Person holding a tablet displaying a real estate app with a modern house and the text 'Architecture is Forever'."
+            - generic [ref=f10e175]:
+              - heading "Webflow CMS Architecture" [level=3] [ref=f10e176]:
+                - strong [ref=f10e177]: Webflow CMS Architecture
+              - generic: A strategic CMS design helps manage expanding content efficiently, keeping everything organized.
+          - generic:
+            - img "Computer monitor displaying a website for Livento with the tagline 'A Smarter Home That Understands You' and buttons for Explore Features and Heat Vests."
+            - generic [ref=f10e178]:
+              - heading "Custom Animations & Interactions" [level=3] [ref=f10e179]:
+                - strong [ref=f10e180]: Custom Animations & Interactions
+              - generic [ref=f10e181]: Effective motion enhances a website's appeal and guides user focus, adding personality without distraction.
+      - generic [ref=f10e184]:
+        - generic [ref=f10e185]:
+          - generic [ref=f10e187]: Our Process
+          - heading "A Clear Webflow Process Built for Fast, Custom Website Launches" [level=2] [ref=f10e188]
+          - generic [ref=f10e189]: Every project moves through a focused four-step process, from requirements and planning to custom design, Webflow development, and launch. That keeps the work clear, fast, and easier to move forward without unnecessary delays.
+        - generic [ref=f10e197]:
+          - generic [ref=f10e198]:
+            - generic [ref=f10e199]:
+              - generic [ref=f10e201]: Step 1
+              - generic [ref=f10e202]: Plan
+            - generic [ref=f10e206]:
+              - generic [ref=f10e207]:
+                - heading "Gather Requirements" [level=3] [ref=f10e208]:
+                  - strong [ref=f10e209]: Gather Requirements
+                - paragraph [ref=f10e210]: Every project starts with understanding your goals, content, required pages, and references.
+              - generic [ref=f10e211]:
+                - img "Smiling man with beard waving during a video call interface on screen."
+          - generic [ref=f10e212]:
+            - generic [ref=f10e213]:
+              - generic [ref=f10e215]: Step 2
+              - generic [ref=f10e216]: Design
+            - generic [ref=f10e220]:
+              - generic [ref=f10e221]:
+                - heading "Create the UI/UX Direction" [level=3] [ref=f10e222]:
+                  - strong [ref=f10e223]: Create the UI/UX Direction
+                - paragraph [ref=f10e224]: With the structure in place, the visual design is created around your brand.
+              - generic [ref=f10e225]:
+                - img "Website homepage showing food delivery app with tagline 'Fast, Fresh & Delivered To Your Door' and app interface on mobile phones."
+          - generic [ref=f10e226]:
+            - generic [ref=f10e227]:
+              - generic [ref=f10e229]: Step 3
+              - generic [ref=f10e230]: Build
+            - generic [ref=f10e234]:
+              - generic [ref=f10e235]:
+                - heading "Develop, and Launch in Webflow" [level=3] [ref=f10e236]:
+                  - strong [ref=f10e237]: Develop, and Launch in Webflow
+                - paragraph [ref=f10e238]: After approval, the design is developed in Webflow, and prepared for a smooth launch.
+              - generic [ref=f10e239]:
+                - img "Dashboard interface on a tablet showing user welcome message, compliance score gauge at 94%, financial metrics, and usage statistics."
+      - generic [ref=f10e242]:
+        - generic [ref=f10e243]:
+          - generic [ref=f10e246]: Why Atlas Studio
+          - heading "What Makes Our Webflow Builds Worth It" [level=2] [ref=f10e247]
+        - generic [ref=f10e248]:
+          - generic [ref=f10e250]:
+            - heading "Custom, Not Template-Based" [level=3] [ref=f10e251]:
+              - strong [ref=f10e252]: Custom, Not Template-Based
+            - generic [ref=f10e253]: Every website is designed around your brand, content, and goals, so the final result feels distinct instead of off-the-shelf
+          - generic [ref=f10e256]:
+            - heading "Built to Launch Faster" [level=3] [ref=f10e257]:
+              - strong [ref=f10e258]: Built to Launch Faster
+            - generic [ref=f10e259]: A clear process keeps design and development moving together. It helps the site go live without dragging through weeks of unnecessary delay.
+          - generic [ref=f10e261]:
+            - heading "Easy to Manage Later" [level=3] [ref=f10e262]:
+              - strong [ref=f10e263]: Easy to Manage Later
+            - generic [ref=f10e264]: Clean structure and thoughtful setup make updates simpler. So, your team can manage content without constant friction.
+          - generic [ref=f10e267]:
+            - heading "Structured to Scale" [level=3] [ref=f10e268]:
+              - strong [ref=f10e269]: Structured to Scale
+            - generic [ref=f10e270]: The site is built with future growth in mind. This makes it easier to add pages, collections, and new content over time.
+          - generic [ref=f10e272]:
+            - heading "Polished in the Details" [level=3] [ref=f10e273]:
+              - strong [ref=f10e274]: Polished in the Details
+            - generic [ref=f10e275]: Well-handled interactions, spacing, and responsive behavior give the site a smoother feel across the whole experience.
+          - generic [ref=f10e277]:
+            - heading "Ready for Real Use" [level=3] [ref=f10e278]:
+              - strong [ref=f10e279]: Ready for Real Use
+            - generic [ref=f10e280]: Launch is not treated like the finish line alone. The final build is prepared to support marketing, content updates, and day-to-day business needs.
+      - generic [ref=f10e284]:
+        - generic [ref=f10e285]:
+          - generic [ref=f10e289]: Why Work With Atlas Studio
+          - generic [ref=f10e290]:
+            - heading "A Faster, More Thoughtful Way to Build in Webflow" [level=2] [ref=f10e291]
+            - generic [ref=f10e292]: From strategy to launch, the process stays focused, collaborative, and built around delivering custom Webflow websites without unnecessary delays.
+        - generic [ref=f10e293]:
+          - generic [ref=f10e295]:
+            - generic [ref=f10e296]: Fast Turnaround
+            - generic [ref=f10e297]: Projects move quickly without losing quality or attention to detail.
+          - generic [ref=f10e300]:
+            - strong [ref=f10e302]: Custom-First Approach
+            - generic [ref=f10e303]: Every site is shaped around the brand instead of forcing a template.
+          - generic [ref=f10e306]:
+            - strong [ref=f10e308]: Clear Communication
+            - generic [ref=f10e309]: Feedback, revisions, and progress stay organized from start to finish.
+          - generic [ref=f10e312]:
+            - generic [ref=f10e313]: Built for Growth
+            - generic [ref=f10e314]: The final site is easier to manage, expand, and improve over time.
+        - link "Start Your Project" [ref=f10e316] [cursor=pointer]:
+          - /url: /contact
+          - generic [ref=f10e318]: Start Your Project
+      - generic [ref=f10e323]:
+        - generic [ref=f10e324]:
+          - heading "Ready to Build Your Next Webflow Website?" [level=2] [ref=f10e325]
+          - generic [ref=f10e326]: We help SaaS and AI companies design and develop Webflow websites that look sharp, load fast, and support growth.
+        - link "Book a Discovery Call" [ref=f10e327] [cursor=pointer]:
+          - /url: https://api.whatsapp.com/send/?phone=16465987983&text&type=phone_number&app_absent=0
+          - generic [ref=f10e329]: Book a Discovery Call
+      - generic [ref=f10e332]:
+        - heading "What SaaS Teams Say About Working With Atlas Studio" [level=2] [ref=f10e333]
+        - generic [ref=f10e334]:
+          - tabpanel "client-1" [ref=f10e336]:
+            - generic [ref=f10e340]:
+              - generic [ref=f10e343]:
+                - generic [ref=f10e344]: Website Design
+                - generic [ref=f10e346]: App Design
+                - generic [ref=f10e348]: Branding
+              - generic [ref=f10e350]:
+                - generic [ref=f10e351]: "\"Atlas Studio has created remarkable work for The Whitney building that helped us define not just this individual building but the new direction in which we are heading as a group\""
+                - generic [ref=f10e352]:
+                  - generic [ref=f10e353]: Tiyahnn Bryant
+                  - generic [ref=f10e354]: CEO at RollUpLife Inc
+                - generic [ref=f10e355]:
+                  - generic [ref=f10e356]:
+                    - generic [ref=f10e357]:
+                      - generic [ref=f10e358]: 4X
+                      - generic [ref=f10e359]: Increase in design capacity
+                    - generic [ref=f10e360]:
+                      - generic [ref=f10e361]: 60%
+                      - generic [ref=f10e362]: Reduction in time to market
+                    - generic [ref=f10e363]:
+                      - generic [ref=f10e364]: 40+
+                      - generic [ref=f10e365]: Number of brands
+                  - generic [ref=f10e366]:
+                    - generic:
+                      - img "Smartphone displaying a digital weather app showing a sunny day with a temperature of 36 degrees Celsius."
+                    - generic [ref=f10e367]:
+                      - heading "GiveHub -" [level=3] [ref=f10e368]
+                      - generic [ref=f10e369]: Transparent Donation & Charity Platform
+          - tablist [ref=f10e370]:
+            - tab "client-1" [selected] [ref=f10e371] [cursor=pointer]:
+              - img "Logo of XL Axiata with the text 'Raih Performa Tertinggi' next to an orange 'XL' in a rounded square."
+            - tab "client-2" [ref=f10e372] [cursor=pointer]
+            - tab "aria-label-3" [ref=f10e373] [cursor=pointer]:
+              - img "Casa de las Letras logo with an open book and purple text."
+            - tab "client-4" [ref=f10e374] [cursor=pointer]
+            - tab "client-7" [ref=f10e375] [cursor=pointer]
+            - tab "client-5" [ref=f10e376] [cursor=pointer]
+            - tab "client-6" [ref=f10e377] [cursor=pointer]
+            - tab "client-8" [ref=f10e378] [cursor=pointer]
+      - generic [ref=f10e381]:
+        - generic [ref=f10e382]:
+          - generic [ref=f10e385]: RESOURCES
+          - heading "Get deeper insights, tips, and real talk from the blog." [level=2] [ref=f10e386]
+        - list [ref=f10e388]:
+          - listitem [ref=f10e389]:
+            - link "Thumbnail illustrating website design cost for a B2B SaaS company with pricing guidance and cost estimation for modern SaaS websites. Web Design 10 Min How Much Does Website Design Cost for a B2B SaaS Company? B2B SaaS website design costs $5,000 to $150,000 or more. See real price ranges by stage, what drives the cost, and how to budget yours right." [ref=f10e390] [cursor=pointer]:
+              - /url: /blogs/website-design-cost
+              - img "Thumbnail illustrating website design cost for a B2B SaaS company with pricing guidance and cost estimation for modern SaaS websites." [ref=f10e392]
+              - generic [ref=f10e393]:
+                - generic [ref=f10e394]: Web Design
+                - generic [ref=f10e395]: 10 Min
+              - generic [ref=f10e396]:
+                - heading "How Much Does Website Design Cost for a B2B SaaS Company?" [level=3] [ref=f10e397]
+                - generic [ref=f10e398]: B2B SaaS website design costs $5,000 to $150,000 or more. See real price ranges by stage, what drives the cost, and how to budget yours right.
+          - listitem [ref=f10e399]:
+            - 'link "Healthcare website design cost in 2026 featuring pricing categories for medical website development and custom healthcare web design. Web Design 15 Min Healthcare Website Design Cost: Complete Pricing Guide for Clinics, Hospitals & Medical Practices See average healthcare website pricing, cost by organization type, HIPAA compliance costs, feature pricing, and practical budgeting advice for healthcare providers." [ref=f10e400] [cursor=pointer]':
+              - /url: /blogs/healthcare-website-design-cost
+              - img "Healthcare website design cost in 2026 featuring pricing categories for medical website development and custom healthcare web design." [ref=f10e402]
+              - generic [ref=f10e403]:
+                - generic [ref=f10e404]: Web Design
+                - generic [ref=f10e405]: 15 Min
+              - generic [ref=f10e406]:
+                - 'heading "Healthcare Website Design Cost: Complete Pricing Guide for Clinics, Hospitals & Medical Practices" [level=3] [ref=f10e407]'
+                - generic [ref=f10e408]: See average healthcare website pricing, cost by organization type, HIPAA compliance costs, feature pricing, and practical budgeting advice for healthcare providers.
+          - listitem [ref=f10e409]:
+            - link "Healthcare website design trends thumbnail showcasing telemedicine, patient portal UX, responsive medical website design, accessibility, and modern healthcare digital experiences. Web Design 15 Min Healthcare Web Design Trends in 2026 Healthcare web design trends are rewriting patient trust. See 10 patterns, a 30-feature analysis table, and the self-audit every clinic needs in 2026." [ref=f10e410] [cursor=pointer]:
+              - /url: /blogs/healthcare-web-design-trends
+              - img "Healthcare website design trends thumbnail showcasing telemedicine, patient portal UX, responsive medical website design, accessibility, and modern healthcare digital experiences." [ref=f10e412]
+              - generic [ref=f10e413]:
+                - generic [ref=f10e414]: Web Design
+                - generic [ref=f10e415]: 15 Min
+              - generic [ref=f10e416]:
+                - heading "Healthcare Web Design Trends in 2026" [level=3] [ref=f10e417]
+                - generic [ref=f10e418]: Healthcare web design trends are rewriting patient trust. See 10 patterns, a 30-feature analysis table, and the self-audit every clinic needs in 2026.
+        - link "View All Blog" [ref=f10e419] [cursor=pointer]:
+          - /url: /blogs
+          - generic [ref=f10e421]: View All Blog
+      - generic [ref=f10e425]:
+        - generic [ref=f10e426]:
+          - generic [ref=f10e427]:
+            - generic [ref=f10e428]:
+              - heading "Got Questions?" [level=2] [ref=f10e429]
+              - heading "We’ve Got Answers" [level=2] [ref=f10e430]
+            - paragraph [ref=f10e431]: If you’re unsure where to start or want to see how we can help, reach out, and we’ll walk you through it.
+          - generic [ref=f10e432]:
+            - generic [ref=f10e433]:
+              - generic [ref=f10e434]:
+                - heading "Book an Intro Call" [level=3] [ref=f10e435]
+                - generic [ref=f10e436]: Let’s talk through your goals, your timeline, and how Atlas Studio can support your team.
+              - link "Book a Call" [ref=f10e437] [cursor=pointer]:
+                - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+                - generic [ref=f10e439]: Book a Call
+            - generic [ref=f10e443]:
+              - generic [ref=f10e444]: Do you prefer email communication?
+              - link "hello@atlastudio.in" [ref=f10e445] [cursor=pointer]:
+                - /url: mailto:hello@atlastudio.in
+        - generic [ref=f10e446]:
+          - generic [ref=f10e447]:
+            - button "What does a Webflow agency do that a freelancer can't?" [ref=f10e448] [cursor=pointer]:
+              - heading "What does a Webflow agency do that a freelancer can't?" [level=3] [ref=f10e450]
+            - navigation "What does a Webflow agency do that a freelancer can't?":
+              - paragraph [ref=f10e455]: A Webflow agency brings a team of a designer, a developer, a copywriter, and a QA layer on one contract. A freelancer is great for a small site. An agency is what you need when the build includes CMS architecture, 50+ pages, custom interactions, SEO setup, and integrations with your stack. Different jobs, different tools.
+          - generic [ref=f10e456]:
+            - button "How much does a Webflow website cost from an agency in 2026?" [ref=f10e457] [cursor=pointer]:
+              - heading "How much does a Webflow website cost from an agency in 2026?" [level=3] [ref=f10e459]
+            - navigation "How much does a Webflow website cost from an agency in 2026?":
+              - paragraph [ref=f10e464]: A marketing site from a quality Webflow agency sits at $5,000 - $15,000 in 2026. Larger CMS-driven sites run $15,000 - $50,000. Our Startup plan ships a conversion-ready Webflow site inside $2,999/month (100 hours) so you get design, build, and copy as one deliverable, not three invoices.
+          - generic [ref=f10e465]:
+            - button "How long does it take to design and build a Webflow site?" [ref=f10e466] [cursor=pointer]:
+              - heading "How long does it take to design and build a Webflow site?" [level=3] [ref=f10e468]
+            - navigation "How long does it take to design and build a Webflow site?":
+              - paragraph [ref=f10e473]: A focused marketing site ships in two weeks with our Startup plan. A full brand site with 30+ pages and a CMS takes three to six weeks. Migrations from WordPress or Framer usually add one to two weeks depending on content volume. We hold weekly checkpoints so you always know which week you're in.
+          - generic [ref=f10e474]:
+            - button "Can you migrate our existing WordPress or Framer site to Webflow?" [ref=f10e475] [cursor=pointer]:
+              - heading "Can you migrate our existing WordPress or Framer site to Webflow?" [level=3] [ref=f10e477]
+            - navigation "Can you migrate our existing WordPress or Framer site to Webflow?":
+              - paragraph [ref=f10e482]: "Yes we handle WordPress, Framer, Wix, Squarespace, and static-site migrations to Webflow regularly. The work is part rebuild, part import: we structure your CMS in Webflow, port your content, preserve your URLs, set up 301s, and re-submit the sitemap to Google so rankings don't drop."
+          - generic [ref=f10e483]:
+            - button "Is Webflow good for SEO, or do we lose rankings when we migrate?" [ref=f10e484] [cursor=pointer]:
+              - heading "Is Webflow good for SEO, or do we lose rankings when we migrate?" [level=3] [ref=f10e486]
+            - navigation "Is Webflow good for SEO, or do we lose rankings when we migrate?":
+              - paragraph [ref=f10e491]: Webflow is strong for SEO fast hosting, clean semantic HTML, built-in schema, editable meta tags, and auto-optimized images. You only lose rankings if a migration is done lazily. Done right (URL-map preserved, 301 redirects in place, sitemap re-indexed, Core Web Vitals checked), most clients see rankings hold or climb within 30 days.
+          - generic [ref=f10e492]:
+            - button "What makes Atlas Studio different from other UI/UX design agencies?" [ref=f10e493] [cursor=pointer]:
+              - heading "What makes Atlas Studio different from other UI/UX design agencies?" [level=3] [ref=f10e495]
+            - navigation "What makes Atlas Studio different from other UI/UX design agencies?":
+              - paragraph [ref=f10e500]: You do, always. We transfer the Webflow project to your workspace at launch, with admin access assigned to you. Your domain, your billing, your site. We don't hold projects hostage and we don't upcharge for transfers. If you ever leave Atlas Studio, your site leaves with you no ransom.
+          - generic [ref=f10e501]:
+            - button "Will my team be able to edit the site after launch?" [ref=f10e502] [cursor=pointer]:
+              - heading "Will my team be able to edit the site after launch?" [level=3] [ref=f10e504]
+            - navigation "Will my team be able to edit the site after launch?":
+              - paragraph [ref=f10e509]: Yes. Webflow's Editor role lets marketers and founders update copy, images, CMS posts, and SEO fields without touching the Designer view. We leave you a short Loom walkthrough plus a written cheat-sheet, so a new hire can publish a blog post in fifteen minutes, not a support ticket.
+          - generic [ref=f10e510]:
+            - button "Can you build custom interactions, animations, and CMS structures in Webflow?" [ref=f10e511] [cursor=pointer]:
+              - heading "Can you build custom interactions, animations, and CMS structures in Webflow?" [level=3] [ref=f10e513]
+            - navigation "Can you build custom interactions, animations, and CMS structures in Webflow?":
+              - paragraph [ref=f10e518]: Yes from scroll-triggered animations and multi-state hovers to nested CMS collections, multi-reference fields, and dynamic filters. We use GSAP, Lottie, and Webflow's native interactions as the toolkit. Where the platform hits a ceiling (complex auth, deep dashboards), we integrate Xano, Memberstack, or a custom API.
+          - generic [ref=f10e519]:
+            - button "What are the hidden costs of running a Webflow site?" [ref=f10e520] [cursor=pointer]:
+              - heading "What are the hidden costs of running a Webflow site?" [level=3] [ref=f10e522]
+            - navigation "What are the hidden costs of running a Webflow site?":
+              - paragraph [ref=f10e527]: Budget for Webflow hosting ($15 - $235/month depending on CMS size), a workspace seat ($19 - $49/month per editor), and any third-party add-ons (Memberstack, Finsweet Attributes, Jetboost). Total stack usually lands at $40 - $300/month post-launch. No dev servers, no plugin maintenance, no monthly security patches, that's where the savings come back.
+          - generic [ref=f10e528]:
+            - button "Webflow vs Framer vs WordPress which should our startup pick?" [ref=f10e529] [cursor=pointer]:
+              - heading "Webflow vs Framer vs WordPress which should our startup pick?" [level=3] [ref=f10e531]: Webflow vs Framer vs WordPress which should our startup pick?
+            - navigation "Webflow vs Framer vs WordPress which should our startup pick?":
+              - paragraph [ref=f10e536]: Pick Webflow when you need a CMS, custom interactions, and team-editable content (most SaaS sites). Pick Framer when you want fast, design-first marketing pages with tight motion (best for funded startups with heavy brand needs). Pick WordPress when SEO depth, plugins, or e-commerce complexity demand it. For B2B SaaS in 2026, Webflow is our default.
+      - generic [ref=f10e539]:
+        - heading "Present on Top Creative Platforms" [level=2] [ref=f10e540]
+        - generic [ref=f10e541]:
+          - link "10+ Projects Live" [ref=f10e542] [cursor=pointer]:
+            - /url: https://webflow.com/templates/designers/orbix-studio
+            - generic [ref=f10e545]: 10+ Projects Live
+          - generic [ref=f10e550]: 5+ Projects Live
+          - link "Top Worldwide" [ref=f10e552] [cursor=pointer]:
+            - /url: https://dribbble.com/atlastudio
+            - generic [ref=f10e555]: Top Worldwide
+          - link "42+ Badges" [ref=f10e557] [cursor=pointer]:
+            - /url: https://www.behance.net/atlastudio
+            - generic [ref=f10e560]: 42+ Badges
+          - link "450+ Reviews" [ref=f10e562] [cursor=pointer]:
+            - /url: https://www.fiverr.com/aparicitshohan
+            - generic [ref=f10e565]: 450+ Reviews
+          - link "43+ Reviews" [ref=f10e567] [cursor=pointer]:
+            - /url: https://clutch.co/profile/orbix-studio
+            - generic [ref=f10e570]: 43+ Reviews
+          - link "52+ Reviews" [ref=f10e572] [cursor=pointer]:
+            - /url: https://www.goodfirms.co/company/orbix-studio-llc
+            - generic [ref=f10e575]: 52+ Reviews
+          - link "5+ Projects Live" [ref=f10e577] [cursor=pointer]:
+            - /url: https://www.designrush.com/agency/profile/orbix-studio
+            - generic [ref=f10e580]: 5+ Projects Live
+      - generic [ref=f10e584]:
+        - generic [ref=f10e585]:
+          - generic [ref=f10e586]:
+            - heading "Got a project in mind? Let's build it" [level=2] [ref=f10e587]
+            - generic [ref=f10e588]: We'll schedule a call to discuss your idea. After discovery sessions, we'll send a proposal, and upon approval, we'll get started.
+          - generic [ref=f10e589]:
+            - generic [ref=f10e590]:
+              - generic [ref=f10e591]:
+                - img "Portrait of a man with short black hair and beard, wearing a black suit and tie with a pale green background."
+              - generic [ref=f10e592]:
+                - generic [ref=f10e593]: Shohanur Rahman
+                - generic [ref=f10e594]: Founder & CEO
+            - generic [ref=f10e595]:
+              - generic:
+                - img "Three men smiling, arranged in a row with circular frames around their faces against a white background."
+              - generic [ref=f10e598]: 300+ Scaled Brands
+        - form "Contact Submission" [ref=f10e601]:
+          - generic [ref=f10e602]:
+            - generic [ref=f10e603]: Your Name*
+            - textbox "Your Name* Full Name*" [ref=f10e604]:
+              - /placeholder: John Smith
+          - generic [ref=f10e605]:
+            - generic [ref=f10e606]: Email*
+            - textbox "Email* Email*" [ref=f10e607]:
+              - /placeholder: you@company.com
+          - generic [ref=f10e608]:
+            - generic [ref=f10e609]:
+              - strong [ref=f10e610]: Company name
+              - text: "*"
+            - textbox "Company name*" [ref=f10e611]:
+              - /placeholder: You company
+          - generic [ref=f10e612]:
+            - generic [ref=f10e613]: Whatsapp Number*
+            - generic [ref=f10e614]:
+              - generic [ref=f10e615]:
+                - 'combobox "United States: +1" [ref=f10e617]'
+                - textbox "(201) 555-0123" [ref=f10e620]
+              - generic [ref=f10e621]: Valid number
+          - generic [ref=f10e622]:
+            - generic [ref=f10e623]: Project budget*
+            - combobox "Project budget* Project budget*" [ref=f10e624]:
+              - option "Select range..." [selected]
+              - option "Under $2K"
+              - option "$2K – $5K"
+              - option "$5K – $10K"
+              - option "$10K – $25K"
+              - option "$25K+"
+          - generic [ref=f10e625]:
+            - generic [ref=f10e626]: Service required*
+            - combobox "Service required*" [ref=f10e627]:
+              - option "Select service..." [selected]
+              - option "UI/UX Design"
+              - option "SaaS Design"
+              - option "Branding"
+              - option "CRO"
+              - option "Mobile App"
+              - option "Development"
+              - option "MVP"
+              - option "Web design"
+          - generic [ref=f10e628]:
+            - generic [ref=f10e629]: Heard about us?*
+            - generic [ref=f10e630]:
+              - generic [ref=f10e632]: Clutch
+              - generic [ref=f10e634]: Chatgpt
+              - generic [ref=f10e636]: Google
+              - generic [ref=f10e638]: Bedance
+              - generic [ref=f10e640]: Dribble
+              - generic [ref=f10e642]: Others
+          - generic [ref=f10e643]:
+            - generic [ref=f10e644]: Project details*
+            - textbox "Project details*" [ref=f10e645]:
+              - /placeholder: Tell us about your project
+            - generic [ref=f10e646]:
+              - checkbox "Happy to get once week trail (20hrs)" [ref=f10e648]
+              - generic [ref=f10e649]: Happy to get once week trail (20hrs)
+          - generic [ref=f10e650]:
+            - button "Send inquiry" [ref=f10e651]
+            - generic [ref=f10e652]:
+              - link "Prefer Email?" [ref=f10e654] [cursor=pointer]:
+                - /url: mailto:hello@atlastudio.in
+              - link "Book A Call Directly" [ref=f10e655] [cursor=pointer]:
+                - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+    - generic [ref=f10e659]:
+      - generic [ref=f10e662]:
+        - generic [ref=f10e663]:
+          - generic [ref=f10e664]:
+            - link "Atlas Studio":
+              - /url: /
+              - img "Atlas Studio"
+            - generic [ref=f10e665]:
+              - heading "Atlas Studio" [level=3] [ref=f10e666]
+              - generic [ref=f10e667]: We design and build scalable digital products that support complex workflows and business-critical systems.
+            - link "Company Deck" [ref=f10e668] [cursor=pointer]:
+              - /url: https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing
+              - generic [ref=f10e670]: Company Deck
+          - generic [ref=f10e672]:
+            - generic [ref=f10e673]:
+              - generic [ref=f10e674]: Services
+              - generic [ref=f10e675]:
+                - link "UI/UX Design" [ref=f10e676] [cursor=pointer]:
+                  - /url: /services/ui-ux-design
+                - link "Web Development" [ref=f10e677] [cursor=pointer]:
+                  - /url: /services/full-stack-development
+                - link "AI Creative Production" [ref=f10e678] [cursor=pointer]:
+                  - /url: /services/ai-creative-production
+                - link "Webflow" [ref=f10e679] [cursor=pointer]:
+                  - /url: /services/webflow-expert-agency
+                - link "MVP Development" [ref=f10e680] [cursor=pointer]:
+                  - /url: /services/mvp-development
+                - generic [ref=f10e681]: Framer
+                - link "SaaS Design" [ref=f10e682] [cursor=pointer]:
+                  - /url: /services/saas-design
+                - link "Custom Illustration" [ref=f10e683] [cursor=pointer]:
+                  - /url: /services/custom-illustration
+                - link "Mobile App" [ref=f10e684] [cursor=pointer]:
+                  - /url: /services/mobile-app-development
+                - link "Motion Design" [ref=f10e685] [cursor=pointer]:
+                  - /url: /services/motion-design
+                - link "Branding" [ref=f10e686] [cursor=pointer]:
+                  - /url: /services/brand-design
+                - link "Creative Marketing" [ref=f10e687] [cursor=pointer]:
+                  - /url: /services/creative-marketing
+            - generic [ref=f10e688]:
+              - generic [ref=f10e689]:
+                - generic [ref=f10e690]: Quick Links
+                - generic [ref=f10e691]:
+                  - link "Case Studies" [ref=f10e692] [cursor=pointer]:
+                    - /url: /case-studies
+                  - link "About" [ref=f10e693] [cursor=pointer]:
+                    - /url: /about
+                  - link "Pricing" [ref=f10e694] [cursor=pointer]:
+                    - /url: /pricing
+                  - link "Careers" [ref=f10e695] [cursor=pointer]:
+                    - /url: /career
+                  - link "Blog" [ref=f10e696] [cursor=pointer]:
+                    - /url: /blogs
+                  - link "Contact" [ref=f10e697] [cursor=pointer]:
+                    - /url: /contact
+              - generic [ref=f10e698]:
+                - generic [ref=f10e699]: Follow Us
+                - generic [ref=f10e700]:
+                  - link "Facebook" [ref=f10e701] [cursor=pointer]:
+                    - /url: https://www.facebook.com/atlastudioLLC/
+                  - link "LinkedIn" [ref=f10e702] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/atlastudio/
+                  - link "Instagram" [ref=f10e703] [cursor=pointer]:
+                    - /url: https://www.instagram.com/atlastudio/?hl=en
+                  - link "(X) Twitter" [ref=f10e704] [cursor=pointer]:
+                    - /url: https://x.com/AtlasStudio
+                  - link "Pinterest" [ref=f10e705] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/atlastudio/
+                  - link "Dribbble" [ref=f10e706] [cursor=pointer]:
+                    - /url: https://dribbble.com/atlastudio
+                  - link "Behance" [ref=f10e707] [cursor=pointer]:
+                    - /url: https://www.behance.net/atlastudio
+        - generic [ref=f10e709]:
+          - generic [ref=f10e710]:
+            - generic [ref=f10e711]:
+              - generic [ref=f10e712]: Email us
+              - link "hello@atlastudio.in" [ref=f10e713] [cursor=pointer]:
+                - /url: mailto:hello@atlastudio.in
+            - generic [ref=f10e714]:
+              - generic [ref=f10e715]: Call Us
+              - link "+1 (646) 598-7983" [ref=f10e717] [cursor=pointer]:
+                - /url: https://wa.me/16465987983
+          - generic [ref=f10e718]:
+            - generic [ref=f10e719]: Limited Liability Company Based In
+            - generic [ref=f10e720]:
+              - generic [ref=f10e722]:
+                - generic [ref=f10e723]:
+                  - generic:
+                    - img "flug"
+                  - generic [ref=f10e724]:
+                    - generic [ref=f10e725]: NEW YORK
+                    - generic [ref=f10e726]: 88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States
+                - img "Shape" [ref=f10e728]
+              - generic [ref=f10e731]:
+                - generic:
+                  - img "flug"
+                - generic [ref=f10e732]:
+                  - generic [ref=f10e733]: KSA
+                  - generic [ref=f10e734]: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia
+                - img "Shape" [ref=f10e736]
+              - generic [ref=f10e739]:
+                - generic:
+                  - img "flug"
+                - generic [ref=f10e740]:
+                  - generic [ref=f10e741]: DUBAI
+                  - generic [ref=f10e742]: 35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates
+                - img "Shape" [ref=f10e744]
+              - generic [ref=f10e747]:
+                - generic:
+                  - img "flug"
+                - generic [ref=f10e748]:
+                  - generic [ref=f10e749]: DHAKA
+                  - generic [ref=f10e750]: OPL Ayub Tower, Dhaka 1216
+                - img "Shape" [ref=f10e752]
+      - generic [ref=f10e756]:
+        - generic [ref=f10e757]: © 2023-2026, Atlas Studio | All Rights Reserved.
+        - generic [ref=f10e758]:
+          - link "Terms of Services" [ref=f10e759] [cursor=pointer]:
+            - /url: /terms-of-service
+          - link "Privacy Policy" [ref=f10e760] [cursor=pointer]:
+            - /url: /privacy-policy
+          - link "Refund Policy" [ref=f10e761] [cursor=pointer]:
+            - /url: /refund-policy

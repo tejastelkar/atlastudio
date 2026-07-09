@@ -1,0 +1,1250 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "home" [ref=e6]:
+        - /url: /
+        - img "Orbix Studio" [ref=e7]
+      - navigation [ref=e8]:
+        - button "Services" [ref=e10] [cursor=pointer]:
+          - link "Services" [ref=e11]:
+            - /url: /services
+        - button "Case Studies (42)" [ref=e14] [cursor=pointer]:
+          - link "Case Studies (42)" [ref=e15]:
+            - /url: /case-studies
+            - text: Case Studies
+            - superscript [ref=e16]: (42)
+        - button "Pricing" [ref=e18] [cursor=pointer]:
+          - link "Pricing" [ref=e19]:
+            - /url: /pricing
+        - link "About Us" [ref=e20]:
+          - /url: /about
+          - generic [ref=e21]: About Us
+        - button "Blog" [ref=e23] [cursor=pointer]:
+          - link "Blog" [ref=e24]:
+            - /url: /blogs
+        - button "Resources" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27]: Resources
+      - link "Contact Us" [ref=e29]:
+        - /url: /contact
+        - generic [ref=e31]: Contact Us
+  - main [ref=e32]:
+    - generic [ref=e36]:
+      - generic [ref=e39]: Our blogs
+      - generic [ref=e40]:
+        - heading "Get valuable and useful insights in our design blog" [level=1] [ref=e41]
+        - generic [ref=e42]: Explore innovative concepts, actionable advice, and expert insights on the Orbix Studio blog, empowering your team to excel in design projects.
+    - generic [ref=e46]:
+      - tablist [ref=e47]:
+        - tab "All" [selected] [ref=e48]:
+          - generic [ref=e49]: All
+        - tab "UI/UX Design" [ref=e50]:
+          - generic [ref=e51]: UI/UX Design
+        - tab "Web Design" [ref=e52]:
+          - generic [ref=e53]: Web Design
+        - tab "Branding" [ref=e54]:
+          - generic [ref=e55]: Branding
+        - tab "Product Design" [ref=e56]:
+          - generic [ref=e57]: Product Design
+        - tab "AI" [ref=e58]:
+          - generic [ref=e59]: AI
+        - tab "Mobile Apps" [ref=e60]:
+          - generic [ref=e61]: Mobile Apps
+        - tab "Development" [ref=e62]:
+          - generic [ref=e63]: Development
+        - tab "Color" [ref=e64]:
+          - generic [ref=e65]: Color
+        - tab "SaaS" [ref=e66]:
+          - generic [ref=e67]: SaaS
+      - tabpanel "All" [ref=e69]:
+        - list [ref=e71]:
+          - listitem [ref=e72]:
+            - link "SaaS dark mode UI design concept showing a modern dark interface with red lighting, highlighting best practices for accessibility, color systems, readability, and user experience. SaaS 10 Min SaaS Dark Mode UI Design Best Practices for Better User Experience Learn how to create a better SaaS dark mode UI design with proven UX principles, accessibility best practices, scalable color systems, real-world examples, and practical design tips." [ref=e73]:
+              - /url: /blogs/saas-dark-mode-ui-design
+              - generic:
+                - img "SaaS dark mode UI design concept showing a modern dark interface with red lighting, highlighting best practices for accessibility, color systems, readability, and user experience."
+              - generic [ref=e74]:
+                - generic [ref=e75]: SaaS
+                - generic [ref=e77]: 10 Min
+              - generic [ref=e78]:
+                - heading "SaaS Dark Mode UI Design Best Practices for Better User Experience" [level=3] [ref=e79]
+                - generic [ref=e80]: Learn how to create a better SaaS dark mode UI design with proven UX principles, accessibility best practices, scalable color systems, real-world examples, and practical design tips.
+          - listitem [ref=e81]:
+            - 'link "Webflow vs WordPress comparison showing the Webflow visual builder and WordPress dashboard with features, performance, SEO, and CMS differences for B2B SaaS websites. Development 10 Min Webflow vs WordPress: Which Is Right for B2B/SaaS Not sure whether to choose Webflow or WordPress? Compare features, SEO, speed, costs, and scalability to find the best fit for your B2B SaaS website." [ref=e82]':
+              - /url: /blogs/webflow-vs-wordpress
+              - img "Webflow vs WordPress comparison showing the Webflow visual builder and WordPress dashboard with features, performance, SEO, and CMS differences for B2B SaaS websites." [ref=e84]
+              - generic [ref=e85]:
+                - generic [ref=e86]: Development
+                - generic [ref=e88]: 10 Min
+              - generic [ref=e89]:
+                - 'heading "Webflow vs WordPress: Which Is Right for B2B/SaaS" [level=3] [ref=e90]'
+                - generic [ref=e91]: Not sure whether to choose Webflow or WordPress? Compare features, SEO, speed, costs, and scalability to find the best fit for your B2B SaaS website.
+          - listitem [ref=e92]:
+            - link "UI/UX design cost in Dubai illustrated with the Dubai skyline, design dashboard, pricing estimates, and project planning workspace representing the 2026 pricing guide. UI/UX Design 15 Min How Much Does UI/UX Design Cost in Dubai? 2026 Pricing Guide UI/UX design in Dubai costs AED 6,000 to AED 550,000+ depending on scope. See real 2026 hourly rates, project pricing, and hidden cost drivers." [ref=e93]:
+              - /url: /blogs/ui-ux-design-cost-dubai
+              - img "UI/UX design cost in Dubai illustrated with the Dubai skyline, design dashboard, pricing estimates, and project planning workspace representing the 2026 pricing guide." [ref=e95]
+              - generic [ref=e96]:
+                - generic [ref=e97]: UI/UX Design
+                - generic [ref=e99]: 15 Min
+              - generic [ref=e100]:
+                - heading "How Much Does UI/UX Design Cost in Dubai? 2026 Pricing Guide" [level=3] [ref=e101]
+                - generic [ref=e102]: UI/UX design in Dubai costs AED 6,000 to AED 550,000+ depending on scope. See real 2026 hourly rates, project pricing, and hidden cost drivers.
+          - listitem [ref=e103]:
+            - link "Illustration of the SaaS aha moment showing user activation, engagement metrics, and growth dashboard representing the first value realization in a SaaS product. SaaS 10 Min What Is the Aha Moment in SaaS? Definition, Types & Examples in 2026 New SaaS users decide fast whether your product is worth keeping. Learn what the aha moment in SaaS really means and how to help users reach it faster." [ref=e104]:
+              - /url: /blogs/aha-moment-saas
+              - img "Illustration of the SaaS aha moment showing user activation, engagement metrics, and growth dashboard representing the first value realization in a SaaS product." [ref=e106]
+              - generic [ref=e107]:
+                - generic [ref=e108]: SaaS
+                - generic [ref=e110]: 10 Min
+              - generic [ref=e111]:
+                - heading "What Is the Aha Moment in SaaS? Definition, Types & Examples in 2026" [level=3] [ref=e112]
+                - generic [ref=e113]: New SaaS users decide fast whether your product is worth keeping. Learn what the aha moment in SaaS really means and how to help users reach it faster.
+          - listitem [ref=e114]:
+            - 'link "Brand style guide book with logo guidelines, color palette, typography, iconography, and visual identity standards for consistent branding in 2026. Branding Design 10 Min Brand Style Guide: How to Build One in 2026 Building a brand style guide? See the 5-step process, real agency and DIY costs, plus the accessibility and AI content rules 2026 guides skip." [ref=e115]':
+              - /url: /blogs/brand-style-guide
+              - generic:
+                - img "Brand style guide book with logo guidelines, color palette, typography, iconography, and visual identity standards for consistent branding in 2026."
+              - generic [ref=e116]:
+                - generic [ref=e117]: Branding Design
+                - generic [ref=e119]: 10 Min
+              - generic [ref=e120]:
+                - 'heading "Brand Style Guide: How to Build One in 2026" [level=3] [ref=e121]'
+                - generic [ref=e122]: Building a brand style guide? See the 5-step process, real agency and DIY costs, plus the accessibility and AI content rules 2026 guides skip.
+          - listitem [ref=e123]:
+            - 'link "Modern contact form UI design with name, email, company, message fields, and a prominent call-to-action button for SaaS and business websites. UI/UX Design 10 Min Contact Form Design: How to Choose the Right Approach for Your Site Picking a contact form design approach? See the decision framework, real UX research, and examples top SaaS teams use to convert more visitors." [ref=e124]':
+              - /url: /blogs/contact-form-design
+              - img "Modern contact form UI design with name, email, company, message fields, and a prominent call-to-action button for SaaS and business websites." [ref=e126]
+              - generic [ref=e127]:
+                - generic [ref=e128]: UI/UX Design
+                - generic [ref=e130]: 10 Min
+              - generic [ref=e131]:
+                - 'heading "Contact Form Design: How to Choose the Right Approach for Your Site" [level=3] [ref=e132]'
+                - generic [ref=e133]: Picking a contact form design approach? See the decision framework, real UX research, and examples top SaaS teams use to convert more visitors.
+          - listitem [ref=e134]:
+            - 'link "Dark-themed drag and drop UI design interface with visual builder, draggable image card, dashboard layout, and modern SaaS editor concept. UI/UX Design 10 Min Drag and Drop UI Design: Choosing the Right Approach for SaaS Choosing how to build drag and drop UI for your SaaS product? Compare libraries, no-code tools, and custom builds, plus the accessibility rules teams skip." [ref=e135]':
+              - /url: /blogs/drag-and-drop-ui-design
+              - img "Dark-themed drag and drop UI design interface with visual builder, draggable image card, dashboard layout, and modern SaaS editor concept." [ref=e137]
+              - generic [ref=e138]:
+                - generic [ref=e139]: UI/UX Design
+                - generic [ref=e141]: 10 Min
+              - generic [ref=e142]:
+                - 'heading "Drag and Drop UI Design: Choosing the Right Approach for SaaS" [level=3] [ref=e143]'
+                - generic [ref=e144]: Choosing how to build drag and drop UI for your SaaS product? Compare libraries, no-code tools, and custom builds, plus the accessibility rules teams skip.
+          - listitem [ref=e145]:
+            - 'link "Editorial SaaS free trial landing page hero design featuring a user working on a laptop with a modern landing page concept focused on increasing free trial conversions. SaaS 15 Min SaaS Free Trial Landing Page: Anatomy of a Page That Converts SaaS free trial landing pages leak signups from friction, not traffic. See the 8 elements, 10 real examples, and 2026 benchmarks that fix it." [ref=e146]':
+              - /url: /blogs/saas-free-trial-landing-page
+              - generic:
+                - img "Editorial SaaS free trial landing page hero design featuring a user working on a laptop with a modern landing page concept focused on increasing free trial conversions."
+              - generic [ref=e147]:
+                - generic [ref=e148]: SaaS
+                - generic [ref=e150]: 15 Min
+              - generic [ref=e151]:
+                - 'heading "SaaS Free Trial Landing Page: Anatomy of a Page That Converts" [level=3] [ref=e152]'
+                - generic [ref=e153]: SaaS free trial landing pages leak signups from friction, not traffic. See the 8 elements, 10 real examples, and 2026 benchmarks that fix it.
+          - listitem [ref=e154]:
+            - 'link "SaaS 15 Min SaaS Hero Section Design: A Complete Guide 2026 SaaS hero section design decides if visitors stay or leave in seconds. See the anatomy, real teardown examples, and mistakes to avoid" [ref=e155]':
+              - /url: /blogs/saas-hero-section-design
+              - generic [ref=e156]:
+                - generic [ref=e157]: SaaS
+                - generic [ref=e159]: 15 Min
+              - generic [ref=e160]:
+                - 'heading "SaaS Hero Section Design: A Complete Guide 2026" [level=3] [ref=e161]'
+                - generic [ref=e162]: SaaS hero section design decides if visitors stay or leave in seconds. See the anatomy, real teardown examples, and mistakes to avoid
+          - listitem [ref=e163]:
+            - 'link "Editorial SaaS design sprint thumbnail with bold typography and a blue abstract background representing a five-day product design sprint for B2B SaaS teams to validate ideas before development. SaaS 10 Min SaaS Design Sprint: What It Is, When to Use It, How to Run One Weighing whether a SaaS design sprint is worth five days of your team''s time? See the real five-day process, true costs, and when to skip it entirely." [ref=e164]':
+              - /url: /blogs/saas-design-sprint
+              - img "Editorial SaaS design sprint thumbnail with bold typography and a blue abstract background representing a five-day product design sprint for B2B SaaS teams to validate ideas before development." [ref=e166]
+              - generic [ref=e167]:
+                - generic [ref=e168]: SaaS
+                - generic [ref=e170]: 10 Min
+              - generic [ref=e171]:
+                - 'heading "SaaS Design Sprint: What It Is, When to Use It, How to Run One" [level=3] [ref=e172]'
+                - generic [ref=e173]: Weighing whether a SaaS design sprint is worth five days of your team's time? See the real five-day process, true costs, and when to skip it entirely.
+          - listitem [ref=e174]:
+            - 'link "B2B SaaS product redesign thumbnail featuring a modern editorial design with bold typography and an orange gradient background, highlighting a complete guide to redesigning SaaS products for better user experience and business growth. SaaS 10 Min SaaS Product Redesign: Know When It Is Time and How to Do It Right A SaaS product redesign only pays off when timed right. See the real signs, 2026 costs, and how to change your product without losing users." [ref=e175]':
+              - /url: /blogs/saas-product-redesign
+              - generic:
+                - img "B2B SaaS product redesign thumbnail featuring a modern editorial design with bold typography and an orange gradient background, highlighting a complete guide to redesigning SaaS products for better user experience and business growth."
+              - generic [ref=e176]:
+                - generic [ref=e177]: SaaS
+                - generic [ref=e179]: 10 Min
+              - generic [ref=e180]:
+                - 'heading "SaaS Product Redesign: Know When It Is Time and How to Do It Right" [level=3] [ref=e181]'
+                - generic [ref=e182]: A SaaS product redesign only pays off when timed right. See the real signs, 2026 costs, and how to change your product without losing users.
+          - listitem [ref=e183]:
+            - 'link "SaaS navigation design concept showing intuitive navigation patterns, scalable information architecture, and UX best practices for complex B2B software. SaaS 15 Min SaaS Navigation Design: Choosing the Right Pattern for Your Product Learn how to design SaaS navigation with proven UX principles, popular navigation patterns, real SaaS examples, and practical tips for growing products." [ref=e184]':
+              - /url: /blogs/saas-navigation-design
+              - generic:
+                - img "SaaS navigation design concept showing intuitive navigation patterns, scalable information architecture, and UX best practices for complex B2B software."
+              - generic [ref=e185]:
+                - generic [ref=e186]: SaaS
+                - generic [ref=e188]: 15 Min
+              - generic [ref=e189]:
+                - 'heading "SaaS Navigation Design: Choosing the Right Pattern for Your Product" [level=3] [ref=e190]'
+                - generic [ref=e191]: Learn how to design SaaS navigation with proven UX principles, popular navigation patterns, real SaaS examples, and practical tips for growing products.
+          - listitem [ref=e192]:
+            - 'link "Thumbnail illustrating SaaS rebranding costs with pricing insights and budgeting guidance for B2B SaaS businesses planning a rebrand. Branding Design 15 Min SaaS Rebranding Cost: A Complete Guide to Pricing, Budgeting & ROI Learn how much SaaS rebranding costs, what''s included, pricing by company stage, hidden implementation costs, and how to budget for a successful brand refresh or full rebrand." [ref=e193]':
+              - /url: /blogs/saas-rebranding-cost
+              - img "Thumbnail illustrating SaaS rebranding costs with pricing insights and budgeting guidance for B2B SaaS businesses planning a rebrand." [ref=e195]
+              - generic [ref=e196]:
+                - generic [ref=e197]: Branding Design
+                - generic [ref=e199]: 15 Min
+              - generic [ref=e200]:
+                - 'heading "SaaS Rebranding Cost: A Complete Guide to Pricing, Budgeting & ROI" [level=3] [ref=e201]'
+                - generic [ref=e202]: Learn how much SaaS rebranding costs, what's included, pricing by company stage, hidden implementation costs, and how to budget for a successful brand refresh or full rebrand.
+          - listitem [ref=e203]:
+            - 'link "Comparison of brand vs. branding vs. brand identity, explaining the differences between customer perception, branding strategy, and visual identity. Branding Design 15 Min Brand vs. Branding vs. Brand Identity: What''s the Real Difference? Brand, branding, and brand identity get used like synonyms, but they''re not. See the real difference, how they connect, and which one you need." [ref=e204]':
+              - /url: /blogs/brand-vs-branding-vs-brand-identity
+              - img "Comparison of brand vs. branding vs. brand identity, explaining the differences between customer perception, branding strategy, and visual identity." [ref=e206]
+              - generic [ref=e207]:
+                - generic [ref=e208]: Branding Design
+                - generic [ref=e210]: 15 Min
+              - generic [ref=e211]:
+                - 'heading "Brand vs. Branding vs. Brand Identity: What''s the Real Difference?" [level=3] [ref=e212]'
+                - generic [ref=e213]: Brand, branding, and brand identity get used like synonyms, but they're not. See the real difference, how they connect, and which one you need.
+          - listitem [ref=e214]:
+            - link "Thumbnail illustrating website design cost for a B2B SaaS company with pricing guidance and cost estimation for modern SaaS websites. Web Design 10 Min How Much Does Website Design Cost for a B2B SaaS Company? B2B SaaS website design costs $5,000 to $150,000 or more. See real price ranges by stage, what drives the cost, and how to budget yours right." [ref=e215]:
+              - /url: /blogs/website-design-cost
+              - generic:
+                - img "Thumbnail illustrating website design cost for a B2B SaaS company with pricing guidance and cost estimation for modern SaaS websites."
+              - generic [ref=e216]:
+                - generic [ref=e217]: Web Design
+                - generic [ref=e219]: 10 Min
+              - generic [ref=e220]:
+                - heading "How Much Does Website Design Cost for a B2B SaaS Company?" [level=3] [ref=e221]
+                - generic [ref=e222]: B2B SaaS website design costs $5,000 to $150,000 or more. See real price ranges by stage, what drives the cost, and how to budget yours right.
+          - listitem [ref=e223]:
+            - 'link "Healthcare website design cost in 2026 featuring pricing categories for medical website development and custom healthcare web design. Web Design 15 Min Healthcare Website Design Cost: Complete Pricing Guide for Clinics, Hospitals & Medical Practices See average healthcare website pricing, cost by organization type, HIPAA compliance costs, feature pricing, and practical budgeting advice for healthcare providers." [ref=e224]':
+              - /url: /blogs/healthcare-website-design-cost
+              - generic:
+                - img "Healthcare website design cost in 2026 featuring pricing categories for medical website development and custom healthcare web design."
+              - generic [ref=e225]:
+                - generic [ref=e226]: Web Design
+                - generic [ref=e228]: 15 Min
+              - generic [ref=e229]:
+                - 'heading "Healthcare Website Design Cost: Complete Pricing Guide for Clinics, Hospitals & Medical Practices" [level=3] [ref=e230]'
+                - generic [ref=e231]: See average healthcare website pricing, cost by organization type, HIPAA compliance costs, feature pricing, and practical budgeting advice for healthcare providers.
+          - listitem [ref=e232]:
+            - 'link "Multi-tenant dashboard design for enterprise SaaS showing a scalable analytics dashboard with tenant-aware architecture, role-based access control (RBAC), secure data isolation, and a unified user interface built for enterprise growth. SaaS 10 Min Multi-Tenant Dashboard Design: Building for Enterprise SaaS Scale Building a multi-tenant dashboard that scales? Learn the UI patterns, tenant isolation strategies, and RBAC design that enterprise SaaS products need." [ref=e233]':
+              - /url: /blogs/multi-tenant-dashboard-design
+              - generic:
+                - img "Multi-tenant dashboard design for enterprise SaaS showing a scalable analytics dashboard with tenant-aware architecture, role-based access control (RBAC), secure data isolation, and a unified user interface built for enterprise growth."
+              - generic [ref=e234]:
+                - generic [ref=e235]: SaaS
+                - generic [ref=e237]: 10 Min
+              - generic [ref=e238]:
+                - 'heading "Multi-Tenant Dashboard Design: Building for Enterprise SaaS Scale" [level=3] [ref=e239]'
+                - generic [ref=e240]: Building a multi-tenant dashboard that scales? Learn the UI patterns, tenant isolation strategies, and RBAC design that enterprise SaaS products need.
+          - listitem [ref=e241]:
+            - link "Thumbnail for a guide explaining what brand identity is and the seven essential elements that shape a memorable and consistent brand. Branding Design 15 Min What Is Brand Identity? 7 Core Elements, Real Examples, and How to Brand identity is more than a logo. Learn the 7 core elements, how 50 top brands build theirs, and what you might be getting wrong right now." [ref=e242]:
+              - /url: /blogs/brand-identity
+              - generic:
+                - img "Thumbnail for a guide explaining what brand identity is and the seven essential elements that shape a memorable and consistent brand."
+              - generic [ref=e243]:
+                - generic [ref=e244]: Branding Design
+                - generic [ref=e246]: 15 Min
+              - generic [ref=e247]:
+                - heading "What Is Brand Identity? 7 Core Elements, Real Examples, and How to" [level=3] [ref=e248]
+                - generic [ref=e249]: Brand identity is more than a logo. Learn the 7 core elements, how 50 top brands build theirs, and what you might be getting wrong right now.
+          - listitem [ref=e250]:
+            - link "SaaS UX mistakes thumbnail illustrating common UX design errors that reduce activation rate, user onboarding success, and product adoption. SaaS 9 SaaS UX Mistakes That Kill Your Activation Rate Activation rate below 35%? These 9 SaaS UX design mistakes are almost always the cause. See which apply to your product and how to fix each one." [ref=e251]:
+              - /url: /blogs/saas-ux-mistakes
+              - img "SaaS UX mistakes thumbnail illustrating common UX design errors that reduce activation rate, user onboarding success, and product adoption." [ref=e253]
+              - generic [ref=e255]: SaaS
+              - generic [ref=e257]:
+                - heading "9 SaaS UX Mistakes That Kill Your Activation Rate" [level=3] [ref=e258]
+                - generic [ref=e259]: Activation rate below 35%? These 9 SaaS UX design mistakes are almost always the cause. See which apply to your product and how to fix each one.
+          - listitem [ref=e260]:
+            - 'link "Minimal thumbnail showing a color swatch fan that explains what makes a color popular through color psychology, design trends, and visual appeal. SaaS SaaS Dashboard Design Cost: How Much Should You Budget for Your Dashboard in 2026? Learn how much SaaS dashboard design costs in 2026. Compare freelancer, agency, and in-house pricing to understand what affects cost for your next dashboard project." [ref=e261]':
+              - /url: /blogs/saas-dashboard-design-cost
+              - generic:
+                - img "Minimal thumbnail showing a color swatch fan that explains what makes a color popular through color psychology, design trends, and visual appeal."
+              - generic [ref=e263]: SaaS
+              - generic [ref=e265]:
+                - 'heading "SaaS Dashboard Design Cost: How Much Should You Budget for Your Dashboard in 2026?" [level=3] [ref=e266]'
+                - generic [ref=e267]: Learn how much SaaS dashboard design costs in 2026. Compare freelancer, agency, and in-house pricing to understand what affects cost for your next dashboard project.
+          - listitem [ref=e268]:
+            - link "Healthcare website design trends thumbnail showcasing telemedicine, patient portal UX, responsive medical website design, accessibility, and modern healthcare digital experiences. Web Design 15 Min Healthcare Web Design Trends in 2026 Healthcare web design trends are rewriting patient trust. See 10 patterns, a 30-feature analysis table, and the self-audit every clinic needs in 2026." [ref=e269]:
+              - /url: /blogs/healthcare-web-design-trends
+              - generic:
+                - img "Healthcare website design trends thumbnail showcasing telemedicine, patient portal UX, responsive medical website design, accessibility, and modern healthcare digital experiences."
+              - generic [ref=e270]:
+                - generic [ref=e271]: Web Design
+                - generic [ref=e273]: 15 Min
+              - generic [ref=e274]:
+                - heading "Healthcare Web Design Trends in 2026" [level=3] [ref=e275]
+                - generic [ref=e276]: Healthcare web design trends are rewriting patient trust. See 10 patterns, a 30-feature analysis table, and the self-audit every clinic needs in 2026.
+          - listitem [ref=e277]:
+            - 'link "Creative B2B website design best practices thumbnail featuring conversion-driven website design, modern UX, business website inspiration, and enterprise web design examples. Web Design 10 Min B2B Website Design: Best Practices + 50 Examples That Convert B2B website design fails when built for awards, not buying committees. Get 7 proven practices, a 15-point self-audit, and 50 real examples that convert." [ref=e278]':
+              - /url: /blogs/b2b-website-design
+              - generic:
+                - img "Creative B2B website design best practices thumbnail featuring conversion-driven website design, modern UX, business website inspiration, and enterprise web design examples."
+              - generic [ref=e279]:
+                - generic [ref=e280]: Web Design
+                - generic [ref=e282]: 10 Min
+              - generic [ref=e283]:
+                - 'heading "B2B Website Design: Best Practices + 50 Examples That Convert" [level=3] [ref=e284]'
+                - generic [ref=e285]: B2B website design fails when built for awards, not buying committees. Get 7 proven practices, a 15-point self-audit, and 50 real examples that convert.
+          - listitem [ref=e286]:
+            - link "Thumbnail illustrating UX audit cost in 2026 with pricing tiers, UX evaluation, usability audit, research methodology, and user experience optimization. UI/UX Design 10 Min How Much Does a UX Audit Cost? 2026 Pricing Breakdown UX audit cost ranges from $1,000 to $75,000. See what 20 provider types charge, what's included at each tier, and when an audit actually pays off." [ref=e287]:
+              - /url: /blogs/ux-audit-cost
+              - generic:
+                - img "Thumbnail illustrating UX audit cost in 2026 with pricing tiers, UX evaluation, usability audit, research methodology, and user experience optimization."
+              - generic [ref=e288]:
+                - generic [ref=e289]: UI/UX Design
+                - generic [ref=e291]: 10 Min
+              - generic [ref=e292]:
+                - heading "How Much Does a UX Audit Cost? 2026 Pricing Breakdown" [level=3] [ref=e293]
+                - generic [ref=e294]: UX audit cost ranges from $1,000 to $75,000. See what 20 provider types charge, what's included at each tier, and when an audit actually pays off.
+          - listitem [ref=e295]:
+            - link "Modern SaaS landing page examples featuring high-converting layouts, compelling headlines, and product-focused hero designs. SaaS 15 Min 25 Highest-Converting SaaS Landing Page Examples in 2026 25 SaaS landing page examples grouped by conversion mechanic. See the exact design decision driving each conversion rate, plus a self-check table for your own page." [ref=e296]:
+              - /url: /blogs/saas-landing-page-examples
+              - generic:
+                - img "Modern SaaS landing page examples featuring high-converting layouts, compelling headlines, and product-focused hero designs."
+              - generic [ref=e297]:
+                - generic [ref=e298]: SaaS
+                - generic [ref=e300]: 15 Min
+              - generic [ref=e301]:
+                - heading "25 Highest-Converting SaaS Landing Page Examples in 2026" [level=3] [ref=e302]
+                - generic [ref=e303]: 25 SaaS landing page examples grouped by conversion mechanic. See the exact design decision driving each conversion rate, plus a self-check table for your own page.
+          - listitem [ref=e304]:
+            - link "Creative dental website examples featuring modern healthcare web design, patient portals, treatment pages, and online appointment booking. Web Design 10 Min Best Dental Website Examples for Dentists Looking to Attract More Patients Review the best dental website examples by practice type, with lessons on branding, mobile UX, trust signals, treatment pages, and conversion." [ref=e305]:
+              - /url: /blogs/dental-website-examples
+              - generic:
+                - img "Creative dental website examples featuring modern healthcare web design, patient portals, treatment pages, and online appointment booking."
+              - generic [ref=e306]:
+                - generic [ref=e307]: Web Design
+                - generic [ref=e309]: 10 Min
+              - generic [ref=e310]:
+                - heading "Best Dental Website Examples for Dentists Looking to Attract More Patients" [level=3] [ref=e311]
+                - generic [ref=e312]: Review the best dental website examples by practice type, with lessons on branding, mobile UX, trust signals, treatment pages, and conversion.
+          - listitem [ref=e313]:
+            - link "Modern SaaS website redesign illustration highlighting website optimization, conversion improvements, and UX modernization. SaaS 15 Min 5 Signs Your SaaS Website Needs a Redesign Before It Hurts Conversions Discover the key signs your SaaS website is limiting growth and learn how to redesign it without losing rankings, traffic, or demo requests." [ref=e314]:
+              - /url: /blogs/saas-website-redesign
+              - generic:
+                - img "Modern SaaS website redesign illustration highlighting website optimization, conversion improvements, and UX modernization."
+              - generic [ref=e315]:
+                - generic [ref=e316]: SaaS
+                - generic [ref=e318]: 15 Min
+              - generic [ref=e319]:
+                - heading "5 Signs Your SaaS Website Needs a Redesign Before It Hurts Conversions" [level=3] [ref=e320]
+                - generic [ref=e321]: Discover the key signs your SaaS website is limiting growth and learn how to redesign it without losing rankings, traffic, or demo requests.
+          - listitem [ref=e322]:
+            - 'link "SaaS website design cost illustration explaining how website complexity, features, and business goals affect project pricing. SaaS 15 Min SaaS Website Design Cost in 2026: Why Some Websites Cost 10x More Than Others Planning a SaaS website? Learn typical costs, what''s included, and why some websites cost $5,000 while others cost $100,000 or more." [ref=e323]':
+              - /url: /blogs/saas-website-design-cost
+              - generic:
+                - img "SaaS website design cost illustration explaining how website complexity, features, and business goals affect project pricing."
+              - generic [ref=e324]:
+                - generic [ref=e325]: SaaS
+                - generic [ref=e327]: 15 Min
+              - generic [ref=e328]:
+                - 'heading "SaaS Website Design Cost in 2026: Why Some Websites Cost 10x More Than Others" [level=3] [ref=e329]'
+                - generic [ref=e330]: Planning a SaaS website? Learn typical costs, what's included, and why some websites cost $5,000 while others cost $100,000 or more.
+          - listitem [ref=e331]:
+            - 'link "Creative SaaS website inspiration featuring conversion-driven homepage design, user experience patterns, and modern SaaS website layouts. SaaS 15 Min SaaS Website Inspiration: What 50 Top Products Have in Common We analyzed 50 top SaaS websites and found 9 design patterns they all share, from hero section clarity to pricing page structure and social proof." [ref=e332]':
+              - /url: /blogs/saas-website-inspiration
+              - generic:
+                - img "Creative SaaS website inspiration featuring conversion-driven homepage design, user experience patterns, and modern SaaS website layouts."
+              - generic [ref=e333]:
+                - generic [ref=e334]: SaaS
+                - generic [ref=e336]: 15 Min
+              - generic [ref=e337]:
+                - 'heading "SaaS Website Inspiration: What 50 Top Products Have in Common" [level=3] [ref=e338]'
+                - generic [ref=e339]: We analyzed 50 top SaaS websites and found 9 design patterns they all share, from hero section clarity to pricing page structure and social proof.
+          - listitem [ref=e340]:
+            - 'link "SaaS pricing page design inspiration featuring modern pricing layouts, subscription plans, UX patterns, and conversion optimization strategies. SaaS 12 Min SaaS Pricing Page Design: 8 Examples and the Design Decisions Behind Them Learn what makes a SaaS pricing page design convert. Explore 8 real examples, design best practices, common mistakes, and UX tips to help users choose faster." [ref=e341]':
+              - /url: /blogs/saas-pricing-page-design
+              - generic:
+                - img "SaaS pricing page design inspiration featuring modern pricing layouts, subscription plans, UX patterns, and conversion optimization strategies."
+              - generic [ref=e342]:
+                - generic [ref=e343]: SaaS
+                - generic [ref=e345]: 12 Min
+              - generic [ref=e346]:
+                - 'heading "SaaS Pricing Page Design: 8 Examples and the Design Decisions Behind Them" [level=3] [ref=e347]'
+                - generic [ref=e348]: Learn what makes a SaaS pricing page design convert. Explore 8 real examples, design best practices, common mistakes, and UX tips to help users choose faster.
+          - listitem [ref=e349]:
+            - 'link "SaaS homepage design example featuring modern UI, conversion-focused structure, UX best practices, and high-performing website sections. SaaS 10 Min SaaS Homepage Design: 10 Essential Sections Every B2B Product Needs to Convert More Visitors Learn the 10 essential sections every SaaS homepage needs. See real examples, common mistakes, and how to design a homepage that turns visitors into customers." [ref=e350]':
+              - /url: /blogs/saas-homepage-design
+              - generic:
+                - img "SaaS homepage design example featuring modern UI, conversion-focused structure, UX best practices, and high-performing website sections."
+              - generic [ref=e351]:
+                - generic [ref=e352]: SaaS
+                - generic [ref=e354]: 10 Min
+              - generic [ref=e355]:
+                - 'heading "SaaS Homepage Design: 10 Essential Sections Every B2B Product Needs to Convert More Visitors" [level=3] [ref=e356]'
+                - generic [ref=e357]: Learn the 10 essential sections every SaaS homepage needs. See real examples, common mistakes, and how to design a homepage that turns visitors into customers.
+          - listitem [ref=e358]:
+            - 'link "SaaS website audit checklist thumbnail featuring SEO, UX, CRO, accessibility, and performance audit essentials before launch. SaaS 10 Min SaaS Website Audit Checklist: 20 Pre-Launch Checks to Avoid Costly Mistakes Use this complete SaaS website audit checklist to review technical SEO, Core Web Vitals, tracking, security, and conversion elements before launch." [ref=e359]':
+              - /url: /blogs/saas-website-audit-checklist
+              - generic:
+                - img "SaaS website audit checklist thumbnail featuring SEO, UX, CRO, accessibility, and performance audit essentials before launch."
+              - generic [ref=e360]:
+                - generic [ref=e361]: SaaS
+                - generic [ref=e363]: 10 Min
+              - generic [ref=e364]:
+                - 'heading "SaaS Website Audit Checklist: 20 Pre-Launch Checks to Avoid Costly Mistakes" [level=3] [ref=e365]'
+                - generic [ref=e366]: Use this complete SaaS website audit checklist to review technical SEO, Core Web Vitals, tracking, security, and conversion elements before launch.
+          - listitem [ref=e367]:
+            - 'link "Modern SaaS website design process with landing pages, product messaging, pricing structure, and conversion-focused UX design SaaS 15 Min SaaS Website Design Guide: How to Build a High-Converting Site Learn SaaS website design from the ground up. Discover essential pages, best practices, user journeys, and conversion strategies." [ref=e368]':
+              - /url: /blogs/saas-website-design-guide
+              - generic:
+                - img "Modern SaaS website design process with landing pages, product messaging, pricing structure, and conversion-focused UX design"
+              - generic [ref=e369]:
+                - generic [ref=e370]: SaaS
+                - generic [ref=e372]: 15 Min
+              - generic [ref=e373]:
+                - 'heading "SaaS Website Design Guide: How to Build a High-Converting Site" [level=3] [ref=e374]'
+                - generic [ref=e375]: Learn SaaS website design from the ground up. Discover essential pages, best practices, user journeys, and conversion strategies.
+          - listitem [ref=e376]:
+            - link "Collection of SaaS website design examples featuring modern user experience, product storytelling, strong visual hierarchy, and conversion optimization. SaaS 20 Min 21 SaaS Website Design Examples Every Founder Should Study Before a Redesign Looking for SaaS website inspiration? Explore 21 examples and see how leading companies use design, UX, and messaging to create better user experiences." [ref=e377]:
+              - /url: /blogs/saas-website-design-examples
+              - generic:
+                - img "Collection of SaaS website design examples featuring modern user experience, product storytelling, strong visual hierarchy, and conversion optimization."
+              - generic [ref=e378]:
+                - generic [ref=e379]: SaaS
+                - generic [ref=e381]: 20 Min
+              - generic [ref=e382]:
+                - heading "21 SaaS Website Design Examples Every Founder Should Study Before a Redesign" [level=3] [ref=e383]
+                - generic [ref=e384]: Looking for SaaS website inspiration? Explore 21 examples and see how leading companies use design, UX, and messaging to create better user experiences.
+          - listitem [ref=e385]:
+            - link "Best SaaS typography examples showcasing modern font styles, visual hierarchy, readability, and branding techniques for SaaS websites in 2026. SaaS 15 Best SaaS Typography Examples That Nail Readability and Brand Identity Explore 15 SaaS typography examples from leading brands. Learn how top companies use fonts, hierarchy, spacing, and layout to create memorable user experiences." [ref=e386]:
+              - /url: /blogs/saas-typography-examples
+              - generic:
+                - img "Best SaaS typography examples showcasing modern font styles, visual hierarchy, readability, and branding techniques for SaaS websites in 2026."
+              - generic [ref=e388]: SaaS
+              - generic [ref=e390]:
+                - heading "15 Best SaaS Typography Examples That Nail Readability and Brand Identity" [level=3] [ref=e391]
+                - generic [ref=e392]: Explore 15 SaaS typography examples from leading brands. Learn how top companies use fonts, hierarchy, spacing, and layout to create memorable user experiences.
+          - listitem [ref=e393]:
+            - 'link "SaaS 10 Min B2B Customer Onboarding Best Practices: The Complete Guide The practitioner''s guide to B2B customer onboarding: 5 lifecycle stages, 10 churn-reducing practices, the right model for your customer base, and 5 metrics that predict 90-day retention." [ref=e394]':
+              - /url: /blogs/b2b-customer-onboarding-best-practices
+              - generic [ref=e395]:
+                - generic [ref=e396]: SaaS
+                - generic [ref=e398]: 10 Min
+              - generic [ref=e399]:
+                - 'heading "B2B Customer Onboarding Best Practices: The Complete Guide" [level=3] [ref=e400]'
+                - generic [ref=e401]: "The practitioner's guide to B2B customer onboarding: 5 lifecycle stages, 10 churn-reducing practices, the right model for your customer base, and 5 metrics that predict 90-day retention."
+          - listitem [ref=e402]:
+            - 'link "SaaS 10 Min SaaS Customer Onboarding Checklist: Complete Guide + Template 63% of customers say onboarding shapes their buying decision. Use this SaaS customer onboarding checklist to stop losing users in week one." [ref=e403]':
+              - /url: /blogs/saas-customer-onboarding-checklist
+              - generic [ref=e404]:
+                - generic [ref=e405]: SaaS
+                - generic [ref=e407]: 10 Min
+              - generic [ref=e408]:
+                - 'heading "SaaS Customer Onboarding Checklist: Complete Guide + Template" [level=3] [ref=e409]'
+                - generic [ref=e410]: 63% of customers say onboarding shapes their buying decision. Use this SaaS customer onboarding checklist to stop losing users in week one.
+          - listitem [ref=e411]:
+            - 'link "Professional fintech app design agency showcasing innovative financial technology solutions, mobile banking interfaces, payment platforms, and seamless digital user experiences. SaaS Choosing the Best Fintech App Design Agency: 15 Firms Worth Considering Explore 15 fintech app design agencies reviewed by product type. Learn what makes fintech UX different, and which firms fit your needs." [ref=e412]':
+              - /url: /blogs/best-fintech-app-design-agencies
+              - generic:
+                - img "Professional fintech app design agency showcasing innovative financial technology solutions, mobile banking interfaces, payment platforms, and seamless digital user experiences."
+              - generic [ref=e414]: SaaS
+              - generic [ref=e416]:
+                - 'heading "Choosing the Best Fintech App Design Agency: 15 Firms Worth Considering" [level=3] [ref=e417]'
+                - generic [ref=e418]: Explore 15 fintech app design agencies reviewed by product type. Learn what makes fintech UX different, and which firms fit your needs.
+          - listitem [ref=e419]:
+            - 'link "B2B SaaS conversion rate benchmarks dashboard featuring a sales funnel, conversion growth chart, customer acquisition stages, and performance analytics for SaaS business optimization. SaaS 15 Min B2B SaaS Conversion Rate Benchmarks 2026: What Each Stage Actually Looks Like Real B2B SaaS conversion rate benchmarks by funnel stage, business model, and deal size. Self-serve, sales-led, and enterprise ranges - with exact numbers." [ref=e420]':
+              - /url: /blogs/b2b-saas-conversion-rate-benchmarks
+              - generic:
+                - img "B2B SaaS conversion rate benchmarks dashboard featuring a sales funnel, conversion growth chart, customer acquisition stages, and performance analytics for SaaS business optimization."
+              - generic [ref=e421]:
+                - generic [ref=e422]: SaaS
+                - generic [ref=e424]: 15 Min
+              - generic [ref=e425]:
+                - 'heading "B2B SaaS Conversion Rate Benchmarks 2026: What Each Stage Actually Looks Like" [level=3] [ref=e426]'
+                - generic [ref=e427]: Real B2B SaaS conversion rate benchmarks by funnel stage, business model, and deal size. Self-serve, sales-led, and enterprise ranges - with exact numbers.
+          - listitem [ref=e428]:
+            - link "SaaS Customer Onboarding Best Practices illustrated with a professional working on onboarding software at sunset, showcasing user activation, customer engagement, and retention strategies. SaaS 15 Min SaaS Customer Onboarding Best Practices That Actually Reduce Churn URL Learn the customer onboarding best practices SaaS teams use to activate users faster and turn signups into loyal customers. Real steps, real examples." [ref=e429]:
+              - /url: /blogs/customer-onboarding-best-practices
+              - generic:
+                - img "SaaS Customer Onboarding Best Practices illustrated with a professional working on onboarding software at sunset, showcasing user activation, customer engagement, and retention strategies."
+              - generic [ref=e430]:
+                - generic [ref=e431]: SaaS
+                - generic [ref=e433]: 15 Min
+              - generic [ref=e434]:
+                - heading "SaaS Customer Onboarding Best Practices That Actually Reduce Churn URL" [level=3] [ref=e435]
+                - generic [ref=e436]: Learn the customer onboarding best practices SaaS teams use to activate users faster and turn signups into loyal customers. Real steps, real examples.
+          - listitem [ref=e437]:
+            - 'link "Thumbnail highlighting SaaS customer onboarding best practices for increasing user activation, engagement, and long-term customer retention. SaaS 20 Min SaaS Customer Onboarding: A 4-Phase Framework for Faster Activation Improve SaaS customer onboarding with a 4-phase framework that guides users to first value faster, boosts activation, and reduces churn from day one. Learn more" [ref=e438]':
+              - /url: /blogs/saas-customer-onboarding
+              - generic:
+                - img "Thumbnail highlighting SaaS customer onboarding best practices for increasing user activation, engagement, and long-term customer retention."
+              - generic [ref=e439]:
+                - generic [ref=e440]: SaaS
+                - generic [ref=e442]: 20 Min
+              - generic [ref=e443]:
+                - 'heading "SaaS Customer Onboarding: A 4-Phase Framework for Faster Activation" [level=3] [ref=e444]'
+                - generic [ref=e445]: Improve SaaS customer onboarding with a 4-phase framework that guides users to first value faster, boosts activation, and reduces churn from day one. Learn more
+          - listitem [ref=e446]:
+            - 'link "SaaS website best practices SaaS 15 Min SaaS Website Best Practices: 12 Proven Ways to Convert More Visitors Learn 12 SaaS website best practices used by top brands to sharpen your hero, improve CTAs, build trust, and convert more visitors in 2026." [ref=e447]':
+              - /url: /blogs/saas-website-best-practices
+              - generic:
+                - img "SaaS website best practices"
+              - generic [ref=e448]:
+                - generic [ref=e449]: SaaS
+                - generic [ref=e451]: 15 Min
+              - generic [ref=e452]:
+                - 'heading "SaaS Website Best Practices: 12 Proven Ways to Convert More Visitors" [level=3] [ref=e453]'
+                - generic [ref=e454]: Learn 12 SaaS website best practices used by top brands to sharpen your hero, improve CTAs, build trust, and convert more visitors in 2026.
+          - listitem [ref=e455]:
+            - link "Vertical SaaS platforms focus on one industry, offering specialized workflows, stronger product-market fit, and higher customer retention. SaaS What is Vertical SaaS? A Complete Guide With 4 Traits and Real-World Examples Vertical SaaS is software built for one industry, not every business. See the 4 defining traits, why Veeva hit $30B going narrow, and how to build one in 2026" [ref=e456]:
+              - /url: /blogs/what-is-vertical-saas
+              - generic:
+                - img "Vertical SaaS platforms focus on one industry, offering specialized workflows, stronger product-market fit, and higher customer retention."
+              - generic [ref=e458]: SaaS
+              - generic [ref=e460]:
+                - heading "What is Vertical SaaS? A Complete Guide With 4 Traits and Real-World Examples" [level=3] [ref=e461]
+                - generic [ref=e462]: Vertical SaaS is software built for one industry, not every business. See the 4 defining traits, why Veeva hit $30B going narrow, and how to build one in 2026
+          - listitem [ref=e463]:
+            - link "Person walking through a sunrise landscape representing the search for the best AI product design agency for a new product launch AI Best AI Product Design Agencies to Hire for Your Next Product Looking for the best AI product design agencies? This guide reviews top firms based on their clients, testimonials, and design quality so you can find the right fit." [ref=e464]:
+              - /url: /blogs/best-ai-product-design-agencies
+              - generic:
+                - img "Person walking through a sunrise landscape representing the search for the best AI product design agency for a new product launch"
+              - generic [ref=e466]: AI
+              - generic [ref=e468]:
+                - heading "Best AI Product Design Agencies to Hire for Your Next Product" [level=3] [ref=e469]
+                - generic [ref=e470]: Looking for the best AI product design agencies? This guide reviews top firms based on their clients, testimonials, and design quality so you can find the right fit.
+          - listitem [ref=e471]:
+            - link "Complete SaaS UX design guide illustrating UX blueprint, user flows, and product strategy SaaS SaaS UX Design the 5 Principles That Activate and Keep Users SaaS UX design covers 5 principles for activation, onboarding and dashboard layout with real examples from Linear, Stripe and Notion to cut churn and keep users" [ref=e472]:
+              - /url: /blogs/saas-ux-design-guide
+              - generic:
+                - img "Complete SaaS UX design guide illustrating UX blueprint, user flows, and product strategy"
+              - generic [ref=e474]: SaaS
+              - generic [ref=e476]:
+                - heading "SaaS UX Design the 5 Principles That Activate and Keep Users" [level=3] [ref=e477]
+                - generic [ref=e478]: SaaS UX design covers 5 principles for activation, onboarding and dashboard layout with real examples from Linear, Stripe and Notion to cut churn and keep users
+          - listitem [ref=e479]:
+            - link "What Is B2B Branding visual guide featuring business branding elements, brand positioning, marketing strategy, and corporate identity concepts for B2B organizations. Branding Design 10 Min What is SaaS Branding the 5 Elements That Build Memorable Products What is SaaS branding and why it matters covering positioning, visual identity, real brand examples from Slack, Notion and Airtable, and common mistakes in 2026" [ref=e480]:
+              - /url: /blogs/what-is-saas-branding
+              - generic:
+                - img "What Is B2B Branding visual guide featuring business branding elements, brand positioning, marketing strategy, and corporate identity concepts for B2B organizations."
+              - generic [ref=e481]:
+                - generic [ref=e482]: Branding Design
+                - generic [ref=e484]: 10 Min
+              - generic [ref=e485]:
+                - heading "What is SaaS Branding the 5 Elements That Build Memorable Products" [level=3] [ref=e486]
+                - generic [ref=e487]: What is SaaS branding and why it matters covering positioning, visual identity, real brand examples from Slack, Notion and Airtable, and common mistakes in 2026
+          - listitem [ref=e488]:
+            - link "SaaS 10 Min What Is B2B SaaS? Definition, Real Examples, and 4 Key Traits B2B SaaS is cloud software built for businesses, sold by subscription. Learn the definition, 4 key traits, and how HubSpot, Stripe & Slack built it right." [ref=e489]:
+              - /url: /blogs/what-is-b2b-saas
+              - generic [ref=e490]:
+                - generic [ref=e491]: SaaS
+                - generic [ref=e493]: 10 Min
+              - generic [ref=e494]:
+                - heading "What Is B2B SaaS? Definition, Real Examples, and 4 Key Traits" [level=3] [ref=e495]
+                - generic [ref=e496]: B2B SaaS is cloud software built for businesses, sold by subscription. Learn the definition, 4 key traits, and how HubSpot, Stripe & Slack built it right.
+          - listitem [ref=e497]:
+            - link "Best Color Combinations featuring colorful palette pairings, design-friendly color schemes, and visual inspiration for websites, branding, marketing, and graphic design. Color 10 Min Best Color Combinations for 2026 With Hex Codes Pick the best color combinations for 2026 with confidence. Hex codes, trend palettes, website and branding examples, all in one place. Start building." [ref=e498]:
+              - /url: /blogs/best-color-combinations
+              - generic:
+                - img "Best Color Combinations featuring colorful palette pairings, design-friendly color schemes, and visual inspiration for websites, branding, marketing, and graphic design."
+              - generic [ref=e499]:
+                - generic [ref=e500]: Color
+                - generic [ref=e502]: 10 Min
+              - generic [ref=e503]:
+                - heading "Best Color Combinations for 2026 With Hex Codes" [level=3] [ref=e504]
+                - generic [ref=e505]: Pick the best color combinations for 2026 with confidence. Hex codes, trend palettes, website and branding examples, all in one place. Start building.
+          - listitem [ref=e506]:
+            - 'link "Color 14 Min Website Color Schemes: 40+ Palettes + How to Choose Yours Pick the right website color schemes with 40+ examples, hex codes, color psychology, and the 60/30/10 rule explained. Find your palette here." [ref=e507]':
+              - /url: /blogs/website-color-schemes
+              - generic [ref=e508]:
+                - generic [ref=e509]: Color
+                - generic [ref=e511]: 14 Min
+              - generic [ref=e512]:
+                - 'heading "Website Color Schemes: 40+ Palettes + How to Choose Yours" [level=3] [ref=e513]'
+                - generic [ref=e514]: Pick the right website color schemes with 40+ examples, hex codes, color psychology, and the 60/30/10 rule explained. Find your palette here.
+          - listitem [ref=e515]:
+            - link "What are Pastel Colors guide featuring pastel color palette examples, soft color combinations, pastel shades, and modern web design color inspiration for branding and UI design. Color 15 Min What Are Pastel Colors? Types, Hex Codes, Palettes & Design Guide Pastel colors are soft, light tints with low saturation. Learn their hex codes, color psychology, best palette combinations, and how to use them in design." [ref=e516]:
+              - /url: /blogs/what-are-pastel-colors
+              - generic:
+                - img "What are Pastel Colors guide featuring pastel color palette examples, soft color combinations, pastel shades, and modern web design color inspiration for branding and UI design."
+              - generic [ref=e517]:
+                - generic [ref=e518]: Color
+                - generic [ref=e520]: 15 Min
+              - generic [ref=e521]:
+                - heading "What Are Pastel Colors? Types, Hex Codes, Palettes & Design Guide" [level=3] [ref=e522]
+                - generic [ref=e523]: Pastel colors are soft, light tints with low saturation. Learn their hex codes, color psychology, best palette combinations, and how to use them in design.
+          - listitem [ref=e524]:
+            - link "Development 10 Min How Much Does MVP Development Cost in 2026? A Startup Budget Guide MVP development costs $15K–$50K for a lean build, $150K+ for complex products. Compare cost by type, team, and platform with this realistic 2026 guide." [ref=e525]:
+              - /url: /blogs/mvp-development-cost
+              - generic [ref=e526]:
+                - generic [ref=e527]: Development
+                - generic [ref=e529]: 10 Min
+              - generic [ref=e530]:
+                - heading "How Much Does MVP Development Cost in 2026? A Startup Budget Guide" [level=3] [ref=e531]
+                - generic [ref=e532]: MVP development costs $15K–$50K for a lean build, $150K+ for complex products. Compare cost by type, team, and platform with this realistic 2026 guide.
+          - listitem [ref=e533]:
+            - 'link "Thumbnail illustrating SaaS landing page design with a modern UI layout focused on user engagement, conversions, and best practices. SaaS 10 Min SaaS Landing Page Design: Best Practices, Real Examples, and Checklist Learn SaaS landing page design through real examples, stronger CTAs, social proof, and a practical checklist that turns more visitors into trials. Discover." [ref=e534]':
+              - /url: /blogs/saas-landing-page-design-guide
+              - generic:
+                - img "Thumbnail illustrating SaaS landing page design with a modern UI layout focused on user engagement, conversions, and best practices."
+              - generic [ref=e535]:
+                - generic [ref=e536]: SaaS
+                - generic [ref=e538]: 10 Min
+              - generic [ref=e539]:
+                - 'heading "SaaS Landing Page Design: Best Practices, Real Examples, and Checklist" [level=3] [ref=e540]'
+                - generic [ref=e541]: Learn SaaS landing page design through real examples, stronger CTAs, social proof, and a practical checklist that turns more visitors into trials. Discover.
+          - listitem [ref=e542]:
+            - 'link "AI 10 Min AI Product Design for SaaS: Best Practices, Patterns, and Examples Learn how AI product design for SaaS improves onboarding, UX, and feature adoption with proven patterns, examples, and trust-building best practices today." [ref=e543]':
+              - /url: /blogs/ai-product-design-guide
+              - generic [ref=e544]:
+                - generic [ref=e545]: AI
+                - generic [ref=e547]: 10 Min
+              - generic [ref=e548]:
+                - 'heading "AI Product Design for SaaS: Best Practices, Patterns, and Examples" [level=3] [ref=e549]'
+                - generic [ref=e550]: Learn how AI product design for SaaS improves onboarding, UX, and feature adoption with proven patterns, examples, and trust-building best practices today.
+          - listitem [ref=e551]:
+            - link "Illustrated color wheel showing primary, secondary, and tertiary colors for design and color harmony. Color 9 Min What is a Color Wheel? A Beginner's Guide to Better Design Choices Learn what a color wheel is, how designers use it to build balanced palettes, and which harmony types improve branding, web design, and UI choices." [ref=e552]:
+              - /url: /blogs/what-is-a-color-wheel
+              - generic:
+                - img "Illustrated color wheel showing primary, secondary, and tertiary colors for design and color harmony."
+              - generic [ref=e553]:
+                - generic [ref=e554]: Color
+                - generic [ref=e556]: 9 Min
+              - generic [ref=e557]:
+                - heading "What is a Color Wheel? A Beginner's Guide to Better Design Choices" [level=3] [ref=e558]
+                - generic [ref=e559]: Learn what a color wheel is, how designers use it to build balanced palettes, and which harmony types improve branding, web design, and UI choices.
+          - listitem [ref=e560]:
+            - 'link "UX Design 12 Min The Ultimate Banking App UX Design Guide: UI Patterns & Best Practices Build trusted banking apps with smart UX. This guide covers: onboarding design, navigation flows, security UI, accessibility, and key fintech UX best practices." [ref=e561]':
+              - /url: /blogs/banking-app-ux-design-guide
+              - generic [ref=e562]:
+                - generic [ref=e563]: UX Design
+                - generic [ref=e565]: 12 Min
+              - generic [ref=e566]:
+                - 'heading "The Ultimate Banking App UX Design Guide: UI Patterns & Best Practices" [level=3] [ref=e567]'
+                - generic [ref=e568]: "Build trusted banking apps with smart UX. This guide covers: onboarding design, navigation flows, security UI, accessibility, and key fintech UX best practices."
+          - listitem [ref=e569]:
+            - 'link "Thumbnail illustrating six color palette types in UI design with colorful gradients and modern interface design inspiration. Color 10 Min 6 Color Palette Types in UI Design: Examples, Rules & How to Choose Discover all 6 color palette types in UI design - monochromatic to tetradic. Real app examples, WCAG accessibility rules, and how to choose the right one." [ref=e570]':
+              - /url: /blogs/color-palette-types-ui-design
+              - generic:
+                - img "Thumbnail illustrating six color palette types in UI design with colorful gradients and modern interface design inspiration."
+              - generic [ref=e571]:
+                - generic [ref=e572]: Color
+                - generic [ref=e574]: 10 Min
+              - generic [ref=e575]:
+                - 'heading "6 Color Palette Types in UI Design: Examples, Rules & How to Choose" [level=3] [ref=e576]'
+                - generic [ref=e577]: Discover all 6 color palette types in UI design - monochromatic to tetradic. Real app examples, WCAG accessibility rules, and how to choose the right one.
+          - listitem [ref=e578]:
+            - link "Color 10 Min What is an Analog Color Scheme? Meaning, Examples, and How It Works Learn what an analog color scheme is, how to build one, and where to use it in design, art, and interiors with clear examples and practical rules." [ref=e579]:
+              - /url: /blogs/analog-color-scheme
+              - generic [ref=e580]:
+                - generic [ref=e581]: Color
+                - generic [ref=e583]: 10 Min
+              - generic [ref=e584]:
+                - heading "What is an Analog Color Scheme? Meaning, Examples, and How It Works" [level=3] [ref=e585]
+                - generic [ref=e586]: Learn what an analog color scheme is, how to build one, and where to use it in design, art, and interiors with clear examples and practical rules.
+          - listitem [ref=e587]:
+            - 'link "Thumbnail illustrating the most popular colors in the world with a blue Earth representing global color preferences and psychology. Color 12 Min The Most Popular Colors in the World: Meaning, Trends, and Psychology Discover the most popular colors in the world, why blue leads, and how psychology, culture, branding, accessibility, and trends shape color choice today. Learn." [ref=e588]':
+              - /url: /blogs/most-popular-colors
+              - generic:
+                - img "Thumbnail illustrating the most popular colors in the world with a blue Earth representing global color preferences and psychology."
+              - generic [ref=e589]:
+                - generic [ref=e590]: Color
+                - generic [ref=e592]: 12 Min
+              - generic [ref=e593]:
+                - 'heading "The Most Popular Colors in the World: Meaning, Trends, and Psychology" [level=3] [ref=e594]'
+                - generic [ref=e595]: Discover the most popular colors in the world, why blue leads, and how psychology, culture, branding, accessibility, and trends shape color choice today. Learn.
+          - listitem [ref=e596]:
+            - 'link "Agency 8 Min In-House Design Team vs Design Agency: Cost, Speed, Quality & Fit In-house design team vs design agency: compare cost, speed, quality, scalability and control to choose the right model or hybrid setup for your business." [ref=e597]':
+              - /url: /blogs/in-house-design-team-vs-design-agency
+              - generic [ref=e598]:
+                - generic [ref=e599]: Agency
+                - generic [ref=e601]: 8 Min
+              - generic [ref=e602]:
+                - 'heading "In-House Design Team vs Design Agency: Cost, Speed, Quality & Fit" [level=3] [ref=e603]'
+                - generic [ref=e604]: "In-house design team vs design agency: compare cost, speed, quality, scalability and control to choose the right model or hybrid setup for your business."
+          - listitem [ref=e605]:
+            - link "Thumbnail highlighting the top Webflow agencies for SaaS and startups specializing in modern Webflow design and development services. Development 15 Min 13 Best Webflow Agencies in 2026 for SaaS Startups Compare 13 best Webflow agencies for SaaS and startups in 2026. See pricing, SEO focus, UX quality, and pick the right partner for your growth today" [ref=e606]:
+              - /url: /blogs/best-webflow-agencies
+              - generic:
+                - img "Thumbnail highlighting the top Webflow agencies for SaaS and startups specializing in modern Webflow design and development services."
+              - generic [ref=e607]:
+                - generic [ref=e608]: Development
+                - generic [ref=e610]: 15 Min
+              - generic [ref=e611]:
+                - heading "13 Best Webflow Agencies in 2026 for SaaS Startups" [level=3] [ref=e612]
+                - generic [ref=e613]: Compare 13 best Webflow agencies for SaaS and startups in 2026. See pricing, SEO focus, UX quality, and pick the right partner for your growth today
+          - listitem [ref=e614]:
+            - 'link "UI/UX Design 9 Min UI/UX Agency vs Freelancer: Which Option Fits Your Project and Budget? Compare UI/UX agency vs freelancer by cost, speed, quality, and support to pick the right fit for your project scope, budget, and growth plans. Learn more." [ref=e615]':
+              - /url: /blogs/ui-ux-agency-vs-freelancer
+              - generic [ref=e616]:
+                - generic [ref=e617]: UI/UX Design
+                - generic [ref=e619]: 9 Min
+              - generic [ref=e620]:
+                - 'heading "UI/UX Agency vs Freelancer: Which Option Fits Your Project and Budget?" [level=3] [ref=e621]'
+                - generic [ref=e622]: Compare UI/UX agency vs freelancer by cost, speed, quality, and support to pick the right fit for your project scope, budget, and growth plans. Learn more.
+          - listitem [ref=e623]:
+            - 'link "SaaS design agency pricing guide thumbnail with astronaut and flying money SaaS 10 Min SaaS Design Agency Pricing in 2026: Costs, Models, and What to Expect See how much a SaaS design agency costs in 2026. Compare project rates, retainers, subscriptions, MVP pricing, redesign costs, and what affects price." [ref=e624]':
+              - /url: /blogs/saas-design-agency-pricing
+              - generic:
+                - img "SaaS design agency pricing guide thumbnail with astronaut and flying money"
+              - generic [ref=e625]:
+                - generic [ref=e626]: SaaS
+                - generic [ref=e628]: 10 Min
+              - generic [ref=e629]:
+                - 'heading "SaaS Design Agency Pricing in 2026: Costs, Models, and What to Expect" [level=3] [ref=e630]'
+                - generic [ref=e631]: See how much a SaaS design agency costs in 2026. Compare project rates, retainers, subscriptions, MVP pricing, redesign costs, and what affects price.
+          - listitem [ref=e632]:
+            - link "startup product design services Product Design 10 MIn Best Product Design Agencies for Startups in 2026 Top 10 Ranked We reviewed 10 top product design agencies for startups by speed, quality, and fit. Find who matches your stage, budget, and product goals in 2026." [ref=e633]:
+              - /url: /blogs/top-product-design-agencies
+              - generic:
+                - img "startup product design services"
+              - generic [ref=e634]:
+                - generic [ref=e635]: Product Design
+                - generic [ref=e637]: 10 MIn
+              - generic [ref=e638]:
+                - heading "Best Product Design Agencies for Startups in 2026 Top 10 Ranked" [level=3] [ref=e639]
+                - generic [ref=e640]: We reviewed 10 top product design agencies for startups by speed, quality, and fit. Find who matches your stage, budget, and product goals in 2026.
+          - listitem [ref=e641]:
+            - link "Blog cover image for top SaaS design agencies in New York ranked in 2026 SaaS 10 Min Best SaaS Design Agencies in New York Ranked for 2026 B2B Startups Find the right SaaS design agencies in New York for product design, UX, and growth. Compare top firms by fit, focus, and delivery model. See more" [ref=e642]:
+              - /url: /blogs/saas-design-agencies-new-york
+              - generic:
+                - img "Blog cover image for top SaaS design agencies in New York ranked in 2026"
+              - generic [ref=e643]:
+                - generic [ref=e644]: SaaS
+                - generic [ref=e646]: 10 Min
+              - generic [ref=e647]:
+                - heading "Best SaaS Design Agencies in New York Ranked for 2026 B2B Startups" [level=3] [ref=e648]
+                - generic [ref=e649]: Find the right SaaS design agencies in New York for product design, UX, and growth. Compare top firms by fit, focus, and delivery model. See more
+          - listitem [ref=e650]:
+            - 'link "Mobile & Product Design 15 Min Mobile App UX Design: A Step-by-Step Process for 2026 A step-by-step mobile app UX design guide: 6-stage process, real examples (Linear, Duolingo, Slack), 5 mistakes killing retention, and fixes." [ref=e651]':
+              - /url: /blogs/mobile-app-ux-design-guide
+              - generic [ref=e652]:
+                - generic [ref=e653]: Mobile & Product Design
+                - generic [ref=e655]: 15 Min
+              - generic [ref=e656]:
+                - 'heading "Mobile App UX Design: A Step-by-Step Process for 2026" [level=3] [ref=e657]'
+                - generic [ref=e658]: "A step-by-step mobile app UX design guide: 6-stage process, real examples (Linear, Duolingo, Slack), 5 mistakes killing retention, and fixes."
+          - listitem [ref=e659]:
+            - link "SaaS admin dashboard design featured image with desktop monitor and article title about avoiding rebuilds SaaS 8 Min How to Design a SaaS Admin Dashboard Engineers Won't Rebuild in 6 Months Learn how to design a SaaS admin dashboard that scales without costly rebuilds. See the framework for IA, design systems, and common mistakes to avoid." [ref=e660]:
+              - /url: /blogs/saas-admin-dashboard-design-rebuilds
+              - generic:
+                - img "SaaS admin dashboard design featured image with desktop monitor and article title about avoiding rebuilds"
+              - generic [ref=e661]:
+                - generic [ref=e662]: SaaS
+                - generic [ref=e664]: 8 Min
+              - generic [ref=e665]:
+                - heading "How to Design a SaaS Admin Dashboard Engineers Won't Rebuild in 6 Months" [level=3] [ref=e666]
+                - generic [ref=e667]: Learn how to design a SaaS admin dashboard that scales without costly rebuilds. See the framework for IA, design systems, and common mistakes to avoid.
+          - listitem [ref=e668]:
+            - link "Thumbnail featuring B2B SaaS dashboard design examples with analytics, reporting, and dashboard UI inspiration for SaaS products. SaaS 9 Min 10 B2B SaaS Dashboard Design Examples That Close Enterprise Deals in 2026 10 real B2B SaaS dashboard design examples from Stripe, HubSpot & Salesforce. Learn the exact patterns US enterprise teams use to close deals faster." [ref=e669]:
+              - /url: /blogs/b2b-saas-dashboard-design-examples
+              - generic:
+                - img "Thumbnail featuring B2B SaaS dashboard design examples with analytics, reporting, and dashboard UI inspiration for SaaS products."
+              - generic [ref=e670]:
+                - generic [ref=e671]: SaaS
+                - generic [ref=e673]: 9 Min
+              - generic [ref=e674]:
+                - heading "10 B2B SaaS Dashboard Design Examples That Close Enterprise Deals in 2026" [level=3] [ref=e675]
+                - generic [ref=e676]: 10 real B2B SaaS dashboard design examples from Stripe, HubSpot & Salesforce. Learn the exact patterns US enterprise teams use to close deals faster.
+          - listitem [ref=e677]:
+            - link "SaaS 10 Min 7 SaaS UI Patterns That Kill Your Trial-to-Paid Conversion Rate Fix the 7 SaaS UI patterns that quietly kill trial-to-paid conversion. Each pattern diagnosed with real examples from Slack, Notion, and Linear. 2026." [ref=e678]:
+              - /url: /blogs/saas-ui-patterns-conversion
+              - generic [ref=e679]:
+                - generic [ref=e680]: SaaS
+                - generic [ref=e682]: 10 Min
+              - generic [ref=e683]:
+                - heading "7 SaaS UI Patterns That Kill Your Trial-to-Paid Conversion Rate" [level=3] [ref=e684]
+                - generic [ref=e685]: Fix the 7 SaaS UI patterns that quietly kill trial-to-paid conversion. Each pattern diagnosed with real examples from Slack, Notion, and Linear. 2026.
+          - listitem [ref=e686]:
+            - 'link "UI/UX Design 9 Min 7 Pillars of UX Design: Everything You Need to Know for Better Design Learn the 7 pillars of UX design with clear examples, a practical checklist, and common mistakes that weaken product UX. See what to fix." [ref=e687]':
+              - /url: /blogs/7-pillars-of-ux-design
+              - generic [ref=e688]:
+                - generic [ref=e689]: UI/UX Design
+                - generic [ref=e691]: 9 Min
+              - generic [ref=e692]:
+                - 'heading "7 Pillars of UX Design: Everything You Need to Know for Better Design" [level=3] [ref=e693]'
+                - generic [ref=e694]: Learn the 7 pillars of UX design with clear examples, a practical checklist, and common mistakes that weaken product UX. See what to fix.
+          - listitem [ref=e695]:
+            - link "Web Design 10 MIns Top 10 Healthcare Website Design Agencies in 2026 (HIPAA-Compliant) Compare 10 top healthcare website design agencies for 2026, ranked by HIPAA compliance, patient UX, and verified healthcare work. Find the right fit." [ref=e696]:
+              - /url: /blogs/top-10-healthcare-website-design-agencies
+              - generic [ref=e697]:
+                - generic [ref=e698]: Web Design
+                - generic [ref=e700]: 10 MIns
+              - generic [ref=e701]:
+                - heading "Top 10 Healthcare Website Design Agencies in 2026 (HIPAA-Compliant)" [level=3] [ref=e702]
+                - generic [ref=e703]: Compare 10 top healthcare website design agencies for 2026, ranked by HIPAA compliance, patient UX, and verified healthcare work. Find the right fit.
+          - listitem [ref=e704]:
+            - 'link "Thumbnail featuring the best rebranding agencies in 2026 with a budget comparison for startups, B2B SaaS, and growing businesses. Branding Design 10 Min 12 Best Rebranding Agencies 2026: Compared by Budget, Specialty & Stage We compared 12 top rebranding agencies by budget ($3K–$250K+), specialty, and timeline. Find the right partner for your startup, SaaS, or enterprise rebrand." [ref=e705]':
+              - /url: /blogs/best-rebranding-agencies
+              - generic:
+                - img "Thumbnail featuring the best rebranding agencies in 2026 with a budget comparison for startups, B2B SaaS, and growing businesses."
+              - generic [ref=e706]:
+                - generic [ref=e707]: Branding Design
+                - generic [ref=e709]: 10 Min
+              - generic [ref=e710]:
+                - 'heading "12 Best Rebranding Agencies 2026: Compared by Budget, Specialty & Stage" [level=3] [ref=e711]'
+                - generic [ref=e712]: We compared 12 top rebranding agencies by budget ($3K–$250K+), specialty, and timeline. Find the right partner for your startup, SaaS, or enterprise rebrand.
+          - listitem [ref=e713]:
+            - 'link "How to Design a Healthcare Website That Engages Patients & Builds Trust Web Design 10 MIn Healthcare Website Design Guide: HIPAA, UX & Compliance 2026 Build a HIPAA-compliant, ADA-accessible healthcare website Design Guide that patients trust. This guide covers UX, features, costs, and 2026 best practices." [ref=e714]':
+              - /url: /blogs/healthcare-website-design-guide
+              - generic:
+                - img "How to Design a Healthcare Website That Engages Patients & Builds Trust"
+              - generic [ref=e715]:
+                - generic [ref=e716]: Web Design
+                - generic [ref=e718]: 10 MIn
+              - generic [ref=e719]:
+                - 'heading "Healthcare Website Design Guide: HIPAA, UX & Compliance 2026" [level=3] [ref=e720]'
+                - generic [ref=e721]: Build a HIPAA-compliant, ADA-accessible healthcare website Design Guide that patients trust. This guide covers UX, features, costs, and 2026 best practices.
+          - listitem [ref=e722]:
+            - 'link "Best Figma Plugins and UI Kits Designers Should Use in 2025 Design System 10 Min Best Figma Plugins and UI Kits for 2026: A Designer''s Guide to Speed, Consistency and AI Workflows Best Figma plugins and UI kits covering Autoflow, Content Reel, Design Lint, Iconify, Figmotion, and Stark, handpicked to speed up your design workflow in 2026." [ref=e723]':
+              - /url: /blogs/best-figma-plugins-ui-kits
+              - generic:
+                - img "Best Figma Plugins and UI Kits Designers Should Use in 2025"
+              - generic [ref=e724]:
+                - generic [ref=e725]: Design System
+                - generic [ref=e727]: 10 Min
+              - generic [ref=e728]:
+                - 'heading "Best Figma Plugins and UI Kits for 2026: A Designer''s Guide to Speed, Consistency and AI Workflows" [level=3] [ref=e729]'
+                - generic [ref=e730]: Best Figma plugins and UI kits covering Autoflow, Content Reel, Design Lint, Iconify, Figmotion, and Stark, handpicked to speed up your design workflow in 2026.
+          - listitem [ref=e731]:
+            - link "Thumbnail highlighting the best SaaS design agencies for B2B companies specializing in SaaS product design, UX, and growth. SaaS 9 Min 13 Best SaaS Design Agencies for B2B Companies to Compare in 2026 Compare 13 SaaS design agencies for B2B companies, including pricing, strengths, and best-fit use cases, to find the right partner for growth in 2026." [ref=e732]:
+              - /url: /blogs/best-saas-design-agencies
+              - generic:
+                - img "Thumbnail highlighting the best SaaS design agencies for B2B companies specializing in SaaS product design, UX, and growth."
+              - generic [ref=e733]:
+                - generic [ref=e734]: SaaS
+                - generic [ref=e736]: 9 Min
+              - generic [ref=e737]:
+                - heading "13 Best SaaS Design Agencies for B2B Companies to Compare in 2026" [level=3] [ref=e738]
+                - generic [ref=e739]: Compare 13 SaaS design agencies for B2B companies, including pricing, strengths, and best-fit use cases, to find the right partner for growth in 2026.
+          - listitem [ref=e740]:
+            - link "Innovative fintech startup ideas 2025-2026 — Orbix Studio branded hero banner with bold typography on dark red gradient background Marketing 12 Min 25 Innovative Fintech Startup Ideas with Real Market Gaps in 2026 The fintech market is crowded. These 25 innovative startup ideas map real gaps in payments, AI lending, and niche banking still open in 2026." [ref=e741]:
+              - /url: /blogs/innovative-fintech-startup-ideas
+              - generic:
+                - img "Innovative fintech startup ideas 2025-2026 — Orbix Studio branded hero banner with bold typography on dark red gradient background"
+              - generic [ref=e742]:
+                - generic [ref=e743]: Marketing
+                - generic [ref=e745]: 12 Min
+              - generic [ref=e746]:
+                - heading "25 Innovative Fintech Startup Ideas with Real Market Gaps in 2026" [level=3] [ref=e747]
+                - generic [ref=e748]: The fintech market is crowded. These 25 innovative startup ideas map real gaps in payments, AI lending, and niche banking still open in 2026.
+          - listitem [ref=e749]:
+            - 'link "Prototype vs Wireframe vs Mockup: Ultimate Guide for UI/UX Design UI/UX Design 10 MIn Wireframe vs Mockup vs Prototype: Complete UI/UX DesignGuide 2026 Wireframe, mockup, or prototype — which one do you actually need? This guide shows the exact differences, when to stop each stage, and what tools to use in 2026." [ref=e750]':
+              - /url: /blogs/wireframe-vs-mockup-vs-prototype
+              - generic:
+                - 'img "Prototype vs Wireframe vs Mockup: Ultimate Guide for UI/UX Design"'
+              - generic [ref=e751]:
+                - generic [ref=e752]: UI/UX Design
+                - generic [ref=e754]: 10 MIn
+              - generic [ref=e755]:
+                - 'heading "Wireframe vs Mockup vs Prototype: Complete UI/UX DesignGuide 2026" [level=3] [ref=e756]'
+                - generic [ref=e757]: Wireframe, mockup, or prototype — which one do you actually need? This guide shows the exact differences, when to stop each stage, and what tools to use in 2026.
+          - listitem [ref=e758]:
+            - link "Thumbnail illustrating how AI is changing design in 2026 with futuristic visuals representing AI-assisted creativity and design innovation. AI 8 Min How AI is Changing Design a Complete Guide for UX & Product Designers How AI Changing UI/UX design from generative layouts to automated workflows. Discover what every designer needs to know to stay ahead in 2026." [ref=e759]:
+              - /url: /blogs/ai-is-changing-design
+              - generic:
+                - img "Thumbnail illustrating how AI is changing design in 2026 with futuristic visuals representing AI-assisted creativity and design innovation."
+              - generic [ref=e760]:
+                - generic [ref=e761]: AI
+                - generic [ref=e763]: 8 Min
+              - generic [ref=e764]:
+                - heading "How AI is Changing Design a Complete Guide for UX & Product Designers" [level=3] [ref=e765]
+                - generic [ref=e766]: How AI Changing UI/UX design from generative layouts to automated workflows. Discover what every designer needs to know to stay ahead in 2026.
+          - listitem [ref=e767]:
+            - 'link "Mobile Apps 12 Min Mobile App Redesign: A Step-by-Step Process Guide 2026 Redesigning a mobile app without a clear process wastes months. See the exact steps, cost benchmarks, and UX process top product founders use. Start here." [ref=e768]':
+              - /url: /blogs/mobile-app-redesign-guide
+              - generic [ref=e769]:
+                - generic [ref=e770]: Mobile Apps
+                - generic [ref=e772]: 12 Min
+              - generic [ref=e773]:
+                - 'heading "Mobile App Redesign: A Step-by-Step Process Guide 2026" [level=3] [ref=e774]'
+                - generic [ref=e775]: Redesigning a mobile app without a clear process wastes months. See the exact steps, cost benchmarks, and UX process top product founders use. Start here.
+          - listitem [ref=e776]:
+            - link "Web Design 10 Min How Much Does a Website Redesign Cost in 2026? Full Pricing Breakdown Website redesign costs $2,000–$150,000+ in 2026. See exact pricing by business size, platform & scope before you request a single quote." [ref=e777]:
+              - /url: /blogs/website-redesign-cost
+              - generic [ref=e778]:
+                - generic [ref=e779]: Web Design
+                - generic [ref=e781]: 10 Min
+              - generic [ref=e782]:
+                - heading "How Much Does a Website Redesign Cost in 2026? Full Pricing Breakdown" [level=3] [ref=e783]
+                - generic [ref=e784]: Website redesign costs $2,000–$150,000+ in 2026. See exact pricing by business size, platform & scope before you request a single quote.
+          - listitem [ref=e785]:
+            - 'link "UI/UX Design 7 Min App Performance Optimization: What SaaS Founders Get Wrong Slow apps cost SaaS products retention before the next sprint ships. Learn how app performance optimization and UX design work together. See the process." [ref=e786]':
+              - /url: /blogs/app-performance-ui-ux-optimization
+              - generic [ref=e787]:
+                - generic [ref=e788]: UI/UX Design
+                - generic [ref=e790]: 7 Min
+              - generic [ref=e791]:
+                - 'heading "App Performance Optimization: What SaaS Founders Get Wrong" [level=3] [ref=e792]'
+                - generic [ref=e793]: Slow apps cost SaaS products retention before the next sprint ships. Learn how app performance optimization and UX design work together. See the process.
+          - listitem [ref=e794]:
+            - 'link "App Development 10 MIn Mobile App Development Cost Guide: Feature-by-Feature Pricing, Real Budget Ranges in 2026 Mobile app development cost guide: full pricing tables for auth, backend, payments, AI and ML, and proven strategies to cut your total app build budget in 2026." [ref=e795]':
+              - /url: /blogs/mobile-app-development-guide
+              - generic [ref=e796]:
+                - generic [ref=e797]: App Development
+                - generic [ref=e799]: 10 MIn
+              - generic [ref=e800]:
+                - 'heading "Mobile App Development Cost Guide: Feature-by-Feature Pricing, Real Budget Ranges in 2026" [level=3] [ref=e801]'
+                - generic [ref=e802]: "Mobile app development cost guide: full pricing tables for auth, backend, payments, AI and ML, and proven strategies to cut your total app build budget in 2026."
+          - listitem [ref=e803]:
+            - 'link "App Development 10 MIn App Development Cost vs Features: Complete Guide with Cost Breakdown Understand app development cost vs features in 2026. Learn how features impact pricing, view detailed, and discover cost mitigation strategies for your budget." [ref=e804]':
+              - /url: /blogs/mobile-app-development-cost-guide
+              - generic [ref=e805]:
+                - generic [ref=e806]: App Development
+                - generic [ref=e808]: 10 MIn
+              - generic [ref=e809]:
+                - 'heading "App Development Cost vs Features: Complete Guide with Cost Breakdown" [level=3] [ref=e810]'
+                - generic [ref=e811]: Understand app development cost vs features in 2026. Learn how features impact pricing, view detailed, and discover cost mitigation strategies for your budget.
+          - listitem [ref=e812]:
+            - 'link "Fintech App Development ROI: When Does a $200,000+ Investment Pay Off? Mobile & Product Design 7 Min Fintech App Development Cost & ROI: 2026 Guide Building a fintech app costs $25K to $500K+. See what drives fintech app development cost and how to calculate ROI before committing a dollar." [ref=e813]':
+              - /url: /blogs/fintech-app-roi-guide
+              - generic:
+                - 'img "Fintech App Development ROI: When Does a $200,000+ Investment Pay Off?"'
+              - generic [ref=e814]:
+                - generic [ref=e815]: Mobile & Product Design
+                - generic [ref=e817]: 7 Min
+              - generic [ref=e818]:
+                - 'heading "Fintech App Development Cost & ROI: 2026 Guide" [level=3] [ref=e819]'
+                - generic [ref=e820]: Building a fintech app costs $25K to $500K+. See what drives fintech app development cost and how to calculate ROI before committing a dollar.
+          - listitem [ref=e821]:
+            - 'link "Scaling Digital Wallets: Software Architecture Consulting for Fintech Growth Marketing 10 MIn Digital Wallet App Development: Architecture, Compliance & Scaling Guide for Fintech 2026 Digital wallet app development: transaction architecture, state management, KYC compliance, payment rail resilience, and how to scale to 5M+ daily transactions." [ref=e822]':
+              - /url: /blogs/digital-wallet-app-development
+              - generic:
+                - 'img "Scaling Digital Wallets: Software Architecture Consulting for Fintech Growth"'
+              - generic [ref=e823]:
+                - generic [ref=e824]: Marketing
+                - generic [ref=e826]: 10 MIn
+              - generic [ref=e827]:
+                - 'heading "Digital Wallet App Development: Architecture, Compliance & Scaling Guide for Fintech 2026" [level=3] [ref=e828]'
+                - generic [ref=e829]: "Digital wallet app development: transaction architecture, state management, KYC compliance, payment rail resilience, and how to scale to 5M+ daily transactions."
+          - listitem [ref=e830]:
+            - 'link "SaaS Product Research vs. Market Research: Which Comes First for Scale-Ups? SaaS 10 Min SaaS Product Research vs Market Research: Which One Comes First? 2026 SaaS product research vs market research: which comes first? See the exact differences, when to run each, and the sequence that stops scale-ups from building blind." [ref=e831]':
+              - /url: /blogs/saas-product-research-vs-market-research
+              - generic:
+                - 'img "SaaS Product Research vs. Market Research: Which Comes First for Scale-Ups?"'
+              - generic [ref=e832]:
+                - generic [ref=e833]: SaaS
+                - generic [ref=e835]: 10 Min
+              - generic [ref=e836]:
+                - 'heading "SaaS Product Research vs Market Research: Which One Comes First? 2026" [level=3] [ref=e837]'
+                - generic [ref=e838]: "SaaS product research vs market research: which comes first? See the exact differences, when to run each, and the sequence that stops scale-ups from building blind."
+          - listitem [ref=e839]:
+            - 'link "UX Design System 8 Min Reduce Customer Churn Through UX Design: 5 Strategies That Retain Users Poor UX silently drives customers away. Discover 5 UX design strategies that reduce customer churn with real metrics, examples, and a priority framework." [ref=e840]':
+              - /url: /blogs/reduce-customer-churn-ux-design-strategies
+              - generic [ref=e841]:
+                - generic [ref=e842]: UX Design System
+                - generic [ref=e844]: 8 Min
+              - generic [ref=e845]:
+                - 'heading "Reduce Customer Churn Through UX Design: 5 Strategies That Retain Users" [level=3] [ref=e846]'
+                - generic [ref=e847]: Poor UX silently drives customers away. Discover 5 UX design strategies that reduce customer churn with real metrics, examples, and a priority framework.
+          - listitem [ref=e848]:
+            - 'link "Progressive Web Apps for SaaS: Complete Guide to PWA Benefits & Implementation SaaS 10 Min Progressive Web Apps for SaaS: Benefits, Tools & Implementation Guide. PWAs cut SaaS app costs 60% and lift mobile engagement 40-60%. See the benefits, best tools, and a 2026 implementation roadmap inside." [ref=e849]':
+              - /url: /blogs/progressive-web-apps-saas-complete-guide
+              - generic:
+                - 'img "Progressive Web Apps for SaaS: Complete Guide to PWA Benefits & Implementation"'
+              - generic [ref=e850]:
+                - generic [ref=e851]: SaaS
+                - generic [ref=e853]: 10 Min
+              - generic [ref=e854]:
+                - 'heading "Progressive Web Apps for SaaS: Benefits, Tools & Implementation Guide." [level=3] [ref=e855]'
+                - generic [ref=e856]: PWAs cut SaaS app costs 60% and lift mobile engagement 40-60%. See the benefits, best tools, and a 2026 implementation roadmap inside.
+          - listitem [ref=e857]:
+            - 'link "B2B vs B2C SaaS Design: Understanding Critical Interface Differences SaaS 9 MIn B2B vs B2C SaaS Design: The Differences That Actually Matter B2B SaaS design optimizes for depth, roles, and workflows. B2C prioritizes fast self-serve activation. Learn key differences and design for your market." [ref=e858]':
+              - /url: /blogs/b2b-vs-b2c-saas-design-differences
+              - generic:
+                - 'img "B2B vs B2C SaaS Design: Understanding Critical Interface Differences"'
+              - generic [ref=e859]:
+                - generic [ref=e860]: SaaS
+                - generic [ref=e862]: 9 MIn
+              - generic [ref=e863]:
+                - 'heading "B2B vs B2C SaaS Design: The Differences That Actually Matter" [level=3] [ref=e864]'
+                - generic [ref=e865]: B2B SaaS design optimizes for depth, roles, and workflows. B2C prioritizes fast self-serve activation. Learn key differences and design for your market.
+          - listitem [ref=e866]:
+            - 'link "UX Design 10 Min AI-Driven UX Patterns for SaaS Products: 10 That Work in 2026 Bad AI UX kills SaaS retention. See 10 AI-driven UX patterns: suggestion toggles, adaptive interfaces, and data trust signals. Find out what converts in 2026." [ref=e867]':
+              - /url: /blogs/ai-driven-ux-patterns-saas
+              - generic [ref=e868]:
+                - generic [ref=e869]: UX Design
+                - generic [ref=e871]: 10 Min
+              - generic [ref=e872]:
+                - 'heading "AI-Driven UX Patterns for SaaS Products: 10 That Work in 2026" [level=3] [ref=e873]'
+                - generic [ref=e874]: "Bad AI UX kills SaaS retention. See 10 AI-driven UX patterns: suggestion toggles, adaptive interfaces, and data trust signals. Find out what converts in 2026."
+          - listitem [ref=e875]:
+            - 'link "SaaS Dashboard Design: Complete B2B Interface Optimization Guide 2025 SaaS 6 MIn How to SaaS Dashboards Design: A Beginner’s Guide for 2026 Learn how to design SaaS dashboards with this beginner-friendly guide. Understand layout patterns, UX principles, and data visualization with real examples" [ref=e876]':
+              - /url: /blogs/saas-dashboard-design-complete-guide
+              - generic:
+                - 'img "SaaS Dashboard Design: Complete B2B Interface Optimization Guide 2025"'
+              - generic [ref=e877]:
+                - generic [ref=e878]: SaaS
+                - generic [ref=e880]: 6 MIn
+              - generic [ref=e881]:
+                - 'heading "How to SaaS Dashboards Design: A Beginner’s Guide for 2026" [level=3] [ref=e882]'
+                - generic [ref=e883]: Learn how to design SaaS dashboards with this beginner-friendly guide. Understand layout patterns, UX principles, and data visualization with real examples
+          - listitem [ref=e884]:
+            - 'link "7 Mobile App UI/UX Patterns That Boost User Retention by 40-60% Mobile & Product Design 9 MIn Mobile App Retention Guide: 7 UX Patterns That Reduce Churn Mobile app retention guide: 7 proven UX patterns including habit loops, progressive onboarding, smart notifications, and gamification to boost Day 30 retention." [ref=e885]':
+              - /url: /blogs/mobile-app-retention-guide
+              - generic:
+                - img "7 Mobile App UI/UX Patterns That Boost User Retention by 40-60%"
+              - generic [ref=e886]:
+                - generic [ref=e887]: Mobile & Product Design
+                - generic [ref=e889]: 9 MIn
+              - generic [ref=e890]:
+                - 'heading "Mobile App Retention Guide: 7 UX Patterns That Reduce Churn" [level=3] [ref=e891]'
+                - generic [ref=e892]: "Mobile app retention guide: 7 proven UX patterns including habit loops, progressive onboarding, smart notifications, and gamification to boost Day 30 retention."
+          - listitem [ref=e893]:
+            - 'link "5 Proven UI/UX Tweaks to Boost Landing Page Leads Landing Page 9 MIn Landing Page Design Best Practices: 5 UI/UX Tweaks That Convert Landing page design best practices: remove nav menus, cut form fields, optimize speed, use a single CTA, and add trust signals to double your landing page leads." [ref=e894]':
+              - /url: /blogs/landing-page-design-best-practices
+              - generic:
+                - img "5 Proven UI/UX Tweaks to Boost Landing Page Leads"
+              - generic [ref=e895]:
+                - generic [ref=e896]: Landing Page
+                - generic [ref=e898]: 9 MIn
+              - generic [ref=e899]:
+                - 'heading "Landing Page Design Best Practices: 5 UI/UX Tweaks That Convert" [level=3] [ref=e900]'
+                - generic [ref=e901]: "Landing page design best practices: remove nav menus, cut form fields, optimize speed, use a single CTA, and add trust signals to double your landing page leads."
+          - listitem [ref=e902]:
+            - 'link "Design System 5 MIN Design Systems 101: Building a Scalable UI Foundation for Your SaaS SaaS products grow fast, but without a design system, UI becomes inconsistent and hard to scale over time. Learn how to build a scalable design system for SaaS products." [ref=e903]':
+              - /url: /blogs/design-systems-101-saas-guide
+              - generic [ref=e904]:
+                - generic [ref=e905]: Design System
+                - generic [ref=e907]: 5 MIN
+              - generic [ref=e908]:
+                - 'heading "Design Systems 101: Building a Scalable UI Foundation for Your SaaS" [level=3] [ref=e909]'
+                - generic [ref=e910]: SaaS products grow fast, but without a design system, UI becomes inconsistent and hard to scale over time. Learn how to build a scalable design system for SaaS products.
+          - listitem [ref=e911]:
+            - link "Responsive Web Design Best Practices for Startup Growth Web Design 10 Min Responsive Web Design Best Practices for Startup Growth in 2026 Master responsive web design best practices for startup growth. Mobile-first strategy, performance tips, and conversion-focused layouts for 2026." [ref=e912]:
+              - /url: /blogs/responsive-web-design-best-practices
+              - generic:
+                - img "Responsive Web Design Best Practices for Startup Growth"
+              - generic [ref=e913]:
+                - generic [ref=e914]: Web Design
+                - generic [ref=e916]: 10 Min
+              - generic [ref=e917]:
+                - heading "Responsive Web Design Best Practices for Startup Growth in 2026" [level=3] [ref=e918]
+                - generic [ref=e919]: Master responsive web design best practices for startup growth. Mobile-first strategy, performance tips, and conversion-focused layouts for 2026.
+          - listitem [ref=e920]:
+            - 'link "How a Strategic UI/UX Redesign Can Boost Your SaaS Conversions by 30% UI/UX Design 10 MIn SaaS UX Redesign for Conversions: 6 Steps That Lift Trial-to-Paid Rates A SaaS UX redesign for conversions starts by fixing where trial users drop off - here''s the 6-step process that lifts activation and paid conversion." [ref=e921]':
+              - /url: /blogs/saas-ux-redesign-for-conversions
+              - generic:
+                - img "How a Strategic UI/UX Redesign Can Boost Your SaaS Conversions by 30%"
+              - generic [ref=e922]:
+                - generic [ref=e923]: UI/UX Design
+                - generic [ref=e925]: 10 MIn
+              - generic [ref=e926]:
+                - 'heading "SaaS UX Redesign for Conversions: 6 Steps That Lift Trial-to-Paid Rates" [level=3] [ref=e927]'
+                - generic [ref=e928]: A SaaS UX redesign for conversions starts by fixing where trial users drop off - here's the 6-step process that lifts activation and paid conversion.
+          - listitem [ref=e929]:
+            - 'link "UX Design 6 MIn Ecommerce UX Design: Best Practices for a Better Online Shopping Experience Most ecommerce stores fail to convert because the design is confusing. Learn the specific ecommerce UX practices that turn visitors into buyers and increase conversion rates." [ref=e930]':
+              - /url: /blogs/ecommerce-ux-conversion-optimization
+              - generic [ref=e931]:
+                - generic [ref=e932]: UX Design
+                - generic [ref=e934]: 6 MIn
+              - generic [ref=e935]:
+                - 'heading "Ecommerce UX Design: Best Practices for a Better Online Shopping Experience" [level=3] [ref=e936]'
+                - generic [ref=e937]: Most ecommerce stores fail to convert because the design is confusing. Learn the specific ecommerce UX practices that turn visitors into buyers and increase conversion rates.
+          - listitem [ref=e938]:
+            - 'link "Accessibility in UI/UX Design: Best Practices UI/UX Design 10 MIn Accessibility in UI/UX Design: How Designers Can Create Better, Inclusive User Experiences Master accessibility in UI/UX design using WCAG principles, practical checklists, testing methods, and real examples to create inclusive, user-friendly products." [ref=e939]':
+              - /url: /blogs/accessibility-in-ui-ux-design
+              - generic:
+                - 'img "Accessibility in UI/UX Design: Best Practices"'
+              - generic [ref=e940]:
+                - generic [ref=e941]: UI/UX Design
+                - generic [ref=e943]: 10 MIn
+              - generic [ref=e944]:
+                - 'heading "Accessibility in UI/UX Design: How Designers Can Create Better, Inclusive User Experiences" [level=3] [ref=e945]'
+                - generic [ref=e946]: Master accessibility in UI/UX design using WCAG principles, practical checklists, testing methods, and real examples to create inclusive, user-friendly products.
+          - listitem [ref=e947]:
+            - 'link "UX Design 10 Min Biometric Authentication in Apps: The Complete UX Design Guide A complete UX design guide for biometric authentication in mobile apps. Covers face ID, fingerprint flows, fallback states, accessibility, and security-first design patterns." [ref=e948]':
+              - /url: /blogs/biometric-authentication-app-design
+              - generic [ref=e949]:
+                - generic [ref=e950]: UX Design
+                - generic [ref=e952]: 10 Min
+              - generic [ref=e953]:
+                - 'heading "Biometric Authentication in Apps: The Complete UX Design Guide" [level=3] [ref=e954]'
+                - generic [ref=e955]: A complete UX design guide for biometric authentication in mobile apps. Covers face ID, fingerprint flows, fallback states, accessibility, and security-first design patterns.
+          - listitem [ref=e956]:
+            - 'link "Bento Grids Can Transform Your Website’s User Experience Design System 4 MIn Bento Grid Dashboard Design: How to Build Modular UIs That Actually Work Learn how to design a bento grid dashboard that reduces cognitive load, improves visual hierarchy, and scales across screen sizes. Real examples inside." [ref=e957]':
+              - /url: /blogs/bento-grid-dashboard-design-aesthetics
+              - generic:
+                - img "Bento Grids Can Transform Your Website’s User Experience"
+              - generic [ref=e958]:
+                - generic [ref=e959]: Design System
+                - generic [ref=e961]: 4 MIn
+              - generic [ref=e962]:
+                - 'heading "Bento Grid Dashboard Design: How to Build Modular UIs That Actually Work" [level=3] [ref=e963]'
+                - generic [ref=e964]: Learn how to design a bento grid dashboard that reduces cognitive load, improves visual hierarchy, and scales across screen sizes. Real examples inside.
+          - listitem [ref=e965]:
+            - link "UI/UX Design 10 Min How to Choose a UI UX Design Agency for Your SaaS Startup in 2026 Hiring the wrong UI UX design agency for your SaaS startup costs months of runway. See what to look for, the red flags, and how to choose right." [ref=e966]:
+              - /url: /blogs/how-to-choose-ui-ux-agency-saas-startup
+              - generic [ref=e967]:
+                - generic [ref=e968]: UI/UX Design
+                - generic [ref=e970]: 10 Min
+              - generic [ref=e971]:
+                - heading "How to Choose a UI UX Design Agency for Your SaaS Startup in 2026" [level=3] [ref=e972]
+                - generic [ref=e973]: Hiring the wrong UI UX design agency for your SaaS startup costs months of runway. See what to look for, the red flags, and how to choose right.
+          - listitem [ref=e974]:
+            - 'link "Web Design 12 Min Website Design Trends 2026: The Shifts Reshaping UX and Conversions Explore the top web design trends in 2026, from AI and 3D to accessibility, speed, and UX shifts that improve SEO, conversions, and user trust for modern sites." [ref=e975]':
+              - /url: /blogs/web-design-trends
+              - generic [ref=e976]:
+                - generic [ref=e977]: Web Design
+                - generic [ref=e979]: 12 Min
+              - generic [ref=e980]:
+                - 'heading "Website Design Trends 2026: The Shifts Reshaping UX and Conversions" [level=3] [ref=e981]'
+                - generic [ref=e982]: Explore the top web design trends in 2026, from AI and 3D to accessibility, speed, and UX shifts that improve SEO, conversions, and user trust for modern sites.
+    - generic [ref=e985]:
+      - generic [ref=e986]:
+        - generic [ref=e987]:
+          - heading "Got a project in mind? Let's build it" [level=2] [ref=e988]
+          - generic [ref=e989]: Bring your product idea to life with a team that can design, build, and launch it.
+        - generic [ref=e990]:
+          - generic [ref=e991]:
+            - img "Portrait of a man with short black hair and beard, wearing a black suit and tie with a pale green background."
+          - generic [ref=e992]:
+            - generic [ref=e993]: Shohanur Rahman
+            - generic [ref=e994]: Founder & CEO
+      - form "Website Contact Submission" [ref=e997]:
+        - generic [ref=e998]:
+          - generic [ref=e999]: Full Name
+          - textbox "Full Name Full Name*" [ref=e1000]:
+            - /placeholder: John Smith
+        - generic [ref=e1001]:
+          - generic [ref=e1002]: Email
+          - textbox "Email Email*" [ref=e1003]:
+            - /placeholder: you@company.com
+        - generic [ref=e1004]:
+          - generic [ref=e1005]: WhatsApp Number
+          - generic [ref=e1006]:
+            - textbox [ref=e1007]
+            - generic [ref=e1008]: Valid number
+        - generic [ref=e1009]:
+          - generic [ref=e1010]: Project Budget
+          - generic [ref=e1011]:
+            - generic [ref=e1013] [cursor=pointer]: Under $2K
+            - generic [ref=e1015] [cursor=pointer]: $2K – $5K
+            - generic [ref=e1017] [cursor=pointer]: $5K - $10K
+            - generic [ref=e1019] [cursor=pointer]: $10K - $25K
+            - generic [ref=e1021] [cursor=pointer]: More than $25K
+        - generic [ref=e1022]:
+          - generic [ref=e1023]: Project Details
+          - textbox "Project Details" [ref=e1024]:
+            - /placeholder: Tell us about your project
+        - generic [ref=e1025]:
+          - button "Send Inquiry" [ref=e1026] [cursor=pointer]
+          - generic [ref=e1027]:
+            - generic [ref=e1028]: Prefer to talk first?
+            - link "Book a call" [ref=e1029]:
+              - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+              - strong [ref=e1030]: Book a call
+  - generic [ref=e1034]:
+    - generic [ref=e1037]:
+      - generic [ref=e1038]:
+        - generic [ref=e1039]:
+          - link "Orbix Studio":
+            - /url: /
+            - img "Orbix Studio"
+          - generic [ref=e1040]:
+            - heading "Orbix Studio" [level=3] [ref=e1041]
+            - generic [ref=e1042]: We design and build scalable digital products that support complex workflows and business-critical systems.
+          - link "Company Deck" [ref=e1043]:
+            - /url: https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing
+            - generic [ref=e1045]: Company Deck
+        - generic [ref=e1047]:
+          - generic [ref=e1048]:
+            - generic [ref=e1049]: Services
+            - generic [ref=e1050]:
+              - link "UI/UX Design" [ref=e1051]:
+                - /url: /services/ui-ux-design
+              - link "Web Development" [ref=e1052]:
+                - /url: /services/full-stack-development
+              - link "AI Creative Production" [ref=e1053]:
+                - /url: /services/ai-creative-production
+              - link "Webflow" [ref=e1054]:
+                - /url: /services/webflow-expert-agency
+              - link "MVP Development" [ref=e1055]:
+                - /url: /services/mvp-development
+              - generic [ref=e1056]: Framer
+              - link "SaaS Design" [ref=e1057]:
+                - /url: /services/saas-design
+              - link "Custom Illustration" [ref=e1058]:
+                - /url: /services/custom-illustration
+              - link "Mobile App" [ref=e1059]:
+                - /url: /services/mobile-app-development
+              - link "Motion Design" [ref=e1060]:
+                - /url: /services/motion-design
+              - link "Branding" [ref=e1061]:
+                - /url: /services/brand-design
+              - link "Creative Marketing" [ref=e1062]:
+                - /url: /services/creative-marketing
+          - generic [ref=e1063]:
+            - generic [ref=e1064]:
+              - generic [ref=e1065]: Quick Links
+              - generic [ref=e1066]:
+                - link "Case Studies" [ref=e1067]:
+                  - /url: /case-studies
+                - link "About" [ref=e1068]:
+                  - /url: /about
+                - link "Pricing" [ref=e1069]:
+                  - /url: /pricing
+                - link "Careers" [ref=e1070]:
+                  - /url: /career
+                - link "Blog" [ref=e1071]:
+                  - /url: /blogs
+                - link "Contact" [ref=e1072]:
+                  - /url: /contact
+            - generic [ref=e1073]:
+              - generic [ref=e1074]: Follow Us
+              - generic [ref=e1075]:
+                - link "Facebook" [ref=e1076]:
+                  - /url: https://www.facebook.com/orbixstudioLLC/
+                - link "LinkedIn" [ref=e1077]:
+                  - /url: https://www.linkedin.com/company/orbixstudio/
+                - link "Instagram" [ref=e1078]:
+                  - /url: https://www.instagram.com/orbixstudiollc/?hl=en
+                - link "(X) Twitter" [ref=e1079]:
+                  - /url: https://x.com/OrbixStudio
+                - link "Pinterest" [ref=e1080]:
+                  - /url: https://www.pinterest.com/orbixstudio/
+                - link "Dribbble" [ref=e1081]:
+                  - /url: https://dribbble.com/OrbixstudioLLC
+                - link "Behance" [ref=e1082]:
+                  - /url: https://www.behance.net/orbixstudiollc
+      - generic [ref=e1084]:
+        - generic [ref=e1085]:
+          - generic [ref=e1086]:
+            - generic [ref=e1087]: Email us
+            - link "hello@orbix.studio" [ref=e1088]:
+              - /url: mailto:hello@orbix.studio
+          - generic [ref=e1089]:
+            - generic [ref=e1090]: Call Us
+            - link "+1 (646) 598-7983" [ref=e1092]:
+              - /url: https://wa.me/16465987983
+        - generic [ref=e1093]:
+          - generic [ref=e1094]: Limited Liability Company Based In
+          - generic [ref=e1095]:
+            - generic [ref=e1097]:
+              - generic [ref=e1098]:
+                - generic:
+                  - img "flug"
+                - generic [ref=e1099]:
+                  - generic [ref=e1100]: NEW YORK
+                  - generic [ref=e1101]: 88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States
+              - img "Shape" [ref=e1103]
+            - generic [ref=e1106]:
+              - generic:
+                - img "flug"
+              - generic [ref=e1107]:
+                - generic [ref=e1108]: KSA
+                - generic [ref=e1109]: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia
+              - img "Shape" [ref=e1111]
+            - generic [ref=e1114]:
+              - generic:
+                - img "flug"
+              - generic [ref=e1115]:
+                - generic [ref=e1116]: DUBAI
+                - generic [ref=e1117]: 35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates
+              - img "Shape" [ref=e1119]
+            - generic [ref=e1122]:
+              - generic:
+                - img "flug"
+              - generic [ref=e1123]:
+                - generic [ref=e1124]: DHAKA
+                - generic [ref=e1125]: OPL Ayub Tower, Dhaka 1216
+              - img "Shape" [ref=e1127]
+    - generic [ref=e1131]:
+      - generic [ref=e1132]: © 2023-2026, Orbix Studio | All Rights Reserved.
+      - generic [ref=e1133]:
+        - link "Terms of Services" [ref=e1134]:
+          - /url: /terms-of-service
+        - link "Privacy Policy" [ref=e1135]:
+          - /url: /privacy-policy
+        - link "Refund Policy" [ref=e1136]:
+          - /url: /refund-policy

@@ -1,0 +1,329 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Atlas Studio home" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: A
+        - generic [ref=e7]: Atlas Studio
+      - navigation "Primary" [ref=e8]:
+        - button "Services" [ref=e10] [cursor=pointer]:
+          - generic [ref=e11]: Services
+          - generic [ref=e12]: ↘
+        - button "Case Studies (42)" [ref=e14] [cursor=pointer]:
+          - generic [ref=e15]: Case Studies
+          - generic [ref=e16]: (42)
+        - button "Pricing" [ref=e18] [cursor=pointer]:
+          - generic [ref=e19]: Pricing
+        - link "About Us" [ref=e20] [cursor=pointer]:
+          - /url: /about
+        - button "Blog" [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]: Blog
+      - link "Contact Us" [ref=e24] [cursor=pointer]:
+        - /url: https://wa.me/919321573724
+        - generic [ref=e25]: Contact Us
+        - generic [ref=e26]: ↗
+  - main [ref=e27]:
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - generic [ref=e32]: ◎
+          - generic [ref=e33]: Founder-led from Pune, shipping for teams across India, UAE, UK & USA
+        - heading "Custom Websites, Web Apps & SEO For Growing B2B Brands" [level=1] [ref=e34]:
+          - generic [ref=e35]: Custom Websites, Web Apps & SEO
+          - generic [ref=e36]: For Growing B2B Brands
+        - paragraph [ref=e37]: Atlas Studio helps serious brands plan, design, build, and optimise high-performance websites, Shopify experiences, and focused web apps without the drag of a traditional agency stack.
+        - generic [ref=e38]:
+          - link "Book A Free 30-Min Call" [ref=e39] [cursor=pointer]:
+            - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+            - generic [ref=e40]: Book A Free 30-Min Call
+            - generic [ref=e41]: AT
+          - link "Chat On WhatsApp" [ref=e42] [cursor=pointer]:
+            - /url: https://wa.me/919321573724
+            - generic [ref=e43]: ●
+            - generic [ref=e44]: Chat On WhatsApp
+      - complementary [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47]: Founder-led execution
+          - generic [ref=e48]: AI-assisted delivery
+          - generic [ref=e49]: Fast launch rhythm
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - generic [ref=e52]: →
+            - generic [ref=e53]: Fast website launches
+          - generic [ref=e54]:
+            - generic [ref=e55]: →
+            - generic [ref=e56]: Dedicated delivery partner
+          - generic [ref=e57]:
+            - generic [ref=e58]: →
+            - generic [ref=e59]: Better conversion pages
+          - generic [ref=e60]:
+            - generic [ref=e61]: →
+            - generic [ref=e62]: Clean and scalable builds
+          - generic [ref=e63]:
+            - generic [ref=e64]: →
+            - generic [ref=e65]: Ongoing growth support
+    - generic [ref=e66]:
+      - generic [ref=e67]: Chosen by ambitious teams building for growth
+      - generic [ref=e69]:
+        - generic [ref=e70]: SightSync
+        - generic [ref=e71]: Novacodify
+        - generic [ref=e72]: Mental Well
+        - generic [ref=e73]: Casa Carigar
+        - generic [ref=e74]: Pablo
+        - generic [ref=e75]: PartyQuest
+        - generic [ref=e76]: Walla
+        - generic [ref=e77]: Century 21
+        - generic [ref=e78]: Bytes
+        - generic [ref=e79]: SightSync
+        - generic [ref=e80]: Novacodify
+        - generic [ref=e81]: Mental Well
+        - generic [ref=e82]: Casa Carigar
+        - generic [ref=e83]: Pablo
+        - generic [ref=e84]: PartyQuest
+        - generic [ref=e85]: Walla
+        - generic [ref=e86]: Century 21
+        - generic [ref=e87]: Bytes
+      - generic [ref=e89]:
+        - generic [ref=e90]: Dafi
+        - generic [ref=e91]: Zone
+        - generic [ref=e92]: Tivly
+        - generic [ref=e93]: Gharmish
+        - generic [ref=e94]: Blaze Responsibly
+        - generic [ref=e95]: Allverse GPT
+        - generic [ref=e96]: NexCard
+        - generic [ref=e97]: Privilee
+        - generic [ref=e98]: Couriq
+        - generic [ref=e99]: Dafi
+        - generic [ref=e100]: Zone
+        - generic [ref=e101]: Tivly
+        - generic [ref=e102]: Gharmish
+        - generic [ref=e103]: Blaze Responsibly
+        - generic [ref=e104]: Allverse GPT
+        - generic [ref=e105]: NexCard
+        - generic [ref=e106]: Privilee
+        - generic [ref=e107]: Couriq
+    - generic [ref=e108]:
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - heading "Get A Delivery Team That Moves Faster Than Hiring In-House" [level=1] [ref=e111]:
+            - generic [ref=e112]: Get A Delivery Team That Moves
+            - generic [ref=e113]: Faster Than Hiring In-House
+          - paragraph [ref=e114]: Most growing brands lose time coordinating strategy, design, development, SEO, and handoffs across multiple freelancers or departments. Atlas works as one compact execution partner so serious website work moves faster and with less friction.
+          - link "See Our Plans" [ref=e115] [cursor=pointer]:
+            - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+            - generic [ref=e116]: See Our Plans
+            - generic [ref=e117]: ↗
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: →
+            - generic [ref=e121]: Fast Website Launches
+          - generic [ref=e122]:
+            - generic [ref=e123]: →
+            - generic [ref=e124]: Dedicated Delivery Partner
+          - generic [ref=e125]:
+            - generic [ref=e126]: →
+            - generic [ref=e127]: Better Conversion Pages
+          - generic [ref=e128]:
+            - generic [ref=e129]: →
+            - generic [ref=e130]: Clean & Scalable Builds
+          - generic [ref=e131]:
+            - generic [ref=e132]: →
+            - generic [ref=e133]: Ongoing Growth Support
+      - generic [ref=e134]:
+        - article [ref=e135]:
+          - generic [ref=e136]: Fast Support
+          - generic [ref=e137]: "1"
+          - heading "Work With A Dedicated Build Partner" [level=3] [ref=e138]
+          - paragraph [ref=e139]: You get consistent direction, faster decisions, and fewer delays because the same delivery system stays close to the work.
+        - article [ref=e140]:
+          - generic [ref=e141]: Built To Move
+          - generic [ref=e142]: "2"
+          - heading "Launch Better Websites In Weeks" [level=3] [ref=e143]
+          - paragraph [ref=e144]: Strategy, design, and implementation move in one flow so launches stop stretching into slow, disconnected phases.
+        - article [ref=e145]:
+          - generic [ref=e146]: Flexible Scaling
+          - generic [ref=e147]: "3"
+          - heading "Add Capacity Only When You Need It" [level=3] [ref=e148]
+          - paragraph [ref=e149]: AI-assisted production expands output without forcing you into a heavyweight agency retainer model.
+        - article [ref=e150]:
+          - generic [ref=e151]: Focused Execution
+          - generic [ref=e152]: "4"
+          - heading "Stay Focused On Growth, Not Coordination" [level=3] [ref=e153]
+          - paragraph [ref=e154]: Atlas handles structure, interface, development, and SEO execution while your team stays focused on product and sales.
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - generic [ref=e158]: Our Services
+        - heading "Website, Ecommerce, And Product Delivery, Made Simple" [level=1] [ref=e159]:
+          - generic [ref=e160]: Website, Ecommerce, And Product
+          - generic [ref=e161]: Delivery, Made Simple
+        - paragraph [ref=e162]: From structure and interface to development and optimisation, Atlas keeps the full website build journey under one clear delivery system.
+      - generic [ref=e163]:
+        - link "Custom Websites (01) Custom Websites Fast, polished sites for SaaS and B2B brands. Positioning Website Design Conversion Flow" [ref=e164] [cursor=pointer]:
+          - /url: /services/saas-design
+          - generic [ref=e165]:
+            - generic [ref=e166]: Custom Websites
+            - generic [ref=e167]: (01)
+          - generic [ref=e171]:
+            - heading "Custom Websites" [level=3] [ref=e172]
+            - paragraph [ref=e173]: Fast, polished sites for SaaS and B2B brands.
+            - generic [ref=e174]:
+              - generic [ref=e175]: Positioning
+              - generic [ref=e176]: Website Design
+              - generic [ref=e177]: Conversion Flow
+        - link "Shopify Design & Development (02) Shopify Design & Development Storefronts built for growth, clarity, and SEO. Theme Development Storefront UX Technical SEO" [ref=e178] [cursor=pointer]:
+          - /url: /services/shopify-agency
+          - generic [ref=e179]:
+            - generic [ref=e180]: Shopify Design & Development
+            - generic [ref=e181]: (02)
+          - generic [ref=e185]:
+            - heading "Shopify Design & Development" [level=3] [ref=e186]
+            - paragraph [ref=e187]: Storefronts built for growth, clarity, and SEO.
+            - generic [ref=e188]:
+              - generic [ref=e189]: Theme Development
+              - generic [ref=e190]: Storefront UX
+              - generic [ref=e191]: Technical SEO
+        - link "Custom Web Apps (03) Custom Web Apps Portals, dashboards, and internal tools with clean UX. Dashboards Client Portals Workflow Automation" [ref=e192] [cursor=pointer]:
+          - /url: /services/mvp-development
+          - generic [ref=e193]:
+            - generic [ref=e194]: Custom Web Apps
+            - generic [ref=e195]: (03)
+          - generic [ref=e199]:
+            - heading "Custom Web Apps" [level=3] [ref=e200]
+            - paragraph [ref=e201]: Portals, dashboards, and internal tools with clean UX.
+            - generic [ref=e202]:
+              - generic [ref=e203]: Dashboards
+              - generic [ref=e204]: Client Portals
+              - generic [ref=e205]: Workflow Automation
+        - link "SEO & Optimisation (04) SEO & Optimisation Technical improvements that help serious sites scale. Core Web Vitals On-page SEO Growth Support" [ref=e206] [cursor=pointer]:
+          - /url: /services/saas-design
+          - generic [ref=e207]:
+            - generic [ref=e208]: SEO & Optimisation
+            - generic [ref=e209]: (04)
+          - generic [ref=e213]:
+            - heading "SEO & Optimisation" [level=3] [ref=e214]
+            - paragraph [ref=e215]: Technical improvements that help serious sites scale.
+            - generic [ref=e216]:
+              - generic [ref=e217]: Core Web Vitals
+              - generic [ref=e218]: On-page SEO
+              - generic [ref=e219]: Growth Support
+    - generic [ref=e221]:
+      - generic [ref=e222]:
+        - generic [ref=e223]: Featured Case Studies
+        - heading "Selected Website And Product Builds In Motion" [level=1] [ref=e224]:
+          - generic [ref=e225]: Selected Website And Product
+          - generic [ref=e226]: Builds In Motion
+        - paragraph [ref=e227]: "Project imagery will be upgraded next, but the core Atlas focus is already locked in: better websites, stronger Shopify storefronts, cleaner web apps, and SEO-minded delivery."
+        - link "Explore Case Studies" [ref=e228] [cursor=pointer]:
+          - /url: /blogs
+          - text: Explore Case Studies
+          - generic [ref=e229]: ↗
+      - article [ref=e230]:
+        - generic [ref=e231]:
+          - generic [ref=e232]: Shopify Growth Rebuild
+          - generic [ref=e233]: Shopify Design & Development
+          - paragraph [ref=e234]: A cleaner storefront structure shaped around merchandising, faster load times, and stronger conversion paths.
+      - article [ref=e239]:
+        - generic [ref=e240]:
+          - generic [ref=e241]: B2B Website System
+          - generic [ref=e242]: Custom Websites
+          - paragraph [ref=e243]: A sharper website architecture for brands that need positioning clarity, premium visual design, and credible delivery.
+      - article [ref=e248]:
+        - generic [ref=e249]:
+          - generic [ref=e250]: Internal Workflow Portal
+          - generic [ref=e251]: Custom Web Apps
+          - paragraph [ref=e252]: Focused dashboards and client-facing systems that simplify operations without bloated product complexity.
+    - generic [ref=e258]:
+      - generic [ref=e259]:
+        - generic [ref=e260]: Our Process
+        - heading "A Faster Way To Launch Serious Digital Work" [level=1] [ref=e261]:
+          - generic [ref=e262]: A Faster Way To Launch
+          - generic [ref=e263]: Serious Digital Work
+        - paragraph [ref=e264]: Atlas condenses strategy, interface, implementation, and optimisation into one direct system so projects move from planning to launch with less drag.
+      - generic [ref=e265]:
+        - article [ref=e266]:
+          - generic [ref=e268]:
+            - generic [ref=e269]: Step 1
+            - generic [ref=e270]: Plan
+          - heading "Define The Growth Goal" [level=3] [ref=e271]
+          - paragraph [ref=e272]: "We start by identifying what the website or product needs to do first: convert better, explain the offer clearly, or support a specific business workflow."
+        - article [ref=e273]:
+          - generic [ref=e275]:
+            - generic [ref=e276]: Step 2
+            - generic [ref=e277]: Structure
+          - heading "Shape The User Experience" [level=3] [ref=e278]
+          - paragraph [ref=e279]: We plan the pages, content flow, product structure, and technical direction before development starts.
+        - article [ref=e280]:
+          - generic [ref=e282]:
+            - generic [ref=e283]: Step 3
+            - generic [ref=e284]: Build
+          - heading "Design, Develop, Optimise" [level=3] [ref=e285]
+          - paragraph [ref=e286]: Design and development move together so the result ships faster and lands cleaner, with SEO and performance considered from day one.
+    - generic [ref=e288]:
+      - heading "What Brands Say About Working With Atlas" [level=1] [ref=e290]:
+        - generic [ref=e291]: What Brands Say About
+        - generic [ref=e292]: Working With Atlas
+      - generic [ref=e293]:
+        - article [ref=e294]:
+          - generic [ref=e295]: Clearer positioning
+          - paragraph [ref=e296]: “Atlas helped us simplify our website direction and move from scattered ideas to a much clearer, stronger launch path.”
+          - generic [ref=e297]: Founder, B2B SaaS Brand
+        - article [ref=e298]:
+          - generic [ref=e299]: Faster execution
+          - paragraph [ref=e300]: “The biggest difference was speed. We were not managing multiple people anymore, and the work still felt thoughtful.”
+          - generic [ref=e301]: Operator, Ecommerce Team
+        - article [ref=e302]:
+          - generic [ref=e303]: Better delivery flow
+          - paragraph [ref=e304]: “What stood out was the mix of strategy, design thinking, and practical implementation. It never felt like surface-level polish only.”
+          - generic [ref=e305]: Product Lead, Growth Startup
+  - contentinfo [ref=e306]:
+    - generic [ref=e307]:
+      - generic [ref=e308]:
+        - generic [ref=e309]:
+          - generic [ref=e310]: A
+          - generic [ref=e311]: Atlas Studio
+        - paragraph [ref=e312]: Founder-led website, Shopify, web-app, and SEO execution for serious SaaS, ecommerce, and B2B brands.
+        - generic [ref=e313]:
+          - link "hello@atlastudio.in" [ref=e314] [cursor=pointer]:
+            - /url: mailto:hello@atlastudio.in
+          - link "+91 9321573724" [ref=e315] [cursor=pointer]:
+            - /url: https://wa.me/919321573724
+      - generic [ref=e316]:
+        - generic [ref=e317]:
+          - generic [ref=e318]: Services
+          - link "Custom Websites" [ref=e319] [cursor=pointer]:
+            - /url: /services/saas-design
+          - link "Shopify Design & Development" [ref=e320] [cursor=pointer]:
+            - /url: /services/shopify-agency
+          - link "Custom Web Apps" [ref=e321] [cursor=pointer]:
+            - /url: /services/mvp-development
+          - link "SEO & Optimisation" [ref=e322] [cursor=pointer]:
+            - /url: /services/saas-design
+        - generic [ref=e323]:
+          - generic [ref=e324]: Quick Links
+          - link "About" [ref=e325] [cursor=pointer]:
+            - /url: /about
+          - link "Blogs" [ref=e326] [cursor=pointer]:
+            - /url: /blogs
+          - link "Terms of Service" [ref=e327] [cursor=pointer]:
+            - /url: /terms-of-service
+          - link "Privacy Policy" [ref=e328] [cursor=pointer]:
+            - /url: /privacy-policy
+          - link "Refund Policy" [ref=e329] [cursor=pointer]:
+            - /url: /refund-policy
+        - generic [ref=e330]:
+          - generic [ref=e331]: Follow Us
+          - link "Instagram" [ref=e332] [cursor=pointer]:
+            - /url: https://www.instagram.com/atlastudio/?hl=en
+          - link "LinkedIn" [ref=e333] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/atlastudio/
+          - link "Behance" [ref=e334] [cursor=pointer]:
+            - /url: https://www.behance.net/atlastudio
+    - generic [ref=e336]:
+      - generic [ref=e337]: © 2023-2026, Atlas Studio | All Rights Reserved.
+      - generic [ref=e338]:
+        - link "Terms of Service" [ref=e339] [cursor=pointer]:
+          - /url: /terms-of-service
+        - link "Privacy Policy" [ref=e340] [cursor=pointer]:
+          - /url: /privacy-policy
+        - link "Refund Policy" [ref=e341] [cursor=pointer]:
+          - /url: /refund-policy

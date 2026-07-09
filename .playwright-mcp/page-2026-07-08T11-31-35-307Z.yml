@@ -1,0 +1,605 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "home" [ref=e6]:
+        - /url: /
+        - img "Orbix Studio" [ref=e7]
+      - navigation [ref=e8]:
+        - button "Services" [ref=e10] [cursor=pointer]:
+          - link "Services" [ref=e11]:
+            - /url: /services
+        - button "Case Studies (42)" [ref=e14] [cursor=pointer]:
+          - link "Case Studies (42)" [ref=e15]:
+            - /url: /case-studies
+            - text: Case Studies
+            - superscript [ref=e16]: (42)
+        - button "Pricing" [ref=e18] [cursor=pointer]:
+          - link "Pricing" [ref=e19]:
+            - /url: /pricing
+        - link "About Us" [ref=e20]:
+          - /url: /about
+          - generic [ref=e21]: About Us
+        - button "Blog" [ref=e23] [cursor=pointer]:
+          - link "Blog" [ref=e24]:
+            - /url: /blogs
+        - button "Resources" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27]: Resources
+      - link "Contact Us" [ref=e29]:
+        - /url: /contact
+        - generic [ref=e31]: Contact Us
+  - main [ref=e32]:
+    - generic [ref=e33]:
+      - generic [ref=e35]:
+        - generic [ref=e38]: Webflow Design & Development
+        - heading "Professional Webflow Development Agency" [level=1] [ref=e39]
+        - link "Schedule a Demo" [ref=e41]:
+          - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+          - generic [ref=e43]: Schedule a Demo
+      - generic [ref=e46]:
+        - generic [ref=e47]: Trusted by 80+ SaaS Founders and Product Teams
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e54]
+              - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=e58]
+            - generic [ref=e64]:
+              - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e68]
+              - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=e72]
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - img "Line graph showing a steady increase from 0% to 100% over time." [ref=e82]
+              - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e84]
+              - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=e87]
+            - generic [ref=e93]:
+              - img "Line graph showing a steady increase from 0% to 100% over time." [ref=e96]
+              - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e98]
+              - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=e101]
+    - generic [ref=e111]:
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - generic [ref=e116]: Webflow Design & Build
+          - heading "Get a Custom Webflow Website Designed and Developed in 1 Week" [level=2] [ref=e117]:
+            - text: Get a Custom Webflow
+            - generic [ref=e118]:
+              - text: Website
+              - emphasis [ref=e119]: Designed and Developed in 1 Week
+        - generic [ref=e121]: In just 1 week, we design and develop a custom Webflow website tailored to your brand, content, and goals. It’s a fast, focused process built to deliver a premium site without dragging the project out for weeks.
+        - link "Start Your Project" [ref=e122]:
+          - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+          - generic [ref=e124]: Start Your Project
+      - img "Two silhouetted people viewing a computer screen displaying Finorix financial control website with green background." [ref=e127]
+    - generic [ref=e130]:
+      - generic [ref=e131]:
+        - heading "Why Orbix studio?" [level=2] [ref=e132]
+        - generic [ref=e133]: Orbix Studio is a global UI/UX design and development agency with six years of hands-on Webflow experience. We help brands launch polished, high-performing websites with the speed, structure, and quality modern teams expect.
+      - generic [ref=e134]:
+        - generic [ref=e136]:
+          - generic [ref=e137]: Webflow and website projects successfully delivered across startups and growing brands
+          - heading "140+" [level=3] [ref=e138]
+        - generic [ref=e141]:
+          - generic [ref=e142]: Brands and internal teams supported through design and development projects
+          - heading "80+" [level=3] [ref=e143]
+        - generic [ref=e145]:
+          - generic [ref=e146]: Years of hands-on experience building custom websites in Webflow
+          - heading "06+" [level=3] [ref=e147]
+        - generic [ref=e149]:
+          - generic [ref=e150]: Average client rating across projects focused on quality, speed, and trust
+          - heading "4.9" [level=3] [ref=e151]
+    - generic [ref=e154]:
+      - generic [ref=e155]:
+        - generic [ref=e158]: What We Offer
+        - heading "Custom Webflow Design & Dev for B2B SaaS and AI Products" [level=2] [ref=e159]
+        - generic [ref=e160]: Our team designs and develops custom Webflow websites from start to finish. You get a site that looks sharp, works smoothly, and is ready to support marketing and growth.
+      - generic [ref=e161]:
+        - generic:
+          - img "Person holding a tablet displaying a website homepage titled Flowrix with a dark-themed design and navigation menu."
+          - generic [ref=e162]:
+            - heading "Figma to Webflow Development" [level=3] [ref=e163]:
+              - strong [ref=e164]: Figma to Webflow Development
+            - generic: Convert Figma designs into a flawless Webflow build, launch-ready.
+        - generic:
+          - img "Person holding a tablet displaying a finance app with the headline 'Get Your Finances Under Control In Minutes' and demo statistics."
+          - generic [ref=e165]:
+            - heading "Custom Webflow Design" [level=3] [ref=e166]:
+              - strong [ref=e167]: Custom Webflow Design
+            - generic [ref=e168]: We design custom Webflow sites that reflect your brand and align with your vision.
+        - generic:
+          - img "Person holding a tablet displaying a construction website featuring a worker in a yellow helmet using equipment."
+          - generic [ref=e169]:
+            - heading "Webflow Landing Page Design" [level=3] [ref=e170]:
+              - strong [ref=e171]: Webflow Landing Page Design
+            - generic [ref=e172]: We specialize in crafting Webflow landing pages that deliver a focused message and drive conversions.
+        - generic:
+          - img "Person holding a tablet displaying a UI/UX design webpage for softcare skin products featuring a woman holding a skincare bottle."
+          - generic [ref=e173]:
+            - heading "Full Webflow Design + Development" [level=3] [ref=e174]:
+              - strong [ref=e175]: Full Webflow Design + Development
+            - generic [ref=e176]: We oversee the complete website creation, from design to Webflow build, for a smooth experience.
+        - generic:
+          - img "Person holding a tablet displaying a real estate app with a modern house and the text 'Architecture is Forever'."
+          - generic [ref=e177]:
+            - heading "Webflow CMS Architecture" [level=3] [ref=e178]:
+              - strong [ref=e179]: Webflow CMS Architecture
+            - generic: A strategic CMS design helps manage expanding content efficiently, keeping everything organized.
+        - generic:
+          - img "Computer monitor displaying a website for Livento with the tagline 'A Smarter Home That Understands You' and buttons for Explore Features and Heat Vests."
+          - generic [ref=e180]:
+            - heading "Custom Animations & Interactions" [level=3] [ref=e181]:
+              - strong [ref=e182]: Custom Animations & Interactions
+            - generic [ref=e183]: Effective motion enhances a website's appeal and guides user focus, adding personality without distraction.
+    - generic [ref=e186]:
+      - generic [ref=e187]:
+        - generic [ref=e189]: Our Process
+        - heading "A Clear Webflow Process Built for Fast, Custom Website Launches" [level=2] [ref=e190]
+        - generic [ref=e191]: Every project moves through a focused four-step process, from requirements and planning to custom design, Webflow development, and launch. That keeps the work clear, fast, and easier to move forward without unnecessary delays.
+      - generic [ref=e199]:
+        - generic [ref=e200]:
+          - generic [ref=e201]:
+            - generic [ref=e203]: Step 1
+            - generic [ref=e204]: Plan
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - heading "Gather Requirements" [level=3] [ref=e210]:
+                - strong [ref=e211]: Gather Requirements
+              - paragraph [ref=e212]: Every project starts with understanding your goals, content, required pages, and references.
+            - img "Smiling man with beard waving during a video call interface on screen." [ref=e214]
+        - generic [ref=e215]:
+          - generic [ref=e216]:
+            - generic [ref=e218]: Step 2
+            - generic [ref=e219]: Design
+          - generic [ref=e223]:
+            - generic [ref=e224]:
+              - heading "Create the UI/UX Direction" [level=3] [ref=e225]:
+                - strong [ref=e226]: Create the UI/UX Direction
+              - paragraph [ref=e227]: With the structure in place, the visual design is created around your brand.
+            - img "Website homepage showing food delivery app with tagline 'Fast, Fresh & Delivered To Your Door' and app interface on mobile phones." [ref=e229]
+        - generic [ref=e230]:
+          - generic [ref=e231]:
+            - generic [ref=e233]: Step 3
+            - generic [ref=e234]: Build
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - heading "Develop, and Launch in Webflow" [level=3] [ref=e240]:
+                - strong [ref=e241]: Develop, and Launch in Webflow
+              - paragraph [ref=e242]: After approval, the design is developed in Webflow, and prepared for a smooth launch.
+            - img "Dashboard interface on a tablet showing user welcome message, compliance score gauge at 94%, financial metrics, and usage statistics." [ref=e244]
+    - generic [ref=e247]:
+      - generic [ref=e248]:
+        - generic [ref=e251]: Why Orbix Studio
+        - heading "What Makes Our Webflow Builds Worth It" [level=2] [ref=e252]
+      - generic [ref=e253]:
+        - generic [ref=e255]:
+          - heading "Custom, Not Template-Based" [level=3] [ref=e256]:
+            - strong [ref=e257]: Custom, Not Template-Based
+          - generic [ref=e258]: Every website is designed around your brand, content, and goals, so the final result feels distinct instead of off-the-shelf
+        - generic [ref=e261]:
+          - heading "Built to Launch Faster" [level=3] [ref=e262]:
+            - strong [ref=e263]: Built to Launch Faster
+          - generic [ref=e264]: A clear process keeps design and development moving together. It helps the site go live without dragging through weeks of unnecessary delay.
+        - generic [ref=e266]:
+          - heading "Easy to Manage Later" [level=3] [ref=e267]:
+            - strong [ref=e268]: Easy to Manage Later
+          - generic [ref=e269]: Clean structure and thoughtful setup make updates simpler. So, your team can manage content without constant friction.
+        - generic [ref=e272]:
+          - heading "Structured to Scale" [level=3] [ref=e273]:
+            - strong [ref=e274]: Structured to Scale
+          - generic [ref=e275]: The site is built with future growth in mind. This makes it easier to add pages, collections, and new content over time.
+        - generic [ref=e277]:
+          - heading "Polished in the Details" [level=3] [ref=e278]:
+            - strong [ref=e279]: Polished in the Details
+          - generic [ref=e280]: Well-handled interactions, spacing, and responsive behavior give the site a smoother feel across the whole experience.
+        - generic [ref=e282]:
+          - heading "Ready for Real Use" [level=3] [ref=e283]:
+            - strong [ref=e284]: Ready for Real Use
+          - generic [ref=e285]: Launch is not treated like the finish line alone. The final build is prepared to support marketing, content updates, and day-to-day business needs.
+    - generic [ref=e289]:
+      - generic [ref=e290]:
+        - generic [ref=e294]: Why Work With Orbix Studio
+        - generic [ref=e295]:
+          - heading "A Faster, More Thoughtful Way to Build in Webflow" [level=2] [ref=e296]
+          - generic [ref=e297]: From strategy to launch, the process stays focused, collaborative, and built around delivering custom Webflow websites without unnecessary delays.
+      - generic [ref=e298]:
+        - generic [ref=e301]:
+          - generic [ref=e302]: Fast Turnaround
+          - generic [ref=e303]: Projects move quickly without losing quality or attention to detail.
+        - generic [ref=e307]:
+          - strong [ref=e309]: Custom-First Approach
+          - generic [ref=e310]: Every site is shaped around the brand instead of forcing a template.
+        - generic [ref=e314]:
+          - strong [ref=e316]: Clear Communication
+          - generic [ref=e317]: Feedback, revisions, and progress stay organized from start to finish.
+        - generic [ref=e321]:
+          - generic [ref=e322]: Built for Growth
+          - generic [ref=e323]: The final site is easier to manage, expand, and improve over time.
+      - link "Start Your Project" [ref=e325]:
+        - /url: /contact
+        - generic [ref=e327]: Start Your Project
+    - generic [ref=e332]:
+      - generic [ref=e333]:
+        - heading "Ready to Build Your Next Webflow Website?" [level=2] [ref=e334]
+        - generic [ref=e335]: We help SaaS and AI companies design and develop Webflow websites that look sharp, load fast, and support growth.
+      - link "Book a Discovery Call" [ref=e336]:
+        - /url: https://api.whatsapp.com/send/?phone=16465987983&text&type=phone_number&app_absent=0
+        - generic [ref=e338]: Book a Discovery Call
+    - generic [ref=e341]:
+      - heading "What SaaS Teams Say About Working With Orbix Studio" [level=2] [ref=e342]
+      - generic [ref=e343]:
+        - tabpanel "client-1" [ref=e345]:
+          - generic [ref=e349]:
+            - generic [ref=e352]:
+              - generic [ref=e353]: Website Design
+              - generic [ref=e355]: App Design
+              - generic [ref=e357]: Branding
+            - generic [ref=e359]:
+              - generic [ref=e360]: "\"Orbix Studio has created remarkable work for The Whitney building that helped us define not just this individual building but the new direction in which we are heading as a group\""
+              - generic [ref=e361]:
+                - generic [ref=e362]: Tiyahnn Bryant
+                - generic [ref=e363]: CEO at RollUpLife Inc
+              - generic [ref=e364]:
+                - generic [ref=e365]:
+                  - generic [ref=e366]:
+                    - generic [ref=e367]: 4X
+                    - generic [ref=e368]: Increase in design capacity
+                  - generic [ref=e369]:
+                    - generic [ref=e370]: 60%
+                    - generic [ref=e371]: Reduction in time to market
+                  - generic [ref=e372]:
+                    - generic [ref=e373]: 40+
+                    - generic [ref=e374]: Number of brands
+                - generic [ref=e375]:
+                  - generic:
+                    - img "Smartphone displaying a digital weather app showing a sunny day with a temperature of 36 degrees Celsius."
+                  - generic [ref=e376]:
+                    - heading "GiveHub -" [level=3] [ref=e377]
+                    - generic [ref=e378]: Transparent Donation & Charity Platform
+        - tablist [ref=e379]:
+          - tab "client-1" [selected] [ref=e380]:
+            - img "Logo of XL Axiata with the text 'Raih Performa Tertinggi' next to an orange 'XL' in a rounded square."
+          - tab "client-2" [ref=e381]
+          - tab "aria-label-3" [ref=e382]:
+            - img "Casa de las Letras logo with an open book and purple text."
+          - tab "client-4" [ref=e383]
+          - tab "client-7" [ref=e384]
+          - tab "client-5" [ref=e385]
+          - tab "client-6" [ref=e386]
+          - tab "client-8" [ref=e387]
+    - generic [ref=e390]:
+      - generic [ref=e391]:
+        - generic [ref=e394]: RESOURCES
+        - heading "Get deeper insights, tips, and real talk from the blog." [level=2] [ref=e395]
+      - list [ref=e397]:
+        - listitem [ref=e398]:
+          - link "Thumbnail illustrating website design cost for a B2B SaaS company with pricing guidance and cost estimation for modern SaaS websites. Web Design 10 Min How Much Does Website Design Cost for a B2B SaaS Company? B2B SaaS website design costs $5,000 to $150,000 or more. See real price ranges by stage, what drives the cost, and how to budget yours right." [ref=e399]:
+            - /url: /blogs/website-design-cost
+            - generic:
+              - img "Thumbnail illustrating website design cost for a B2B SaaS company with pricing guidance and cost estimation for modern SaaS websites."
+            - generic [ref=e400]:
+              - generic [ref=e401]: Web Design
+              - generic [ref=e402]: 10 Min
+            - generic [ref=e403]:
+              - heading "How Much Does Website Design Cost for a B2B SaaS Company?" [level=3] [ref=e404]
+              - generic [ref=e405]: B2B SaaS website design costs $5,000 to $150,000 or more. See real price ranges by stage, what drives the cost, and how to budget yours right.
+        - listitem [ref=e406]:
+          - 'link "Healthcare website design cost in 2026 featuring pricing categories for medical website development and custom healthcare web design. Web Design 15 Min Healthcare Website Design Cost: Complete Pricing Guide for Clinics, Hospitals & Medical Practices See average healthcare website pricing, cost by organization type, HIPAA compliance costs, feature pricing, and practical budgeting advice for healthcare providers." [ref=e407]':
+            - /url: /blogs/healthcare-website-design-cost
+            - generic:
+              - img "Healthcare website design cost in 2026 featuring pricing categories for medical website development and custom healthcare web design."
+            - generic [ref=e408]:
+              - generic [ref=e409]: Web Design
+              - generic [ref=e410]: 15 Min
+            - generic [ref=e411]:
+              - 'heading "Healthcare Website Design Cost: Complete Pricing Guide for Clinics, Hospitals & Medical Practices" [level=3] [ref=e412]'
+              - generic [ref=e413]: See average healthcare website pricing, cost by organization type, HIPAA compliance costs, feature pricing, and practical budgeting advice for healthcare providers.
+        - listitem [ref=e414]:
+          - link "Healthcare website design trends thumbnail showcasing telemedicine, patient portal UX, responsive medical website design, accessibility, and modern healthcare digital experiences. Web Design 15 Min Healthcare Web Design Trends in 2026 Healthcare web design trends are rewriting patient trust. See 10 patterns, a 30-feature analysis table, and the self-audit every clinic needs in 2026." [ref=e415]:
+            - /url: /blogs/healthcare-web-design-trends
+            - generic:
+              - img "Healthcare website design trends thumbnail showcasing telemedicine, patient portal UX, responsive medical website design, accessibility, and modern healthcare digital experiences."
+            - generic [ref=e416]:
+              - generic [ref=e417]: Web Design
+              - generic [ref=e418]: 15 Min
+            - generic [ref=e419]:
+              - heading "Healthcare Web Design Trends in 2026" [level=3] [ref=e420]
+              - generic [ref=e421]: Healthcare web design trends are rewriting patient trust. See 10 patterns, a 30-feature analysis table, and the self-audit every clinic needs in 2026.
+      - link "View All Blog" [ref=e422]:
+        - /url: /blogs
+        - generic [ref=e424]: View All Blog
+    - generic [ref=e428]:
+      - generic [ref=e429]:
+        - generic [ref=e430]:
+          - generic [ref=e431]:
+            - heading "Got Questions?" [level=2] [ref=e432]
+            - heading "We’ve Got Answers" [level=2] [ref=e433]
+          - paragraph [ref=e434]: If you’re unsure where to start or want to see how we can help, reach out, and we’ll walk you through it.
+        - generic [ref=e435]:
+          - generic [ref=e436]:
+            - generic [ref=e437]:
+              - heading "Book an Intro Call" [level=3] [ref=e438]
+              - generic [ref=e439]: Let’s talk through your goals, your timeline, and how Orbix Studio can support your team.
+            - link "Book a Call" [ref=e440]:
+              - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+              - generic [ref=e442]: Book a Call
+          - generic [ref=e446]:
+            - generic [ref=e447]: Do you prefer email communication?
+            - link "hello@orbix.studio" [ref=e448]:
+              - /url: mailto:hello@orbix.studio
+      - generic [ref=e449]:
+        - generic [ref=e450]:
+          - button "What does a Webflow agency do that a freelancer can't?" [ref=e451] [cursor=pointer]:
+            - heading "What does a Webflow agency do that a freelancer can't?" [level=3] [ref=e453]
+          - navigation "What does a Webflow agency do that a freelancer can't?":
+            - paragraph [ref=e458]: A Webflow agency brings a team of a designer, a developer, a copywriter, and a QA layer on one contract. A freelancer is great for a small site. An agency is what you need when the build includes CMS architecture, 50+ pages, custom interactions, SEO setup, and integrations with your stack. Different jobs, different tools.
+        - generic [ref=e459]:
+          - button "How much does a Webflow website cost from an agency in 2026?" [ref=e460] [cursor=pointer]:
+            - heading "How much does a Webflow website cost from an agency in 2026?" [level=3] [ref=e462]
+          - navigation "How much does a Webflow website cost from an agency in 2026?":
+            - paragraph [ref=e467]: A marketing site from a quality Webflow agency sits at $5,000 - $15,000 in 2026. Larger CMS-driven sites run $15,000 - $50,000. Our Startup plan ships a conversion-ready Webflow site inside $2,999/month (100 hours) so you get design, build, and copy as one deliverable, not three invoices.
+        - generic [ref=e468]:
+          - button "How long does it take to design and build a Webflow site?" [ref=e469] [cursor=pointer]:
+            - heading "How long does it take to design and build a Webflow site?" [level=3] [ref=e471]
+          - navigation "How long does it take to design and build a Webflow site?":
+            - paragraph [ref=e476]: A focused marketing site ships in two weeks with our Startup plan. A full brand site with 30+ pages and a CMS takes three to six weeks. Migrations from WordPress or Framer usually add one to two weeks depending on content volume. We hold weekly checkpoints so you always know which week you're in.
+        - generic [ref=e477]:
+          - button "Can you migrate our existing WordPress or Framer site to Webflow?" [ref=e478] [cursor=pointer]:
+            - heading "Can you migrate our existing WordPress or Framer site to Webflow?" [level=3] [ref=e480]
+          - navigation "Can you migrate our existing WordPress or Framer site to Webflow?":
+            - paragraph [ref=e485]: "Yes we handle WordPress, Framer, Wix, Squarespace, and static-site migrations to Webflow regularly. The work is part rebuild, part import: we structure your CMS in Webflow, port your content, preserve your URLs, set up 301s, and re-submit the sitemap to Google so rankings don't drop."
+        - generic [ref=e486]:
+          - button "Is Webflow good for SEO, or do we lose rankings when we migrate?" [ref=e487] [cursor=pointer]:
+            - heading "Is Webflow good for SEO, or do we lose rankings when we migrate?" [level=3] [ref=e489]
+          - navigation "Is Webflow good for SEO, or do we lose rankings when we migrate?":
+            - paragraph [ref=e494]: Webflow is strong for SEO fast hosting, clean semantic HTML, built-in schema, editable meta tags, and auto-optimized images. You only lose rankings if a migration is done lazily. Done right (URL-map preserved, 301 redirects in place, sitemap re-indexed, Core Web Vitals checked), most clients see rankings hold or climb within 30 days.
+        - generic [ref=e495]:
+          - button "What makes Orbix Studio different from other UI/UX design agencies?" [ref=e496] [cursor=pointer]:
+            - heading "What makes Orbix Studio different from other UI/UX design agencies?" [level=3] [ref=e498]
+          - navigation "What makes Orbix Studio different from other UI/UX design agencies?":
+            - paragraph [ref=e503]: You do, always. We transfer the Webflow project to your workspace at launch, with admin access assigned to you. Your domain, your billing, your site. We don't hold projects hostage and we don't upcharge for transfers. If you ever leave Orbix Studio, your site leaves with you no ransom.
+        - generic [ref=e504]:
+          - button "Will my team be able to edit the site after launch?" [ref=e505] [cursor=pointer]:
+            - heading "Will my team be able to edit the site after launch?" [level=3] [ref=e507]
+          - navigation "Will my team be able to edit the site after launch?":
+            - paragraph [ref=e512]: Yes. Webflow's Editor role lets marketers and founders update copy, images, CMS posts, and SEO fields without touching the Designer view. We leave you a short Loom walkthrough plus a written cheat-sheet, so a new hire can publish a blog post in fifteen minutes, not a support ticket.
+        - generic [ref=e513]:
+          - button "Can you build custom interactions, animations, and CMS structures in Webflow?" [ref=e514] [cursor=pointer]:
+            - heading "Can you build custom interactions, animations, and CMS structures in Webflow?" [level=3] [ref=e516]
+          - navigation "Can you build custom interactions, animations, and CMS structures in Webflow?":
+            - paragraph [ref=e521]: Yes from scroll-triggered animations and multi-state hovers to nested CMS collections, multi-reference fields, and dynamic filters. We use GSAP, Lottie, and Webflow's native interactions as the toolkit. Where the platform hits a ceiling (complex auth, deep dashboards), we integrate Xano, Memberstack, or a custom API.
+        - generic [ref=e522]:
+          - button "What are the hidden costs of running a Webflow site?" [ref=e523] [cursor=pointer]:
+            - heading "What are the hidden costs of running a Webflow site?" [level=3] [ref=e525]
+          - navigation "What are the hidden costs of running a Webflow site?":
+            - paragraph [ref=e530]: Budget for Webflow hosting ($15 - $235/month depending on CMS size), a workspace seat ($19 - $49/month per editor), and any third-party add-ons (Memberstack, Finsweet Attributes, Jetboost). Total stack usually lands at $40 - $300/month post-launch. No dev servers, no plugin maintenance, no monthly security patches, that's where the savings come back.
+        - generic [ref=e531]:
+          - button "Webflow vs Framer vs WordPress which should our startup pick?" [ref=e532] [cursor=pointer]:
+            - heading "Webflow vs Framer vs WordPress which should our startup pick?" [level=3] [ref=e534]: Webflow vs Framer vs WordPress which should our startup pick?
+          - navigation "Webflow vs Framer vs WordPress which should our startup pick?":
+            - paragraph [ref=e539]: Pick Webflow when you need a CMS, custom interactions, and team-editable content (most SaaS sites). Pick Framer when you want fast, design-first marketing pages with tight motion (best for funded startups with heavy brand needs). Pick WordPress when SEO depth, plugins, or e-commerce complexity demand it. For B2B SaaS in 2026, Webflow is our default.
+    - generic [ref=e542]:
+      - heading "Present on Top Creative Platforms" [level=2] [ref=e543]
+      - generic [ref=e544]:
+        - link "10+ Projects Live" [ref=e545]:
+          - /url: https://webflow.com/templates/designers/orbix-studio
+          - generic [ref=e548]: 10+ Projects Live
+        - generic [ref=e553]: 5+ Projects Live
+        - link "Top Worldwide" [ref=e555]:
+          - /url: https://dribbble.com/OrbixstudioLLC
+          - generic [ref=e558]: Top Worldwide
+        - link "42+ Badges" [ref=e560]:
+          - /url: https://www.behance.net/orbixstudiollc
+          - generic [ref=e563]: 42+ Badges
+        - link "450+ Reviews" [ref=e565]:
+          - /url: https://www.fiverr.com/aparicitshohan
+          - generic [ref=e568]: 450+ Reviews
+        - link "43+ Reviews" [ref=e570]:
+          - /url: https://clutch.co/profile/orbix-studio
+          - generic [ref=e573]: 43+ Reviews
+        - link "52+ Reviews" [ref=e575]:
+          - /url: https://www.goodfirms.co/company/orbix-studio-llc
+          - generic [ref=e578]: 52+ Reviews
+        - link "5+ Projects Live" [ref=e580]:
+          - /url: https://www.designrush.com/agency/profile/orbix-studio
+          - generic [ref=e583]: 5+ Projects Live
+    - generic [ref=e587]:
+      - generic [ref=e588]:
+        - generic [ref=e589]:
+          - heading "Got a project in mind? Let's build it" [level=2] [ref=e590]
+          - generic [ref=e591]: We'll schedule a call to discuss your idea. After discovery sessions, we'll send a proposal, and upon approval, we'll get started.
+        - generic [ref=e592]:
+          - generic [ref=e593]:
+            - generic [ref=e594]:
+              - img "Portrait of a man with short black hair and beard, wearing a black suit and tie with a pale green background."
+            - generic [ref=e595]:
+              - generic [ref=e596]: Shohanur Rahman
+              - generic [ref=e597]: Founder & CEO
+          - generic [ref=e598]:
+            - generic:
+              - img "Three men smiling, arranged in a row with circular frames around their faces against a white background."
+            - generic [ref=e601]: 300+ Scaled Brands
+      - form "Contact Submission" [ref=e604]:
+        - generic [ref=e605]:
+          - generic [ref=e606]: Your Name*
+          - textbox "Your Name* Full Name*" [ref=e607]:
+            - /placeholder: John Smith
+        - generic [ref=e608]:
+          - generic [ref=e609]: Email*
+          - textbox "Email* Email*" [ref=e610]:
+            - /placeholder: you@company.com
+        - generic [ref=e611]:
+          - generic [ref=e612]:
+            - strong [ref=e613]: Company name
+            - text: "*"
+          - textbox "Company name*" [ref=e614]:
+            - /placeholder: You company
+        - generic [ref=e615]:
+          - generic [ref=e616]: Whatsapp Number*
+          - generic [ref=e618]:
+            - 'combobox "United States: +1" [ref=e620]'
+            - textbox "(201) 555-0123" [ref=e623]
+        - generic [ref=e624]:
+          - generic [ref=e625]: Project budget*
+          - combobox "Project budget* Project budget*" [ref=e626]:
+            - option "Select range..." [selected]
+            - option "Under $2K"
+            - option "$2K – $5K"
+            - option "$5K – $10K"
+            - option "$10K – $25K"
+            - option "$25K+"
+        - generic [ref=e627]:
+          - generic [ref=e628]: Service required*
+          - combobox "Service required*" [ref=e629]:
+            - option "Select service..." [selected]
+            - option "UI/UX Design"
+            - option "SaaS Design"
+            - option "Branding"
+            - option "CRO"
+            - option "Mobile App"
+            - option "Development"
+            - option "MVP"
+            - option "Web design"
+        - generic [ref=e630]:
+          - generic [ref=e631]: Heard about us?*
+          - generic [ref=e632]:
+            - generic [ref=e634] [cursor=pointer]: Clutch
+            - generic [ref=e636] [cursor=pointer]: Chatgpt
+            - generic [ref=e638] [cursor=pointer]: Google
+            - generic [ref=e640] [cursor=pointer]: Bedance
+            - generic [ref=e642] [cursor=pointer]: Dribble
+            - generic [ref=e644] [cursor=pointer]: Others
+        - generic [ref=e645]:
+          - generic [ref=e646]: Project details*
+          - textbox "Project details*" [ref=e647]:
+            - /placeholder: Tell us about your project
+          - generic [ref=e648]:
+            - checkbox "Happy to get once week trail (20hrs)" [ref=e650]
+            - generic [ref=e651] [cursor=pointer]: Happy to get once week trail (20hrs)
+        - generic [ref=e652]:
+          - button "Send inquiry" [ref=e653] [cursor=pointer]
+          - generic [ref=e654]:
+            - link "Prefer Email?" [ref=e656]:
+              - /url: mailto:hello@orbix.studio
+            - link "Book A Call Directly" [ref=e657]:
+              - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+  - generic [ref=e661]:
+    - generic [ref=e664]:
+      - generic [ref=e665]:
+        - generic [ref=e666]:
+          - link "Orbix Studio":
+            - /url: /
+            - img "Orbix Studio"
+          - generic [ref=e667]:
+            - heading "Orbix Studio" [level=3] [ref=e668]
+            - generic [ref=e669]: We design and build scalable digital products that support complex workflows and business-critical systems.
+          - link "Company Deck" [ref=e670]:
+            - /url: https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing
+            - generic [ref=e672]: Company Deck
+        - generic [ref=e674]:
+          - generic [ref=e675]:
+            - generic [ref=e676]: Services
+            - generic [ref=e677]:
+              - link "UI/UX Design" [ref=e678]:
+                - /url: /services/ui-ux-design
+              - link "Web Development" [ref=e679]:
+                - /url: /services/full-stack-development
+              - link "AI Creative Production" [ref=e680]:
+                - /url: /services/ai-creative-production
+              - link "Webflow" [ref=e681]:
+                - /url: /services/webflow-expert-agency
+              - link "MVP Development" [ref=e682]:
+                - /url: /services/mvp-development
+              - generic [ref=e683]: Framer
+              - link "SaaS Design" [ref=e684]:
+                - /url: /services/saas-design
+              - link "Custom Illustration" [ref=e685]:
+                - /url: /services/custom-illustration
+              - link "Mobile App" [ref=e686]:
+                - /url: /services/mobile-app-development
+              - link "Motion Design" [ref=e687]:
+                - /url: /services/motion-design
+              - link "Branding" [ref=e688]:
+                - /url: /services/brand-design
+              - link "Creative Marketing" [ref=e689]:
+                - /url: /services/creative-marketing
+          - generic [ref=e690]:
+            - generic [ref=e691]:
+              - generic [ref=e692]: Quick Links
+              - generic [ref=e693]:
+                - link "Case Studies" [ref=e694]:
+                  - /url: /case-studies
+                - link "About" [ref=e695]:
+                  - /url: /about
+                - link "Pricing" [ref=e696]:
+                  - /url: /pricing
+                - link "Careers" [ref=e697]:
+                  - /url: /career
+                - link "Blog" [ref=e698]:
+                  - /url: /blogs
+                - link "Contact" [ref=e699]:
+                  - /url: /contact
+            - generic [ref=e700]:
+              - generic [ref=e701]: Follow Us
+              - generic [ref=e702]:
+                - link "Facebook" [ref=e703]:
+                  - /url: https://www.facebook.com/orbixstudioLLC/
+                - link "LinkedIn" [ref=e704]:
+                  - /url: https://www.linkedin.com/company/orbixstudio/
+                - link "Instagram" [ref=e705]:
+                  - /url: https://www.instagram.com/orbixstudiollc/?hl=en
+                - link "(X) Twitter" [ref=e706]:
+                  - /url: https://x.com/OrbixStudio
+                - link "Pinterest" [ref=e707]:
+                  - /url: https://www.pinterest.com/orbixstudio/
+                - link "Dribbble" [ref=e708]:
+                  - /url: https://dribbble.com/OrbixstudioLLC
+                - link "Behance" [ref=e709]:
+                  - /url: https://www.behance.net/orbixstudiollc
+      - generic [ref=e711]:
+        - generic [ref=e712]:
+          - generic [ref=e713]:
+            - generic [ref=e714]: Email us
+            - link "hello@orbix.studio" [ref=e715]:
+              - /url: mailto:hello@orbix.studio
+          - generic [ref=e716]:
+            - generic [ref=e717]: Call Us
+            - link "+1 (646) 598-7983" [ref=e719]:
+              - /url: https://wa.me/16465987983
+        - generic [ref=e720]:
+          - generic [ref=e721]: Limited Liability Company Based In
+          - generic [ref=e722]:
+            - generic [ref=e724]:
+              - generic [ref=e725]:
+                - generic:
+                  - img "flug"
+                - generic [ref=e726]:
+                  - generic [ref=e727]: NEW YORK
+                  - generic [ref=e728]: 88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States
+              - img "Shape" [ref=e730]
+            - generic [ref=e733]:
+              - generic:
+                - img "flug"
+              - generic [ref=e734]:
+                - generic [ref=e735]: KSA
+                - generic [ref=e736]: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia
+              - img "Shape" [ref=e738]
+            - generic [ref=e741]:
+              - generic:
+                - img "flug"
+              - generic [ref=e742]:
+                - generic [ref=e743]: DUBAI
+                - generic [ref=e744]: 35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates
+              - img "Shape" [ref=e746]
+            - generic [ref=e749]:
+              - generic:
+                - img "flug"
+              - generic [ref=e750]:
+                - generic [ref=e751]: DHAKA
+                - generic [ref=e752]: OPL Ayub Tower, Dhaka 1216
+              - img "Shape" [ref=e754]
+    - generic [ref=e758]:
+      - generic [ref=e759]: © 2023-2026, Orbix Studio | All Rights Reserved.
+      - generic [ref=e760]:
+        - link "Terms of Services" [ref=e761]:
+          - /url: /terms-of-service
+        - link "Privacy Policy" [ref=e762]:
+          - /url: /privacy-policy
+        - link "Refund Policy" [ref=e763]:
+          - /url: /refund-policy

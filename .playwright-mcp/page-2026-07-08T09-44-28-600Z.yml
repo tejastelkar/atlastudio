@@ -1,0 +1,524 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - banner [ref=e4]:
+        - generic [ref=e5]:
+          - link "home" [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img "Atlas Studio" [ref=e8]
+          - navigation [ref=e9]:
+            - button "Services" [ref=e11] [cursor=pointer]:
+              - link "Services" [ref=e12]:
+                - /url: /services
+            - button "Case Studies (42)" [ref=e15] [cursor=pointer]:
+              - link "Case Studies (42)" [ref=e16]:
+                - /url: /case-studies
+                - text: Case Studies
+                - superscript [ref=e17]: (42)
+            - button "Pricing" [ref=e19] [cursor=pointer]:
+              - link "Pricing" [ref=e20]:
+                - /url: /pricing
+            - link "About Us" [ref=e21] [cursor=pointer]:
+              - /url: /about
+              - generic [ref=e22]: About Us
+            - button "Blog" [ref=e24] [cursor=pointer]:
+              - link "Blog" [ref=e25]:
+                - /url: /blogs
+            - button "Resources" [ref=e27] [cursor=pointer]:
+              - generic [ref=e28]: Resources
+          - link "Contact Us" [ref=e30] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e32]: Contact Us
+      - main [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - generic [ref=e39]: About Atlas Studio
+            - generic [ref=e40]:
+              - heading "A Global Design & Development Agency" [level=1] [ref=e41]
+              - generic [ref=e42]: We help brands grow through strategic design, clean development, and results-driven digital experiences.
+            - link "Book a Demo" [ref=e44] [cursor=pointer]:
+              - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+              - generic [ref=e46]: Book a Demo
+          - generic [ref=e50]:
+            - generic:
+              - iframe
+          - generic [ref=e51]:
+            - generic [ref=e52]: We’ve delivered 140+ projects for startups and SaaS companies. Our services help them grow with smoother website and better experiences.
+            - generic [ref=e53]:
+              - generic [ref=e54]: Trusted by 105+ SaaS founders & product teams
+              - generic [ref=e55]:
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e61]
+                    - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=e65]
+                  - generic [ref=e71]:
+                    - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e75]
+                    - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=e79]
+                - generic [ref=e85]:
+                  - generic [ref=e86]:
+                    - img "Line graph showing a steady increase from 0% to 100% over time." [ref=e89]
+                    - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e91]
+                    - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=e94]
+                  - generic [ref=e100]:
+                    - img "Line graph showing a steady increase from 0% to 100% over time." [ref=e103]
+                    - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e105]
+                    - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=e108]
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - heading "Efficient Design, Build & Launch" [level=2] [ref=e121]
+            - generic [ref=e122]:
+              - generic [ref=e123]:
+                - generic [ref=e124]: Design and development should help your team move, not slow it down.
+                - generic [ref=e125]: We bring design and development together to help teams move faster, build better products, and launch with confidence.
+              - generic [ref=e126]:
+                - text: "-"
+                - strong [ref=e127]: Shohanur Rahman,
+                - text: Founder & CEO
+          - iframe [ref=e131]:
+            
+        - generic [ref=e134]:
+          - generic [ref=e135]:
+            - generic [ref=e138]: Our story
+            - heading "We Started Atlas Studio To Turn Ideas Into Better Products" [level=2] [ref=e139]
+          - generic [ref=e140]:
+            - img "A pink cherry blossom tree standing on a barren, moon-like surface with a large blue Earth and starry sky in the background."
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e143]: Atlas Studio works with SaaS startups to design and build better products. We create websites and digital experiences that are clear, useful, and made to support growth.
+                - generic [ref=e144]: By bringing design and development together, we keep the process smooth, fast, and focused on quality. This helps teams move forward with more clarity and build products people enjoy using.
+              - generic [ref=e145]:
+                - generic [ref=e146]:
+                  - generic [ref=e147]:
+                    - generic [ref=e148]: $2B+
+                    - generic [ref=e149]: Raised
+                  - generic [ref=e150]: Our clients have raised over $10 billion with products built to grow.
+                - generic [ref=e151]:
+                  - generic [ref=e152]:
+                    - generic [ref=e153]: 140+
+                    - generic [ref=e154]: Projects Delivered
+                  - generic [ref=e155]: We have completed 140+ projects for startups and SaaS companies.
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - generic [ref=e161]: Our Case Studies
+            - heading "Products We Helped Design And Build" [level=2] [ref=e162]
+            - generic [ref=e163]: Take a look at some of the projects we have designed and built for startups and SaaS companies.
+          - list [ref=e166]:
+            - listitem [ref=e167]:
+              - generic [ref=e168]:
+                - generic:
+                  - img "Gourmeat Food"
+                  - link "Gourmeat is a modern food delivery app that simplifies (ordering) (tracking) & (enjoying meals) View Project" [ref=e169] [cursor=pointer]:
+                    - /url: /case-studies/gourmeat-food-app
+                    - generic [ref=e170]: Gourmeat is a modern food delivery app that simplifies (ordering) (tracking) & (enjoying meals)
+                    - generic [ref=e172]: View Project
+                - generic [ref=e174]:
+                  - generic [ref=e175]: Gourmeat Food
+                  - generic [ref=e176]: Mobile Apps
+            - listitem [ref=e177]:
+              - generic [ref=e178]:
+                - generic:
+                  - img "Flowrix website"
+                  - link "Flowrix is a modern, high-impact creative agency website built to showcase services, portfolios, and brand storytelling with clarity and confidence. View Project" [ref=e179] [cursor=pointer]:
+                    - /url: /case-studies/flowrix-website
+                    - generic [ref=e180]: Flowrix is a modern, high-impact creative agency website built to showcase services, portfolios, and brand storytelling with clarity and confidence.
+                    - generic [ref=e182]: View Project
+                - generic [ref=e184]:
+                  - generic [ref=e185]: Flowrix website
+                  - generic [ref=e186]: Webflow Website
+            - listitem [ref=e187]:
+              - generic [ref=e188]:
+                - generic:
+                  - img "Trendly Fashion"
+                  - link "Trendly is a modern fashion brand focused on redefining the essence of style. View Project" [ref=e189] [cursor=pointer]:
+                    - /url: /case-studies/trendly-fashion
+                    - generic [ref=e190]: Trendly is a modern fashion brand focused on redefining the essence of style.
+                    - generic [ref=e192]: View Project
+                - generic [ref=e194]:
+                  - generic [ref=e195]: Trendly Fashion
+                  - generic [ref=e196]: Branding Design
+            - listitem [ref=e197]:
+              - generic [ref=e198]:
+                - generic:
+                  - img "Valorant ChampionsCup"
+                  - link "The Valorant Champions Cup visual identity project focused on creating a cohesive and energetic illustration series for a major esports tournament. View Project" [ref=e199] [cursor=pointer]:
+                    - /url: /case-studies/valorant-championscup
+                    - generic [ref=e200]: The Valorant Champions Cup visual identity project focused on creating a cohesive and energetic illustration series for a major esports tournament.
+                    - generic [ref=e202]: View Project
+                - generic [ref=e204]:
+                  - generic [ref=e205]: Valorant ChampionsCup
+                  - generic [ref=e206]: Illustrations
+            - listitem [ref=e207]:
+              - generic [ref=e208]:
+                - generic:
+                  - img "NexCard"
+                  - link "Simplifying Parcel Shipping with Modern Tracking and Management View Project" [ref=e209] [cursor=pointer]:
+                    - /url: /case-studies/nexcard
+                    - generic [ref=e210]: Simplifying Parcel Shipping with Modern Tracking and Management
+                    - generic [ref=e212]: View Project
+                - generic [ref=e214]:
+                  - generic [ref=e215]: NexCard
+                  - generic [ref=e216]: Mobile Apps
+            - listitem [ref=e217]:
+              - generic [ref=e218]:
+                - generic:
+                  - img "9Events"
+                  - link "The Event Booking App is a mobile platform designed to help people discover local events and buy tickets. View Project" [ref=e219] [cursor=pointer]:
+                    - /url: /case-studies/9events-app
+                    - generic [ref=e220]: The Event Booking App is a mobile platform designed to help people discover local events and buy tickets.
+                    - generic [ref=e222]: View Project
+                - generic [ref=e224]:
+                  - generic [ref=e225]: 9Events
+                  - generic [ref=e226]: Mobile Apps
+            - listitem [ref=e227]:
+              - generic [ref=e228]:
+                - generic:
+                  - img "Upmatch Website"
+                  - link "Upmatch is a web-based job recruiting platform designed to bridge the gap between organizations and top-tier talent. View Project" [ref=e229] [cursor=pointer]:
+                    - /url: /case-studies/upmatch-job-recruiting-website
+                    - generic [ref=e230]: Upmatch is a web-based job recruiting platform designed to bridge the gap between organizations and top-tier talent.
+                    - generic [ref=e232]: View Project
+                - generic [ref=e234]:
+                  - generic [ref=e235]: Upmatch Website
+                  - generic [ref=e236]: Web Design
+            - listitem [ref=e237]:
+              - generic [ref=e238]:
+                - generic:
+                  - img "AI Travel Booking"
+                  - link "What if planning a trip felt like talking to a local guide? This AI Travel Booking App case study shows how we simplified itinerary creation and reduced booking friction. View Project" [ref=e239] [cursor=pointer]:
+                    - /url: /case-studies/ai-travel-booking
+                    - generic [ref=e240]: What if planning a trip felt like talking to a local guide? This AI Travel Booking App case study shows how we simplified itinerary creation and reduced booking friction.
+                    - generic [ref=e242]: View Project
+                - generic [ref=e244]:
+                  - generic [ref=e245]: AI Travel Booking
+                  - generic [ref=e246]: Mobile Apps
+        - generic [ref=e249]:
+          - generic [ref=e250]:
+            - heading "Why Atlas Studio?" [level=2] [ref=e251]
+            - generic [ref=e252]: We help startups and SaaS teams design and build better products. Our works are fast, clear, and focused on quality from start to finish.
+          - generic [ref=e253]:
+            - generic [ref=e255]:
+              - generic [ref=e256]: Projects completed for startups and SaaS companies.
+              - heading "140+" [level=3] [ref=e257]
+            - generic [ref=e260]:
+              - generic [ref=e261]: Years In design and development building products for growing teams.
+              - heading "6+" [level=3] [ref=e262]
+            - generic [ref=e264]:
+              - generic [ref=e265]: Clients worked with us to work on their products.
+              - heading "105+" [level=3] [ref=e266]
+            - generic [ref=e268]:
+              - generic [ref=e269]: Average rating for the quality of our work and our process.
+              - heading "4.9" [level=3] [ref=e270]
+        - generic [ref=e273]:
+          - generic [ref=e274]:
+            - generic [ref=e276]: Why Work With Us
+            - heading "A Simple Team To Help You Build Better Products" [level=2] [ref=e277]
+          - generic [ref=e278]:
+            - generic [ref=e280]:
+              - heading "Design & Development Together" [level=3] [ref=e281]
+              - generic [ref=e282]: We handle both design and development, so your product feels more complete and the work moves more smoothly.
+            - generic [ref=e285]:
+              - heading "Built For Startups & SaaS Teams" [level=3] [ref=e286]:
+                - strong [ref=e287]: Built For Startups & SaaS Teams
+              - generic [ref=e288]: We work with growing teams that need clear websites, better products, and a faster way to get things done.
+            - generic [ref=e290]:
+              - heading "Fast Work Without The Mess" [level=3] [ref=e291]:
+                - strong [ref=e292]: Fast Work Without The Mess
+              - generic [ref=e293]: Our process is simple and organized, which helps your team move faster without losing quality.
+            - generic [ref=e295]:
+              - heading "Focused On Real Product Needs" [level=3] [ref=e296]:
+                - strong [ref=e297]: Focused On Real Product Needs
+              - generic [ref=e298]: We do not just make things look good. We build products that are useful, easy to use, and ready to grow.
+        - generic [ref=e301]:
+          - generic [ref=e302]:
+            - generic [ref=e305]: Global Recognition
+            - heading "Awards & Honors" [level=2] [ref=e307]
+            - generic [ref=e308]: Our work has been recognized by leading platforms for creating clear user experiences and high-performing digital products.
+          - generic [ref=e309]:
+            - img "Behance badge achievement certificate for 2025 awarded to Atlas Studio for 37 Behance badges in Digital Product Design with category icons for Behance, UI, Illustrator, Adobe XD, and Style." [ref=e311]
+            - img "Certificate for i.design Winner 2025 awarded to Atlas Studio for the project GiveHub in the Digital Product Design category, signed by the Founder & Award Director." [ref=e313]
+            - img "M design award badge for Muzli Dashboard Showcase 2025 awarded to Atlas Studio for multiple features in Digital Product Design." [ref=e315]
+        - generic [ref=e318]:
+          - heading "What SaaS Teams Say About Working With Atlas Studio" [level=2] [ref=e319]
+          - generic [ref=e320]:
+            - tabpanel "client-1" [ref=e322]:
+              - generic [ref=e326]:
+                - generic [ref=e329]:
+                  - generic [ref=e330]: Website Design
+                  - generic [ref=e332]: App Design
+                  - generic [ref=e334]: Branding
+                - generic [ref=e336]:
+                  - generic [ref=e337]: "\"Atlas Studio has created remarkable work for The Whitney building that helped us define not just this individual building but the new direction in which we are heading as a group\""
+                  - generic [ref=e338]:
+                    - generic [ref=e339]: Tiyahnn Bryant
+                    - generic [ref=e340]: CEO at RollUpLife Inc
+                  - generic [ref=e341]:
+                    - generic [ref=e342]:
+                      - generic [ref=e343]:
+                        - generic [ref=e344]: 4X
+                        - generic [ref=e345]: Increase in design capacity
+                      - generic [ref=e346]:
+                        - generic [ref=e347]: 60%
+                        - generic [ref=e348]: Reduction in time to market
+                      - generic [ref=e349]:
+                        - generic [ref=e350]: 40+
+                        - generic [ref=e351]: Number of brands
+                    - generic [ref=e352]:
+                      - generic:
+                        - img "Smartphone displaying a digital weather app showing a sunny day with a temperature of 36 degrees Celsius."
+                      - generic [ref=e353]:
+                        - heading "GiveHub -" [level=3] [ref=e354]
+                        - generic [ref=e355]: Transparent Donation & Charity Platform
+            - tablist [ref=e356]:
+              - tab "client-1" [selected] [ref=e357] [cursor=pointer]:
+                - img "Logo of XL Axiata with the text 'Raih Performa Tertinggi' next to an orange 'XL' in a rounded square."
+              - tab "client-2" [ref=e358] [cursor=pointer]
+              - tab "aria-label-3" [ref=e359] [cursor=pointer]:
+                - img "Casa de las Letras logo with an open book and purple text."
+              - tab "client-4" [ref=e360] [cursor=pointer]
+              - tab "client-7" [ref=e361] [cursor=pointer]
+              - tab "client-5" [ref=e362] [cursor=pointer]
+              - tab "client-6" [ref=e363] [cursor=pointer]
+              - tab "client-8" [ref=e364] [cursor=pointer]
+        - generic [ref=e366]:
+          - generic [ref=e368]:
+            - generic [ref=e370]: our Office View
+            - heading "A Workspace Built for creative Excellence" [level=2] [ref=e371]
+          - generic:
+            - generic:
+              - generic:
+                - img "Person working on digital illustration of a vivid orange car front in graphic design software on a desktop computer."
+                - img "Group of young adults posing indoors with teal and white balloons and a Happy New Year sign in the background."
+                - img "Person wearing a cap working on a desktop computer displaying a mobile app design interface while others work in the background."
+                - img "A man wearing glasses and a beige jacket points at a computer screen while a woman in an orange headscarf types on the keyboard in an office setting."
+              - generic:
+                - img "Person working on digital illustration of a vivid orange car front in graphic design software on a desktop computer."
+                - img "Group of young adults posing indoors with teal and white balloons and a Happy New Year sign in the background."
+                - img "Person wearing a cap working on a desktop computer displaying a mobile app design interface while others work in the background."
+                - img "A man wearing glasses and a beige jacket points at a computer screen while a woman in an orange headscarf types on the keyboard in an office setting."
+        - generic [ref=e374]:
+          - generic [ref=e375]:
+            - generic [ref=e376]:
+              - generic [ref=e377]:
+                - heading "Got Questions?" [level=2] [ref=e378]
+                - heading "We’ve Got Answers" [level=2] [ref=e379]
+              - paragraph [ref=e380]: If you’re unsure where to start or want to see how we can help, reach out, and we’ll walk you through it.
+            - generic [ref=e381]:
+              - generic [ref=e382]:
+                - generic [ref=e383]:
+                  - heading "Book an Intro Call" [level=3] [ref=e384]
+                  - generic [ref=e385]: Time to get introduced and explore how Atlas Studio can help.
+                - link "Book a Call" [ref=e386] [cursor=pointer]:
+                  - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+                  - generic [ref=e388]: Book a Call
+              - generic [ref=e392]:
+                - generic [ref=e393]: Do you prefer email communication?
+                - link "hello@atlastudio.in" [ref=e394] [cursor=pointer]:
+                  - /url: mailto:hello@atlastudio.in
+          - generic [ref=e395]:
+            - generic [ref=e396]:
+              - button "Who founded Atlas Studio and who runs it today?" [ref=e397] [cursor=pointer]:
+                - heading "Who founded Atlas Studio and who runs it today?" [level=3] [ref=e399]
+              - navigation "Who founded Atlas Studio and who runs it today?":
+                - paragraph [ref=e404]: Atlas Studio was founded and is led by Shohanur Rahman, who built the agency around one belief that great products start with great user experience. The team is 30+ designers, engineers, and producers spread across New York, Riyadh, Dubai, and Dhaka, serving 80+ SaaS founders worldwide.
+            - generic [ref=e405]:
+              - button "What does Atlas Studio specialize in?" [ref=e406] [cursor=pointer]:
+                - heading "What does Atlas Studio specialize in?" [level=3] [ref=e408]
+              - navigation "What does Atlas Studio specialize in?":
+                - paragraph [ref=e413]: We specialize in product design for B2B SaaS and AI teams - UI/UX, brand, motion, and full-stack development inside one team. Most clients are Seed-to-Series-B founders who want a complete product-and-marketing partner instead of stitching four separate vendors together. 150+ projects shipped to date.
+            - generic [ref=e414]:
+              - button "How long has Atlas Studio been in business?" [ref=e415] [cursor=pointer]:
+                - heading "How long has Atlas Studio been in business?" [level=3] [ref=e417]
+              - navigation "How long has Atlas Studio been in business?":
+                - paragraph [ref=e422]: Orbix has been operating since 2023, with the LLC formally registered as a US entity. Over six years we have delivered 200+ design projects, helped clients raise a combined $10B+, and earned recognition on Behance (39 badges), Clutch (38+ reviews), and Top Worldwide Dribbble status.
+            - generic [ref=e423]:
+              - button "Where is Atlas Studio located?" [ref=e424] [cursor=pointer]:
+                - heading "Where is Atlas Studio located?" [level=3] [ref=e426]
+              - navigation "Where is Atlas Studio located?":
+                - paragraph [ref=e431]: We are headquartered in New York with active offices in Riyadh, Dubai, and Dhaka. The team is 100% remote, which lets us cover US, EU, and GCC business hours and keep costs predictable for clients. No physical office overhead, no commute, no rigid timezone friction.
+            - generic [ref=e432]:
+              - button "How many designers and developers work at Atlas Studio?" [ref=e433] [cursor=pointer]:
+                - heading "How many designers and developers work at Atlas Studio?" [level=3] [ref=e435]
+              - navigation "How many designers and developers work at Atlas Studio?":
+                - paragraph [ref=e440]: The team is 30+ creatives — senior designers, design leads, front-end and back-end developers, motion artists, illustrators, and project managers. Every engagement runs as a small pod (2–5 people) led by a senior designer, so you talk to the people doing the work, not account managers.
+            - generic [ref=e441]:
+              - button "What kind of clients does Atlas Studio work with?" [ref=e442] [cursor=pointer]:
+                - heading "What kind of clients does Atlas Studio work with?" [level=3] [ref=e444]
+              - navigation "What kind of clients does Atlas Studio work with?":
+                - paragraph [ref=e449]: We work with funded B2B SaaS and AI teams (Seed–Series B), enterprise workflow products, and growing startups across fintech, healthcare, e-mobility, and logistics. Past clients include Circle K, RollUpLife, GiveHub, and Privilee. We do not take pre-seed solo projects or D2C e-commerce work.
+            - generic [ref=e450]:
+              - button "What is Atlas Studio's design and development process?" [ref=e451] [cursor=pointer]:
+                - heading "What is Atlas Studio's design and development process?" [level=3] [ref=e453]
+              - navigation "What is Atlas Studio's design and development process?":
+                - paragraph [ref=e458]:
+                  - text: "Three steps: Plan, Structure, Build. Plan - define the product goal and priority feature."
+                  - text: Structure - map the user flow and key screens.
+                  - text: Build - designers and developers work in parallel to ship production-ready experiences. Most product engagements move from kickoff to shipped product inside 2–6 weeks.
+            - generic [ref=e459]:
+              - button "What awards has Atlas Studio won?" [ref=e460] [cursor=pointer]:
+                - heading "What awards has Atlas Studio won?" [level=3] [ref=e462]
+              - navigation "What awards has Atlas Studio won?":
+                - paragraph [ref=e467]: We have earned 39 Behance badges, the i.design Winner 2025 award for the GiveHub project, the Muzli Dashboard Showcase 2025 feature, and Top Worldwide ranking on Dribbble. 38+ reviews on Clutch, 50+ on GoodFirms, and 450+ reviews across Fiverr verified profiles.
+            - generic [ref=e468]:
+              - button "How is Atlas Studio different from other UI/UX agencies?" [ref=e469] [cursor=pointer]:
+                - heading "How is Atlas Studio different from other UI/UX agencies?" [level=3] [ref=e471]: How is Atlas Studio different from other UI/UX agencies?
+              - navigation "How is Atlas Studio different from other UI/UX agencies?":
+                - paragraph [ref=e476]:
+                  - text: Three measurable things.
+                  - text: One - design and development share one team, so we ship in 2–6 weeks instead of 4 months.
+                  - text: Two - AI production is bundled into the same retainer.
+                  - text: Three - clients report 4x design capacity, 60% faster time-to-market, with proof published on Clutch.
+            - generic [ref=e477]:
+              - button "Is Atlas Studio a sustainable or eco-friendly design agency?" [ref=e478] [cursor=pointer]:
+                - heading "Is Atlas Studio a sustainable or eco-friendly design agency?" [level=3] [ref=e480]: Is Atlas Studio a sustainable or eco-friendly design agency?
+              - navigation "Is Atlas Studio a sustainable or eco-friendly design agency?":
+                - paragraph [ref=e485]: Yes. We operate 100% remotely (zero commute emissions), run a paperless workflow on cloud-only documents, and host on Google Cloud and AWS both certified renewable-energy data centers. Low-impact operations are part of how we deliver high-volume creative work at scale, responsibly.
+        - generic [ref=e488]:
+          - heading "Present on Top Creative Platforms" [level=2] [ref=e489]
+          - generic [ref=e490]:
+            - link "10+ Projects Live" [ref=e491] [cursor=pointer]:
+              - /url: https://webflow.com/templates/designers/orbix-studio
+              - generic [ref=e494]: 10+ Projects Live
+            - generic [ref=e499]: 5+ Projects Live
+            - link "Top Worldwide" [ref=e501] [cursor=pointer]:
+              - /url: https://dribbble.com/atlastudio
+              - generic [ref=e504]: Top Worldwide
+            - link "42+ Badges" [ref=e506] [cursor=pointer]:
+              - /url: https://www.behance.net/atlastudio
+              - generic [ref=e509]: 42+ Badges
+            - link "450+ Reviews" [ref=e511] [cursor=pointer]:
+              - /url: https://www.fiverr.com/aparicitshohan
+              - generic [ref=e514]: 450+ Reviews
+            - link "43+ Reviews" [ref=e516] [cursor=pointer]:
+              - /url: https://clutch.co/profile/orbix-studio
+              - generic [ref=e519]: 43+ Reviews
+            - link "52+ Reviews" [ref=e521] [cursor=pointer]:
+              - /url: https://www.goodfirms.co/company/orbix-studio-llc
+              - generic [ref=e524]: 52+ Reviews
+            - link "5+ Projects Live" [ref=e526] [cursor=pointer]:
+              - /url: https://www.designrush.com/agency/profile/orbix-studio
+              - generic [ref=e529]: 5+ Projects Live
+      - generic [ref=e534]:
+        - generic [ref=e537]:
+          - generic [ref=e538]:
+            - generic [ref=e539]:
+              - link "Atlas Studio":
+                - /url: /
+                - img "Atlas Studio"
+              - generic [ref=e540]:
+                - heading "Atlas Studio" [level=3] [ref=e541]
+                - generic [ref=e542]: We design and build scalable digital products that support complex workflows and business-critical systems.
+              - link "Company Deck" [ref=e543] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing
+                - generic [ref=e545]: Company Deck
+            - generic [ref=e547]:
+              - generic [ref=e548]:
+                - generic [ref=e549]: Services
+                - generic [ref=e550]:
+                  - link "UI/UX Design" [ref=e551] [cursor=pointer]:
+                    - /url: /services/ui-ux-design
+                  - link "Web Development" [ref=e552] [cursor=pointer]:
+                    - /url: /services/full-stack-development
+                  - link "AI Creative Production" [ref=e553] [cursor=pointer]:
+                    - /url: /services/ai-creative-production
+                  - link "Webflow" [ref=e554] [cursor=pointer]:
+                    - /url: /services/webflow-expert-agency
+                  - link "MVP Development" [ref=e555] [cursor=pointer]:
+                    - /url: /services/mvp-development
+                  - generic [ref=e556]: Framer
+                  - link "SaaS Design" [ref=e557] [cursor=pointer]:
+                    - /url: /services/saas-design
+                  - link "Custom Illustration" [ref=e558] [cursor=pointer]:
+                    - /url: /services/custom-illustration
+                  - link "Mobile App" [ref=e559] [cursor=pointer]:
+                    - /url: /services/mobile-app-development
+                  - link "Motion Design" [ref=e560] [cursor=pointer]:
+                    - /url: /services/motion-design
+                  - link "Branding" [ref=e561] [cursor=pointer]:
+                    - /url: /services/brand-design
+                  - link "Creative Marketing" [ref=e562] [cursor=pointer]:
+                    - /url: /services/creative-marketing
+              - generic [ref=e563]:
+                - generic [ref=e564]:
+                  - generic [ref=e565]: Quick Links
+                  - generic [ref=e566]:
+                    - link "Case Studies" [ref=e567] [cursor=pointer]:
+                      - /url: /case-studies
+                    - link "About" [ref=e568] [cursor=pointer]:
+                      - /url: /about
+                    - link "Pricing" [ref=e569] [cursor=pointer]:
+                      - /url: /pricing
+                    - link "Careers" [ref=e570] [cursor=pointer]:
+                      - /url: /career
+                    - link "Blog" [ref=e571] [cursor=pointer]:
+                      - /url: /blogs
+                    - link "Contact" [ref=e572] [cursor=pointer]:
+                      - /url: /contact
+                - generic [ref=e573]:
+                  - generic [ref=e574]: Follow Us
+                  - generic [ref=e575]:
+                    - link "Facebook" [ref=e576] [cursor=pointer]:
+                      - /url: https://www.facebook.com/atlastudioLLC/
+                    - link "LinkedIn" [ref=e577] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/atlastudio/
+                    - link "Instagram" [ref=e578] [cursor=pointer]:
+                      - /url: https://www.instagram.com/atlastudio/?hl=en
+                    - link "(X) Twitter" [ref=e579] [cursor=pointer]:
+                      - /url: https://x.com/AtlasStudio
+                    - link "Pinterest" [ref=e580] [cursor=pointer]:
+                      - /url: https://www.pinterest.com/atlastudio/
+                    - link "Dribbble" [ref=e581] [cursor=pointer]:
+                      - /url: https://dribbble.com/atlastudio
+                    - link "Behance" [ref=e582] [cursor=pointer]:
+                      - /url: https://www.behance.net/atlastudio
+          - generic [ref=e584]:
+            - generic [ref=e585]:
+              - generic [ref=e586]:
+                - generic [ref=e587]: Email us
+                - link "hello@atlastudio.in" [ref=e588] [cursor=pointer]:
+                  - /url: mailto:hello@atlastudio.in
+              - generic [ref=e589]:
+                - generic [ref=e590]: Call Us
+                - link "+1 (646) 598-7983" [ref=e592] [cursor=pointer]:
+                  - /url: https://wa.me/16465987983
+            - generic [ref=e593]:
+              - generic [ref=e594]: Limited Liability Company Based In
+              - generic [ref=e595]:
+                - generic [ref=e597]:
+                  - generic [ref=e598]:
+                    - generic:
+                      - img "flug"
+                    - generic [ref=e599]:
+                      - generic [ref=e600]: NEW YORK
+                      - generic [ref=e601]: 88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States
+                  - img "Shape" [ref=e603]
+                - generic [ref=e606]:
+                  - generic:
+                    - img "flug"
+                  - generic [ref=e607]:
+                    - generic [ref=e608]: KSA
+                    - generic [ref=e609]: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia
+                  - img "Shape" [ref=e611]
+                - generic [ref=e614]:
+                  - generic:
+                    - img "flug"
+                  - generic [ref=e615]:
+                    - generic [ref=e616]: DUBAI
+                    - generic [ref=e617]: 35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates
+                  - img "Shape" [ref=e619]
+                - generic [ref=e622]:
+                  - generic:
+                    - img "flug"
+                  - generic [ref=e623]:
+                    - generic [ref=e624]: DHAKA
+                    - generic [ref=e625]: OPL Ayub Tower, Dhaka 1216
+                  - img "Shape" [ref=e627]
+        - generic [ref=e631]:
+          - generic [ref=e632]: © 2023-2026, Atlas Studio | All Rights Reserved.
+          - generic [ref=e633]:
+            - link "Terms of Services" [ref=e634] [cursor=pointer]:
+              - /url: /terms-of-service
+            - link "Privacy Policy" [ref=e635] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Refund Policy" [ref=e636] [cursor=pointer]:
+              - /url: /refund-policy
+  - alert [ref=e637]

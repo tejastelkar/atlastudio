@@ -1,0 +1,363 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "home" [ref=e6]:
+        - /url: /
+        - img "Orbix Studio" [ref=e7]
+      - navigation [ref=e8]:
+        - button "Services" [ref=e10] [cursor=pointer]:
+          - link "Services" [ref=e11]:
+            - /url: /services
+        - button "Case Studies (42)" [ref=e14] [cursor=pointer]:
+          - link "Case Studies (42)" [ref=e15]:
+            - /url: /case-studies
+            - text: Case Studies
+            - superscript [ref=e16]: (42)
+        - button "Pricing" [ref=e18] [cursor=pointer]:
+          - link "Pricing" [ref=e19]:
+            - /url: /pricing
+        - link "About Us" [ref=e20]:
+          - /url: /about
+          - generic [ref=e21]: About Us
+        - button "Blog" [ref=e23] [cursor=pointer]:
+          - link "Blog" [ref=e24]:
+            - /url: /blogs
+        - button "Resources" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27]: Resources
+      - link "Contact Us" [ref=e29]:
+        - /url: /contact
+        - generic [ref=e31]: Contact Us
+  - main [ref=e32]:
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - heading "Terms of Service" [level=1] [ref=e38]
+          - generic [ref=e39]: Our Working Agreement with Every Client
+        - generic [ref=e40]:
+          - generic [ref=e41]: "Effective Date: June 1, 2025"
+          - generic [ref=e42]: "Last Updated: June 1, 2025"
+      - generic [ref=e44]:
+        - heading "A Warm Welcome" [level=2] [ref=e45]
+        - generic [ref=e46]:
+          - paragraph [ref=e47]: We are genuinely glad you are here. At ORbix Studio, every project we take on is a collaboration we care deeply about — and these Terms exist not to create distance, but to give our work together the clearest, most respectful foundation possible.
+          - paragraph [ref=e48]: These Terms of Service ('Terms') form a binding agreement between ORbix Studio ('we', 'us', 'our') and you, the Client. By proceeding with a project — whether through signing a proposal, making a payment, or giving us a go-ahead — you are confirming that you have read and agreed to these Terms.
+        - paragraph [ref=e50]: Think of these Terms as our shared rulebook — designed so that both of us know exactly what to expect, and neither of us is ever left guessing.
+      - generic [ref=e51]:
+        - heading "1. The Services We Provide" [level=2] [ref=e52]
+        - generic [ref=e53]:
+          - paragraph [ref=e54]: ORbix Studio offers UI/UX design services alongside low-code, no-code, and custom code development. Every engagement is unique, which is why all services are defined specifically in your signed Project Proposal and Scope of Work ('SOW').
+          - paragraph [ref=e55]: The SOW is the single source of truth for your project. If something is not listed there, it is not included — and that is intentional, so you always know exactly what you are getting and exactly what you are paying for.
+      - generic [ref=e56]:
+        - heading "2. Scope of Work — What's Included and What Isn't" [level=2] [ref=e57]
+        - paragraph [ref=e58]: 2.1 The Includes / Excludes Clause
+        - generic [ref=e59]:
+          - paragraph [ref=e60]: The SOW is the single source of truth for your project. If something is not listed there, it is not included — and that is intentional, so you always know exactly what you are getting and exactly what you are paying for.
+          - paragraph [ref=e61]: The SOW is the single source of truth for your project. If something is not listed there, it is not included — and that is intentional, so you always know exactly what you are getting and exactly what you are paying for.
+        - paragraph [ref=e63]: Think of these Terms as our shared rulebook — designed so that both of us know exactly what to expect, and neither of us is ever left guessing.
+        - paragraph [ref=e64]:
+          - strong [ref=e65]: 2.2 How We Handle Out-of-Scope Requests — The Change Request Process
+        - generic [ref=e66]:
+          - paragraph [ref=e67]: "When new ideas come up during a project — and they often do — we welcome them. Here is the process we follow so that additions are handled fairly and transparently:"
+          - generic [ref=e68]:
+            - generic [ref=e69]:
+              - generic [ref=e70]: Step 1
+              - generic [ref=e71]: "-"
+              - generic [ref=e72]: "We acknowledge the request positively. Our team will never say a flat 'no' to a new idea. We say: 'Great idea — let us scope that out for you.'"
+            - generic [ref=e73]:
+              - generic [ref=e74]: Step 2
+              - generic [ref=e75]: "-"
+              - generic [ref=e76]: "We assess the impact: additional hours, cost, and any timeline adjustment required."
+            - generic [ref=e77]:
+              - generic [ref=e78]: Step 3
+              - generic [ref=e79]: "-"
+              - generic [ref=e80]: We submit a formal Change Request (CR) document within 3 business days, outlining the change description, additional cost, and timeline impact.
+            - generic [ref=e81]:
+              - generic [ref=e82]: Step 4
+              - generic [ref=e83]: "-"
+              - generic [ref=e84]: Work on the change begins only after you sign the CR and the additional payment is received.
+            - generic [ref=e85]:
+              - generic [ref=e86]: Step 5
+              - generic [ref=e87]: "-"
+              - generic [ref=e88]: The approved CR is added as an addendum to the original SOW.
+          - paragraph [ref=e90]: "A quick note on informal channels: messages sent via WhatsApp, Telegram, or personal DMs are wonderful for staying in touch, but they do not constitute formal scope approvals. All changes require a signed Change Request."
+        - paragraph [ref=e91]:
+          - strong [ref=e92]: 2.3 Technical Handoff Documentation
+        - paragraph [ref=e93]: Detailed handoff documentation — covering custom code, plugin configurations, and system architecture — is not a standard deliverable unless explicitly listed in your SOW. If you would like this, please let us know before the project begins. Every project includes a concise project summary as standard.
+      - generic [ref=e94]:
+        - heading "3. Revisions — How They Work" [level=2] [ref=e95]
+        - paragraph [ref=e96]:
+          - strong [ref=e97]: 3.1 What a Revision Round Means
+        - paragraph [ref=e99]: Revisions mean changes to existing work within the approved scope. Anything new — additional features, new pages, new functionality, or a fundamentally different creative direction — is a Change Request and will be handled accordingly.
+        - paragraph [ref=e101]: Please gather all feedback for a round before submitting. Drip-fed feedback over days counts as a new round — this protects the flow and quality of the work for both of us.
+        - paragraph [ref=e102]: 3.2 What Counts as a Revision vs. a Change Reques
+        - generic [ref=e103]:
+          - generic [ref=e105]: This is a Revision (included)
+          - generic [ref=e107]: This is a Change Request (extra cost)
+          - generic [ref=e109]: Change the heading colour or font size
+          - generic [ref=e111]: Add a new page not in the original scope
+          - generic [ref=e113]: Adjust spacing or padding between sections
+          - generic [ref=e115]: Write original copy or content from scratch
+          - generic [ref=e117]: Swap a hero image (provided by client)
+          - generic [ref=e119]: Create a custom illustration or icon set
+          - generic [ref=e121]: Update body copy (content provided by client)
+          - generic [ref=e123]: Add a payment gateway or backend integration
+          - generic [ref=e125]: Fix a button link or broken form
+          - generic [ref=e127]: Redesign a page after it has been approved
+          - generic [ref=e129]: Mobile responsiveness fix on an approved design
+          - generic [ref=e131]: Add new mobile screens or app features
+        - paragraph [ref=e132]: 3.3 Contradictory Feedback
+        - paragraph [ref=e134]: "If feedback in one round contradicts feedback from a previous round — for example, 'make it bolder' followed by 'actually, make it more subtle' — the second direction counts as a new revision round, not a correction. We say this gently but clearly: changing direction uses a revision round."
+        - paragraph [ref=e135]: 3.4 Additional Revision Rounds
+        - paragraph [ref=e137]: Additional revision rounds beyond your included allowance are always available. They are billed at a pre- agreed rate and must be paid before the additional work begins. Your project proposal will state the rate clearly.
+        - paragraph [ref=e138]: 3.5 Silent Approval — Keeping Things Moving
+        - paragraph [ref=e140]: When we share a deliverable with you, we ask for your response within 5 business days. If we do not hear back within that window, the deliverable will be considered approved and the project will move to the next phase.
+        - paragraph [ref=e142]: Once a deliverable is approved — either explicitly in writing, or via the 5-day silent approval window — it is locked. Returning to revise an approved deliverable requires a new Change Request.
+      - generic [ref=e143]:
+        - heading "4. Your Project Brief & AI-Generated Requirements" [level=2] [ref=e144]
+        - paragraph [ref=e145]: 4.1 The Brief Verification Step
+        - paragraph [ref=e147]: A clear, accurate brief is the foundation of great work. Before we begin, we will review your requirements together to make sure everything is aligned, feasible, and agreed upon. You will be asked to formally sign off on the brief before work commences.
+        - paragraph [ref=e148]: 4.2 A Note on AI-Generated Briefs
+        - paragraph [ref=e150]:
+          - text: We understand that many clients today use AI tools like ChatGPT to help articulate ideas. We welcome this — but ask that you personally review any AI-generated content before sharing it with us. AI documents can sometimes contain directions that are technically unworkable, contradictory, or broader than the project budget allows.
+          - text: • All AI-generated briefs must be reviewed and endorsed by you as accurate and achievable before submission.
+          - text: • We will flag content that is unclear or technically unworkable, and work through it with you before commencing.
+        - paragraph [ref=e152]: ORbix Studio is not liable for delays, rework, or additional costs resulting from inaccurate or unverified requirements submitted by the Client — including those generated by AI tools.
+      - generic [ref=e153]:
+        - heading "5. Intellectual Property & File Access" [level=2] [ref=e154]
+        - paragraph [ref=e155]: 5.1 Ownership During the Project
+        - paragraph [ref=e157]: A clear, accurate brief is the foundation of great work. Before we begin, we will review your requirements together to make sure everything is aligned, feasible, and agreed upon. You will be asked to formally sign off on the brief before work commences.
+        - paragraph [ref=e158]: 5.2 Figma Access
+        - paragraph [ref=e160]: We will share view-only Figma access throughout the project for review and feedback. Edit access to Figma files is not available at any stage. Final assets will be delivered in agreed formats upon full payment.
+        - paragraph [ref=e161]: 5.3 GitHub & Code Repositories
+        - paragraph [ref=e163]: Development happens within ORbix Studio's own repositories unless Client GitHub access is explicitly agreed in the SOW. Any mid-project request to move to a Client repository is a scope change.
+        - paragraph [ref=e164]: 5.4 Hosting Environment
+        - paragraph [ref=e166]: Unless your SOW specifies otherwise, we develop and stage projects in our own environments. Requests to switch to Client hosting mid-project will be treated as a scope change.
+        - paragraph [ref=e167]: 5.5 Staging Approval Before Production
+        - paragraph [ref=e169]: "No project will be deployed to a live production environment without: (a) your approval of the staging version in writing, and (b) authorisation from ORbix Studio's Project Manager. Staging approval is a required step — not optional."
+        - paragraph [ref=e170]: 5.6 Transfer of Ownership
+        - paragraph [ref=e172]: Upon receipt of full payment, ownership of agreed deliverables transfers to you. Partial payments do not grant partial ownership. Staging previews and Figma view access are shared in good faith and do not reduce or alter outstanding payment obligations.
+      - generic [ref=e173]:
+        - heading "6. Client Responsiveness" [level=2] [ref=e174]
+        - paragraph [ref=e175]: 6.1 Response Time Commitment
+        - paragraph [ref=e177]: We ask that you respond to all feedback requests, approval requests, and project communications within 5 business days. We understand that life gets busy — if you know you will be unavailable, simply let your Project Manager know in advance and we will plan around it.
+        - paragraph [ref=e178]: 6.2 Project Hold Protocol
+        - paragraph [ref=e180]: If we do not receive a response within 5 business days of a communication requiring your input, we will issue a formal Project Hold notice. Work will pause and the timeline will shift by the number of days the project remains on hold.
+        - paragraph [ref=e181]: 6.3 Project Abandonment Clause
+        - paragraph [ref=e183]:
+          - text: "If we do not receive a response within 15 business days of a Project Hold notice being issued, the project will be considered abandoned. Upon abandonment:"
+          - text: • All payments made to date are non-refundable.
+          - text: • Orbix Studio retains ownership of all work product not yet delivered.
+          - text: • The contract is terminated.
+          - text: • If you wish to resume the project after abandonment, a new engagement and new deposit will be required.
+        - paragraph [ref=e185]: We include this clause not as a threat, but as a fair protection for both sides. It ensures that our team's time and your investment are both treated with respect.
+      - generic [ref=e186]:
+        - heading "7. Communication Protocol" [level=2] [ref=e187]
+        - generic [ref=e188]:
+          - paragraph [ref=e189]: All project communication must flow through the designated project channel agreed at kickoff. Direct contact with individual designers or developers via personal social media, personal phone, or personal email is not permitted and will not be actioned as a formal instruction.
+          - paragraph [ref=e190]: The Project Manager is the single point of contact for all feedback, approvals, and change requests. This keeps your project moving efficiently and ensures nothing falls through the cracks.
+          - paragraph [ref=e191]: Orbix Studio aims to respond to all official communications within 1–2 business days.
+      - generic [ref=e192]:
+        - heading "8. Payment" [level=2] [ref=e193]
+        - paragraph [ref=e194]: 8.1 Milestone-Based Payment Structure
+        - paragraph [ref=e196]: We structure all projects on a milestone-based payment model. This means payment unlocks each phase of work, so that neither party ever has more at stake than the other.
+        - generic [ref=e197]:
+          - generic [ref=e199]: Milestone
+          - generic [ref=e201]: Payment
+          - generic [ref=e203]: M0 — Project kickoff & deposit
+          - generic [ref=e205]: 40% of total — non-refundable
+          - generic [ref=e207]: M1 — First major deliverable (design/wireframes)
+          - generic [ref=e209]: 30% of total — non-refundable after approval
+          - generic [ref=e211]: M2 — Development / revisions complete
+          - generic [ref=e213]: 20% of total — non-refundable after approval
+          - generic [ref=e215]: M3 — Final delivery, handoff & launch
+          - generic [ref=e217]: 10% of total — non-refundable after delivery
+        - paragraph [ref=e219]: Work on the next milestone will not begin until the current milestone payment is received and the previous deliverable has been formally approved in writing.
+        - paragraph [ref=e220]: 8.2 Late Payment Protoco
+        - paragraph [ref=e222]:
+          - text: "We understand that timing can sometimes be tricky. Here is how we handle late payments, fairly and transparently:"
+          - text: "• Grace period: 3 business days after the invoice due date before any action is taken."
+          - text: "• Day 4: A friendly reminder email referencing the invoice."
+          - text: "• Day 8: All work pauses until payment is received. The timeline shifts by the number of days delayed. A late fee of 1.5% per week (compounding) begins on the outstanding balance."
+          - text: "• Day 30+: ORbix Studio reserves the right to terminate the contract, retain all payments received, and retain ownership of all undelivered work. Staging previews and Figma view-only links are shared in good faith. They do not constitute delivery and may not be used as a basis for payment renegotiation or discount requests"
+      - generic [ref=e223]:
+        - heading "9. Our Commitment to You" [level=2] [ref=e224]
+        - paragraph [ref=e226]: Orbix Studio commits to performing all work with skill, care, and professionalism. We do not make guarantees about specific business outcomes, but we do promise to give your project our genuine best. Our total liability in any circumstance will not exceed the total fees paid for the specific project in question. We are not liable for indirect, third-party, or consequential losses.
+      - generic [ref=e227]:
+        - heading "10. Force Majeure" [level=2] [ref=e228]
+        - paragraph [ref=e230]: Neither party shall be held liable for delays or failure to perform caused by circumstances beyond their reasonable control — including but not limited to natural disasters, platform outages, government actions, civil unrest, or other unforeseeable events. In such cases, both parties will communicate promptly and work in good faith to resume the project as soon as possible.
+      - generic [ref=e231]:
+        - heading "11. Dispute Resolution" [level=2] [ref=e232]
+        - paragraph [ref=e234]: "We sincerely hope we never need this section — but it is here just in case. In the event of a dispute, the following process applies:"
+        - generic [ref=e235]:
+          - generic [ref=e236]:
+            - generic [ref=e237]: • Step 1
+            - generic [ref=e238]: "-"
+            - generic [ref=e239]: "Good-faith negotiation: Both parties agree to first attempt to resolve the matter through direct, respectful discussion within 14 days of the dispute arising."
+          - generic [ref=e240]:
+            - generic [ref=e241]: • Step 2
+            - generic [ref=e242]: "-"
+            - generic [ref=e243]: "Mediation: If direct discussion does not resolve the matter, both parties agree to attempt resolution through a mutually agreed mediator."
+          - generic [ref=e244]:
+            - generic [ref=e245]: • Step 3
+            - generic [ref=e246]: "-"
+            - generic [ref=e247]: "Arbitration: If mediation fails, the dispute will be referred to binding arbitration in accordance with the laws of ORbix Studio's registered jurisdiction. Arbitration is preferred over litigation as a faster, fairer, and less costly process for both parties."
+        - paragraph [ref=e249]: Our goal is never to be adversarial. These steps exist so that, if something does go wrong, we have a clear and civilised path to resolution.
+      - generic [ref=e250]:
+        - heading "12. Ending a Project Early" [level=2] [ref=e251]
+        - paragraph [ref=e253]:
+          - text: "Either party may end the engagement with 14 days written notice. If that occurs:"
+          - text: • The Client is responsible for payment of all work completed to date, calculated at the project rate.
+          - text: • Deposits are non-refundable once work has commenced.
+          - text: • Completed and paid phases will be delivered. Work in progress will not be released.
+      - generic [ref=e254]:
+        - heading "13. Governing Law" [level=2] [ref=e255]
+        - paragraph [ref=e257]: These Terms are governed by the laws of the jurisdiction in which ORbix Studio is registered. We commit to approaching any legal matter in good faith and with professionalism.
+    - generic [ref=e260]:
+      - heading "Present on Top Creative Platforms" [level=2] [ref=e261]
+      - generic [ref=e262]:
+        - link "10+ Projects Live" [ref=e263]:
+          - /url: https://webflow.com/templates/designers/orbix-studio
+          - generic [ref=e266]: 10+ Projects Live
+        - generic [ref=e271]: 5+ Projects Live
+        - link "Top Worldwide" [ref=e273]:
+          - /url: https://dribbble.com/OrbixstudioLLC
+          - generic [ref=e276]: Top Worldwide
+        - link "42+ Badges" [ref=e278]:
+          - /url: https://www.behance.net/orbixstudiollc
+          - generic [ref=e281]: 42+ Badges
+        - link "450+ Reviews" [ref=e283]:
+          - /url: https://www.fiverr.com/aparicitshohan
+          - generic [ref=e286]: 450+ Reviews
+        - link "43+ Reviews" [ref=e288]:
+          - /url: https://clutch.co/profile/orbix-studio
+          - generic [ref=e291]: 43+ Reviews
+        - link "52+ Reviews" [ref=e293]:
+          - /url: https://www.goodfirms.co/company/orbix-studio-llc
+          - generic [ref=e296]: 52+ Reviews
+        - link "5+ Projects Live" [ref=e298]:
+          - /url: https://www.designrush.com/agency/profile/orbix-studio
+          - generic [ref=e301]: 5+ Projects Live
+  - generic [ref=e306]:
+    - generic [ref=e309]:
+      - generic [ref=e310]:
+        - generic [ref=e311]:
+          - link "Orbix Studio":
+            - /url: /
+            - img "Orbix Studio"
+          - generic [ref=e312]:
+            - heading "Orbix Studio" [level=3] [ref=e313]
+            - generic [ref=e314]: We design and build scalable digital products that support complex workflows and business-critical systems.
+          - link "Company Deck" [ref=e315]:
+            - /url: https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing
+            - generic [ref=e317]: Company Deck
+        - generic [ref=e319]:
+          - generic [ref=e320]:
+            - generic [ref=e321]: Services
+            - generic [ref=e322]:
+              - link "UI/UX Design" [ref=e323]:
+                - /url: /services/ui-ux-design
+              - link "Web Development" [ref=e324]:
+                - /url: /services/full-stack-development
+              - link "AI Creative Production" [ref=e325]:
+                - /url: /services/ai-creative-production
+              - link "Webflow" [ref=e326]:
+                - /url: /services/webflow-expert-agency
+              - link "MVP Development" [ref=e327]:
+                - /url: /services/mvp-development
+              - generic [ref=e328]: Framer
+              - link "SaaS Design" [ref=e329]:
+                - /url: /services/saas-design
+              - link "Custom Illustration" [ref=e330]:
+                - /url: /services/custom-illustration
+              - link "Mobile App" [ref=e331]:
+                - /url: /services/mobile-app-development
+              - link "Motion Design" [ref=e332]:
+                - /url: /services/motion-design
+              - link "Branding" [ref=e333]:
+                - /url: /services/brand-design
+              - link "Creative Marketing" [ref=e334]:
+                - /url: /services/creative-marketing
+          - generic [ref=e335]:
+            - generic [ref=e336]:
+              - generic [ref=e337]: Quick Links
+              - generic [ref=e338]:
+                - link "Case Studies" [ref=e339]:
+                  - /url: /case-studies
+                - link "About" [ref=e340]:
+                  - /url: /about
+                - link "Pricing" [ref=e341]:
+                  - /url: /pricing
+                - link "Careers" [ref=e342]:
+                  - /url: /career
+                - link "Blog" [ref=e343]:
+                  - /url: /blogs
+                - link "Contact" [ref=e344]:
+                  - /url: /contact
+            - generic [ref=e345]:
+              - generic [ref=e346]: Follow Us
+              - generic [ref=e347]:
+                - link "Facebook" [ref=e348]:
+                  - /url: https://www.facebook.com/orbixstudioLLC/
+                - link "LinkedIn" [ref=e349]:
+                  - /url: https://www.linkedin.com/company/orbixstudio/
+                - link "Instagram" [ref=e350]:
+                  - /url: https://www.instagram.com/orbixstudiollc/?hl=en
+                - link "(X) Twitter" [ref=e351]:
+                  - /url: https://x.com/OrbixStudio
+                - link "Pinterest" [ref=e352]:
+                  - /url: https://www.pinterest.com/orbixstudio/
+                - link "Dribbble" [ref=e353]:
+                  - /url: https://dribbble.com/OrbixstudioLLC
+                - link "Behance" [ref=e354]:
+                  - /url: https://www.behance.net/orbixstudiollc
+      - generic [ref=e356]:
+        - generic [ref=e357]:
+          - generic [ref=e358]:
+            - generic [ref=e359]: Email us
+            - link "hello@orbix.studio" [ref=e360]:
+              - /url: mailto:hello@orbix.studio
+          - generic [ref=e361]:
+            - generic [ref=e362]: Call Us
+            - link "+1 (646) 598-7983" [ref=e364]:
+              - /url: https://wa.me/16465987983
+        - generic [ref=e365]:
+          - generic [ref=e366]: Limited Liability Company Based In
+          - generic [ref=e367]:
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - generic:
+                  - img "flug"
+                - generic [ref=e371]:
+                  - generic [ref=e372]: NEW YORK
+                  - generic [ref=e373]: 88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States
+              - img "Shape" [ref=e375]
+            - generic [ref=e378]:
+              - generic:
+                - img "flug"
+              - generic [ref=e379]:
+                - generic [ref=e380]: KSA
+                - generic [ref=e381]: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia
+              - img "Shape" [ref=e383]
+            - generic [ref=e386]:
+              - generic:
+                - img "flug"
+              - generic [ref=e387]:
+                - generic [ref=e388]: DUBAI
+                - generic [ref=e389]: 35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates
+              - img "Shape" [ref=e391]
+            - generic [ref=e394]:
+              - generic:
+                - img "flug"
+              - generic [ref=e395]:
+                - generic [ref=e396]: DHAKA
+                - generic [ref=e397]: OPL Ayub Tower, Dhaka 1216
+              - img "Shape" [ref=e399]
+    - generic [ref=e403]:
+      - generic [ref=e404]: © 2023-2026, Orbix Studio | All Rights Reserved.
+      - generic [ref=e405]:
+        - link "Terms of Services" [ref=e406]:
+          - /url: /terms-of-service
+        - link "Privacy Policy" [ref=e407]:
+          - /url: /privacy-policy
+        - link "Refund Policy" [ref=e408]:
+          - /url: /refund-policy

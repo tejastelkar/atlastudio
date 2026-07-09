@@ -1,0 +1,186 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Atlas Studio" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Atlas Studio" [ref=e7]
+      - navigation [ref=e8]:
+        - link "Services" [ref=e11] [cursor=pointer]:
+          - /url: /services
+        - link "Case Studies (42)" [ref=e15] [cursor=pointer]:
+          - /url: /case-studies
+          - text: Case Studies
+          - superscript [ref=e16]: (42)
+        - link "Pricing" [ref=e19] [cursor=pointer]:
+          - /url: /pricing
+        - link "About Us" [ref=e20] [cursor=pointer]:
+          - /url: /about
+          - generic [ref=e21]: About Us
+        - link "Blog" [ref=e24] [cursor=pointer]:
+          - /url: /blogs
+      - link "Contact Us" [ref=e26] [cursor=pointer]:
+        - /url: /contact
+        - generic [ref=e28]: Contact Us
+  - main [ref=e29]:
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - heading "Privacy Policy" [level=1] [ref=e35]
+          - generic [ref=e36]: How Atlas Studio collects, uses, stores, and protects personal information across our website, enquiries, client communication, and delivery workflows.
+        - generic [ref=e37]:
+          - generic [ref=e38]: "Effective Date: July 8, 2026"
+          - generic [ref=e39]: "Last Updated: July 8, 2026"
+      - generic [ref=e41]:
+        - heading "1. Scope of this policy" [level=2] [ref=e42]
+        - paragraph [ref=e44]: This Privacy Policy applies to personal data collected through our website, contact forms, booking flows, email conversations, proposal discussions, project onboarding, and service delivery workflows. It covers data relating to clients, prospects, website visitors, and business contacts.
+      - generic [ref=e45]:
+        - heading "2. What data we collect" [level=2] [ref=e46]
+        - paragraph [ref=e48]: Depending on how you interact with us, we may collect identification, communication, technical, and project-related information.
+        - generic [ref=e49]:
+          - paragraph [ref=e50]: • Name, email address, phone number, company name, and job title.
+          - paragraph [ref=e51]: • Project details, store details, business goals, budgets, timelines, and service requirements you submit to us.
+          - paragraph [ref=e52]: • Billing information, transaction references, and invoice-related records.
+          - paragraph [ref=e53]: • Technical data such as IP address, browser type, device information, referral source, and website usage information collected through analytics or server logs.
+          - paragraph [ref=e54]: • Content, brand assets, credentials, and operational data you share with us to complete a project.
+      - generic [ref=e55]:
+        - heading "3. How we collect data" [level=2] [ref=e56]
+        - paragraph [ref=e58]: We collect data directly from you when you fill out forms, email us, schedule calls, approve proposals, make payments, or share project assets. We may also collect limited technical information automatically through analytics, cookies, log files, and similar technologies used on our website.
+      - generic [ref=e59]:
+        - heading "4. Why we use your data" [level=2] [ref=e60]
+        - paragraph [ref=e62]: We use personal data only for lawful business purposes connected to operating Atlas Studio, responding to enquiries, and delivering our services.
+        - generic [ref=e63]:
+          - paragraph [ref=e64]: • To respond to enquiries, qualify leads, and schedule discovery calls.
+          - paragraph [ref=e65]: • To prepare proposals, scopes, invoices, and project communication.
+          - paragraph [ref=e66]: • To design, build, support, and maintain websites, Shopify stores, and related deliverables.
+          - paragraph [ref=e67]: • To improve our website, user experience, conversion flows, and service quality.
+          - paragraph [ref=e68]: • To prevent fraud, protect our systems, maintain records, and comply with legal or tax obligations.
+          - paragraph [ref=e69]: • To send service-related updates, follow-ups, or relevant business communication. We do not send spam, and you may opt out of non-essential marketing communication.
+      - generic [ref=e70]:
+        - heading "5. Legal basis and India-first data principles" [level=2] [ref=e71]
+        - generic [ref=e72]:
+          - paragraph [ref=e73]: Where applicable, Atlas Studio processes personal data on the basis of your consent, to take steps at your request before entering into a contract, to perform an agreement with you, to comply with legal obligations, or for legitimate and reasonable business uses permitted by applicable law.
+          - paragraph [ref=e74]: We aim to follow core India-first privacy principles, including collecting only what is reasonably necessary, using data for clearly connected purposes, keeping it secure, and honouring lawful requests relating to access, correction, or deletion.
+      - generic [ref=e75]:
+        - heading "6. Cookies, analytics, and tracking" [level=2] [ref=e76]
+        - paragraph [ref=e78]: Our website may use cookies or similar technologies for basic functionality, analytics, security, and performance measurement. These tools help us understand how visitors use atlastudio.in and improve the site.
+        - generic [ref=e79]:
+          - paragraph [ref=e80]: • Some cookies may be essential for the site to function properly.
+          - paragraph [ref=e81]: • Analytics or tracking tools may collect aggregated behaviour data such as page visits, device type, and referring source.
+          - paragraph [ref=e82]: • You can control cookies through your browser settings, although disabling certain cookies may affect site functionality.
+      - generic [ref=e83]:
+        - heading "7. Sharing of data" [level=2] [ref=e84]
+        - paragraph [ref=e86]: We do not sell your personal data. We may share limited data only where necessary to run our business or deliver services.
+        - generic [ref=e87]:
+          - paragraph [ref=e88]: • With payment processors, invoicing tools, hosting providers, analytics tools, email services, scheduling tools, CRM systems, and other vendors that support our operations.
+          - paragraph [ref=e89]: • With freelancers, contractors, or specialist collaborators working under confidentiality obligations where needed to deliver your project.
+          - paragraph [ref=e90]: • With legal, tax, compliance, or government authorities where disclosure is required by law or necessary to protect rights, prevent fraud, or respond to lawful requests.
+      - generic [ref=e91]:
+        - heading "8. Data retention" [level=2] [ref=e92]
+        - generic [ref=e93]:
+          - paragraph [ref=e94]: We retain personal data only for as long as reasonably required for the purpose for which it was collected, including lead management, project delivery, legal compliance, accounting, dispute resolution, backup integrity, and internal record-keeping.
+          - paragraph [ref=e95]: Where data is no longer needed, we will delete it, anonymise it, or securely archive it in accordance with reasonable business and legal requirements.
+      - generic [ref=e96]:
+        - heading "9. Data security" [level=2] [ref=e97]
+        - paragraph [ref=e99]: We use reasonable administrative, technical, and organisational safeguards to protect data from unauthorised access, misuse, disclosure, alteration, or loss. However, no website, cloud platform, email system, or internet transmission can be guaranteed as completely secure.
+        - generic [ref=e100]:
+          - paragraph [ref=e101]: • Access to project information is limited to people who need it for delivery or operations.
+          - paragraph [ref=e102]: • We aim to use reputable tools and service providers with appropriate security controls.
+          - paragraph [ref=e103]: • You are responsible for keeping your own passwords, admin credentials, and store access secure.
+      - generic [ref=e104]:
+        - heading "10. Your rights" [level=2] [ref=e105]
+        - generic [ref=e106]:
+          - paragraph [ref=e107]: Subject to applicable law, you may request access to the personal data we hold about you, ask for correction of inaccurate information, request deletion of data that is no longer necessary, or withdraw consent where processing is based on consent.
+          - paragraph [ref=e108]: We may need to verify your identity before acting on a request, and we may retain certain records where required for legal, tax, security, or dispute-resolution purposes.
+      - generic [ref=e109]:
+        - heading "11. Cross-border processing" [level=2] [ref=e110]
+        - paragraph [ref=e112]: Because Atlas Studio may use international software tools, cloud infrastructure, and service providers, your data may be processed or stored outside India. Where we use such systems, we take reasonable steps to work only with providers suited for business use and to limit unnecessary exposure of personal data.
+      - generic [ref=e113]:
+        - heading "12. Children's privacy" [level=2] [ref=e114]
+        - paragraph [ref=e116]: Our website and services are intended for businesses, founders, teams, and adults acting in a professional capacity. We do not knowingly collect personal data from children through our service offering.
+      - generic [ref=e117]:
+        - heading "13. Updates to this policy" [level=2] [ref=e118]
+        - paragraph [ref=e120]: We may update this Privacy Policy from time to time to reflect operational, legal, or service changes. The latest version will be posted on this page with the updated effective date.
+      - generic [ref=e121]:
+        - heading "14. Contact and grievance requests" [level=2] [ref=e122]
+        - paragraph [ref=e124]: If you have questions, correction requests, deletion requests, or privacy concerns, please contact us at hello@atlastudio.in. We will review and respond within a reasonable time in line with the nature of the request and applicable law.
+  - generic [ref=e129]:
+    - generic [ref=e130]:
+      - generic [ref=e131]:
+        - link "Atlas Studio":
+          - /url: /
+          - img "Atlas Studio"
+        - generic [ref=e132]:
+          - heading "Atlas Studio" [level=3] [ref=e133]
+          - generic [ref=e134]: Atlas Studio is founded by Tejastelkar and builds custom websites, Shopify stores, and scalable digital experiences for ambitious brands.
+        - link "Company Deck" [ref=e135]:
+          - /url: https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing
+          - generic [ref=e137]: Company Deck
+      - generic [ref=e139]:
+        - generic [ref=e140]:
+          - generic [ref=e141]: Services
+          - generic [ref=e142]:
+            - link "UI/UX Design" [ref=e143]:
+              - /url: /services/ui-ux-design
+            - link "Web Development" [ref=e144]:
+              - /url: /services/full-stack-development
+            - link "AI Creative Production" [ref=e145]:
+              - /url: /services/ai-creative-production
+            - link "Shopify" [ref=e146]:
+              - /url: /services/shopify-agency
+            - link "MVP Development" [ref=e147]:
+              - /url: /services/mvp-development
+            - generic [ref=e148]: Framer
+            - link "SaaS Design" [ref=e149]:
+              - /url: /services/saas-design
+            - link "Custom Illustration" [ref=e150]:
+              - /url: /services/custom-illustration
+            - link "Mobile App" [ref=e151]:
+              - /url: /services/mobile-app-development
+            - link "Motion Design" [ref=e152]:
+              - /url: /services/motion-design
+            - link "Branding" [ref=e153]:
+              - /url: /services/brand-design
+            - link "Creative Marketing" [ref=e154]:
+              - /url: /services/creative-marketing
+        - generic [ref=e155]:
+          - generic [ref=e156]:
+            - generic [ref=e157]: Quick Links
+            - generic [ref=e158]:
+              - link "Case Studies" [ref=e159]:
+                - /url: /case-studies
+              - link "About" [ref=e160]:
+                - /url: /about
+              - link "Pricing" [ref=e161]:
+                - /url: /pricing
+              - link "Careers" [ref=e162]:
+                - /url: /career
+              - link "Blog" [ref=e163]:
+                - /url: /blogs
+              - link "Contact" [ref=e164]:
+                - /url: /contact
+          - generic [ref=e165]:
+            - generic [ref=e166]: Follow Us
+            - generic [ref=e167]:
+              - link "Facebook" [ref=e168]:
+                - /url: https://www.facebook.com/atlastudioLLC/
+              - link "LinkedIn" [ref=e169]:
+                - /url: https://www.linkedin.com/company/atlastudio/
+              - link "Instagram" [ref=e170]:
+                - /url: https://www.instagram.com/atlastudio/?hl=en
+              - link "(X) Twitter" [ref=e171]:
+                - /url: https://x.com/AtlasStudio
+              - link "Pinterest" [ref=e172]:
+                - /url: https://www.pinterest.com/atlastudio/
+              - link "Dribbble" [ref=e173]:
+                - /url: https://dribbble.com/atlastudio
+              - link "Behance" [ref=e174]:
+                - /url: https://www.behance.net/atlastudio
+    - generic [ref=e178]:
+      - generic [ref=e179]: © 2023-2026, Atlas Studio | All Rights Reserved.
+      - generic [ref=e180]:
+        - link "Terms of Services" [ref=e181]:
+          - /url: /terms-of-service
+        - link "Privacy Policy" [ref=e182]:
+          - /url: /privacy-policy
+        - link "Refund Policy" [ref=e183]:
+          - /url: /refund-policy

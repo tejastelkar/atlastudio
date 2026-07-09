@@ -1,0 +1,530 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "home" [ref=e6]:
+        - /url: /
+        - img "Orbix Studio" [ref=e7]
+      - navigation [ref=e8]:
+        - button "Services" [ref=e10] [cursor=pointer]:
+          - link "Services" [ref=e11]:
+            - /url: /services
+        - button "Case Studies (42)" [ref=e14] [cursor=pointer]:
+          - link "Case Studies (42)" [ref=e15]:
+            - /url: /case-studies
+            - text: Case Studies
+            - superscript [ref=e16]: (42)
+        - button "Pricing" [ref=e18] [cursor=pointer]:
+          - link "Pricing" [ref=e19]:
+            - /url: /pricing
+        - link "About Us" [ref=e20]:
+          - /url: /about
+          - generic [ref=e21]: About Us
+        - button "Blog" [ref=e23] [cursor=pointer]:
+          - link "Blog" [ref=e24]:
+            - /url: /blogs
+        - button "Resources" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27]: Resources
+      - link "Contact Us" [ref=e29]:
+        - /url: /contact
+        - generic [ref=e31]: Contact Us
+  - main [ref=e32]:
+    - generic [ref=e33]:
+      - generic [ref=e35]:
+        - generic [ref=e38]: About Orbix Studio
+        - generic [ref=e39]:
+          - heading "A Global Design & Development Agency" [level=1] [ref=e40]
+          - generic [ref=e41]: We help brands grow through strategic design, clean development, and results-driven digital experiences.
+        - link "Book a Demo" [ref=e43]:
+          - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+          - generic [ref=e45]: Book a Demo
+      - generic [ref=e49]:
+        - generic:
+          - iframe
+      - generic [ref=e50]:
+        - generic [ref=e51]: We’ve delivered 140+ projects for startups and SaaS companies. Our services help them grow with smoother website and better experiences.
+        - generic [ref=e52]:
+          - generic [ref=e53]: Trusted by 105+ SaaS founders & product teams
+          - generic [ref=e54]:
+            - generic [ref=e55]:
+              - generic [ref=e56]:
+                - generic [ref=e59]:
+                  - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare."
+                - generic [ref=e62]:
+                  - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections."
+              - generic [ref=e68]:
+                - generic [ref=e71]:
+                  - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare."
+                - generic [ref=e74]:
+                  - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections."
+            - generic [ref=e80]:
+              - generic [ref=e81]:
+                - generic [ref=e83]:
+                  - img "Line graph showing a steady increase from 0% to 100% over time."
+                - generic [ref=e84]:
+                  - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare."
+                - generic [ref=e86]:
+                  - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised."
+              - generic [ref=e92]:
+                - generic [ref=e94]:
+                  - img "Line graph showing a steady increase from 0% to 100% over time."
+                - generic [ref=e95]:
+                  - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare."
+                - generic [ref=e97]:
+                  - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised."
+    - generic [ref=e107]:
+      - generic [ref=e108]:
+        - heading "Efficient Design, Build & Launch" [level=2] [ref=e110]
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - generic [ref=e113]: Design and development should help your team move, not slow it down.
+            - generic [ref=e114]: We bring design and development together to help teams move faster, build better products, and launch with confidence.
+          - generic [ref=e115]:
+            - text: "-"
+            - strong [ref=e116]: Shohanur Rahman,
+            - text: Founder & CEO
+      - iframe [ref=e120]:
+        
+    - generic [ref=e123]:
+      - generic [ref=e124]:
+        - generic [ref=e127]: Our story
+        - heading "We Started Orbix Studio To Turn Ideas Into Better Products" [level=2] [ref=e128]
+      - generic [ref=e129]:
+        - img "A pink cherry blossom tree standing on a barren, moon-like surface with a large blue Earth and starry sky in the background." [ref=e130]
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - generic [ref=e133]: Orbix Studio works with SaaS startups to design and build better products. We create websites and digital experiences that are clear, useful, and made to support growth.
+            - generic [ref=e134]: By bringing design and development together, we keep the process smooth, fast, and focused on quality. This helps teams move forward with more clarity and build products people enjoy using.
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - generic [ref=e139]: $2B+
+                - generic [ref=e140]: Raised
+              - generic [ref=e141]: Our clients have raised over $10 billion with products built to grow.
+            - generic [ref=e143]:
+              - generic [ref=e144]:
+                - generic [ref=e145]: 140+
+                - generic [ref=e146]: Projects Delivered
+              - generic [ref=e147]: We have completed 140+ projects for startups and SaaS companies.
+    - generic [ref=e150]:
+      - generic [ref=e151]:
+        - generic [ref=e154]: Our Case Studies
+        - heading "Products We Helped Design And Build" [level=2] [ref=e155]
+        - generic [ref=e156]: Take a look at some of the projects we have designed and built for startups and SaaS companies.
+      - list [ref=e159]:
+        - listitem [ref=e160]:
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - img "Gourmeat Food" [ref=e163]
+              - link "Gourmeat is a modern food delivery app that simplifies (ordering) (tracking) & (enjoying meals) View Project" [ref=e164]:
+                - /url: /case-studies/gourmeat-food-app
+                - generic [ref=e165]: Gourmeat is a modern food delivery app that simplifies (ordering) (tracking) & (enjoying meals)
+                - generic [ref=e167]: View Project
+            - generic [ref=e169]:
+              - generic [ref=e170]: Gourmeat Food
+              - generic [ref=e171]: Mobile Apps
+        - listitem [ref=e172]:
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - img "Flowrix website" [ref=e175]
+              - link "Flowrix is a modern, high-impact creative agency website built to showcase services, portfolios, and brand storytelling with clarity and confidence. View Project" [ref=e176]:
+                - /url: /case-studies/flowrix-website
+                - generic [ref=e177]: Flowrix is a modern, high-impact creative agency website built to showcase services, portfolios, and brand storytelling with clarity and confidence.
+                - generic [ref=e179]: View Project
+            - generic [ref=e181]:
+              - generic [ref=e182]: Flowrix website
+              - generic [ref=e183]: Webflow Website
+        - listitem [ref=e184]:
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - img "Trendly Fashion" [ref=e187]
+              - link "Trendly is a modern fashion brand focused on redefining the essence of style. View Project" [ref=e188]:
+                - /url: /case-studies/trendly-fashion
+                - generic [ref=e189]: Trendly is a modern fashion brand focused on redefining the essence of style.
+                - generic [ref=e191]: View Project
+            - generic [ref=e193]:
+              - generic [ref=e194]: Trendly Fashion
+              - generic [ref=e195]: Branding Design
+        - listitem [ref=e196]:
+          - generic [ref=e197]:
+            - generic [ref=e198]:
+              - img "Valorant ChampionsCup" [ref=e199]
+              - link "The Valorant Champions Cup visual identity project focused on creating a cohesive and energetic illustration series for a major esports tournament. View Project" [ref=e200]:
+                - /url: /case-studies/valorant-championscup
+                - generic [ref=e201]: The Valorant Champions Cup visual identity project focused on creating a cohesive and energetic illustration series for a major esports tournament.
+                - generic [ref=e203]: View Project
+            - generic [ref=e205]:
+              - generic [ref=e206]: Valorant ChampionsCup
+              - generic [ref=e207]: Illustrations
+        - listitem [ref=e208]:
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - img "NexCard" [ref=e211]
+              - link "Simplifying Parcel Shipping with Modern Tracking and Management View Project" [ref=e212]:
+                - /url: /case-studies/nexcard
+                - generic [ref=e213]: Simplifying Parcel Shipping with Modern Tracking and Management
+                - generic [ref=e215]: View Project
+            - generic [ref=e217]:
+              - generic [ref=e218]: NexCard
+              - generic [ref=e219]: Mobile Apps
+        - listitem [ref=e220]:
+          - generic [ref=e221]:
+            - generic [ref=e222]:
+              - img "9Events" [ref=e223]
+              - link "The Event Booking App is a mobile platform designed to help people discover local events and buy tickets. View Project" [ref=e224]:
+                - /url: /case-studies/9events-app
+                - generic [ref=e225]: The Event Booking App is a mobile platform designed to help people discover local events and buy tickets.
+                - generic [ref=e227]: View Project
+            - generic [ref=e229]:
+              - generic [ref=e230]: 9Events
+              - generic [ref=e231]: Mobile Apps
+        - listitem [ref=e232]:
+          - generic [ref=e233]:
+            - generic [ref=e234]:
+              - img "Upmatch Website" [ref=e235]
+              - link "Upmatch is a web-based job recruiting platform designed to bridge the gap between organizations and top-tier talent. View Project" [ref=e236]:
+                - /url: /case-studies/upmatch-job-recruiting-website
+                - generic [ref=e237]: Upmatch is a web-based job recruiting platform designed to bridge the gap between organizations and top-tier talent.
+                - generic [ref=e239]: View Project
+            - generic [ref=e241]:
+              - generic [ref=e242]: Upmatch Website
+              - generic [ref=e243]: Web Design
+        - listitem [ref=e244]:
+          - generic [ref=e245]:
+            - generic [ref=e246]:
+              - img "AI Travel Booking" [ref=e247]
+              - link "What if planning a trip felt like talking to a local guide? This AI Travel Booking App case study shows how we simplified itinerary creation and reduced booking friction. View Project" [ref=e248]:
+                - /url: /case-studies/ai-travel-booking
+                - generic [ref=e249]: What if planning a trip felt like talking to a local guide? This AI Travel Booking App case study shows how we simplified itinerary creation and reduced booking friction.
+                - generic [ref=e251]: View Project
+            - generic [ref=e253]:
+              - generic [ref=e254]: AI Travel Booking
+              - generic [ref=e255]: Mobile Apps
+    - generic [ref=e258]:
+      - generic [ref=e259]:
+        - heading "Why Orbix Studio?" [level=2] [ref=e260]
+        - generic [ref=e261]: We help startups and SaaS teams design and build better products. Our works are fast, clear, and focused on quality from start to finish.
+      - generic [ref=e262]:
+        - generic [ref=e264]:
+          - generic [ref=e265]: Projects completed for startups and SaaS companies.
+          - heading "140+" [level=3] [ref=e266]
+        - generic [ref=e269]:
+          - generic [ref=e270]: Years In design and development building products for growing teams.
+          - heading "6+" [level=3] [ref=e271]
+        - generic [ref=e273]:
+          - generic [ref=e274]: Clients worked with us to work on their products.
+          - heading "105+" [level=3] [ref=e275]
+        - generic [ref=e277]:
+          - generic [ref=e278]: Average rating for the quality of our work and our process.
+          - heading "4.9" [level=3] [ref=e279]
+    - generic [ref=e282]:
+      - generic [ref=e283]:
+        - generic [ref=e285]: Why Work With Us
+        - heading "A Simple Team To Help You Build Better Products" [level=2] [ref=e286]
+      - generic [ref=e287]:
+        - generic [ref=e289]:
+          - heading "Design & Development Together" [level=3] [ref=e290]
+          - generic [ref=e291]: We handle both design and development, so your product feels more complete and the work moves more smoothly.
+        - generic [ref=e294]:
+          - heading "Built For Startups & SaaS Teams" [level=3] [ref=e295]:
+            - strong [ref=e296]: Built For Startups & SaaS Teams
+          - generic [ref=e297]: We work with growing teams that need clear websites, better products, and a faster way to get things done.
+        - generic [ref=e299]:
+          - heading "Fast Work Without The Mess" [level=3] [ref=e300]:
+            - strong [ref=e301]: Fast Work Without The Mess
+          - generic [ref=e302]: Our process is simple and organized, which helps your team move faster without losing quality.
+        - generic [ref=e304]:
+          - heading "Focused On Real Product Needs" [level=3] [ref=e305]:
+            - strong [ref=e306]: Focused On Real Product Needs
+          - generic [ref=e307]: We do not just make things look good. We build products that are useful, easy to use, and ready to grow.
+    - generic [ref=e310]:
+      - generic [ref=e311]:
+        - generic [ref=e314]: Global Recognition
+        - heading "Awards & Honors" [level=2] [ref=e316]
+        - generic [ref=e317]: Our work has been recognized by leading platforms for creating clear user experiences and high-performing digital products.
+      - generic [ref=e318]:
+        - img "Behance badge achievement certificate for 2025 awarded to Orbix Studio for 37 Behance badges in Digital Product Design with category icons for Behance, UI, Illustrator, Adobe XD, and Style." [ref=e320]
+        - img "Certificate for i.design Winner 2025 awarded to Orbix Studio for the project GiveHub in the Digital Product Design category, signed by the Founder & Award Director." [ref=e322]
+        - img "M design award badge for Muzli Dashboard Showcase 2025 awarded to Orbix Studio for multiple features in Digital Product Design." [ref=e324]
+    - generic [ref=e327]:
+      - heading "What SaaS Teams Say About Working With Orbix Studio" [level=2] [ref=e328]
+      - generic [ref=e329]:
+        - tabpanel "client-1" [ref=e331]:
+          - generic [ref=e335]:
+            - generic [ref=e338]:
+              - generic [ref=e339]: Website Design
+              - generic [ref=e341]: App Design
+              - generic [ref=e343]: Branding
+            - generic [ref=e345]:
+              - generic [ref=e346]: "\"Orbix Studio has created remarkable work for The Whitney building that helped us define not just this individual building but the new direction in which we are heading as a group\""
+              - generic [ref=e347]:
+                - generic [ref=e348]: Tiyahnn Bryant
+                - generic [ref=e349]: CEO at RollUpLife Inc
+              - generic [ref=e350]:
+                - generic [ref=e351]:
+                  - generic [ref=e352]:
+                    - generic [ref=e353]: 4X
+                    - generic [ref=e354]: Increase in design capacity
+                  - generic [ref=e355]:
+                    - generic [ref=e356]: 60%
+                    - generic [ref=e357]: Reduction in time to market
+                  - generic [ref=e358]:
+                    - generic [ref=e359]: 40+
+                    - generic [ref=e360]: Number of brands
+                - generic [ref=e361]:
+                  - generic:
+                    - img "Smartphone displaying a digital weather app showing a sunny day with a temperature of 36 degrees Celsius."
+                  - generic [ref=e362]:
+                    - heading "GiveHub -" [level=3] [ref=e363]
+                    - generic [ref=e364]: Transparent Donation & Charity Platform
+        - tablist [ref=e365]:
+          - tab "client-1" [selected] [ref=e366]:
+            - img "Logo of XL Axiata with the text 'Raih Performa Tertinggi' next to an orange 'XL' in a rounded square."
+          - tab "client-2" [ref=e367]
+          - tab "aria-label-3" [ref=e368]:
+            - img "Casa de las Letras logo with an open book and purple text."
+          - tab "client-4" [ref=e369]
+          - tab "client-7" [ref=e370]
+          - tab "client-5" [ref=e371]
+          - tab "client-6" [ref=e372]
+          - tab "client-8" [ref=e373]
+    - generic [ref=e375]:
+      - generic [ref=e377]:
+        - generic [ref=e379]: our Office View
+        - heading "A Workspace Built for creative Excellence" [level=2] [ref=e380]
+      - generic [ref=e382]:
+        - generic [ref=e383]:
+          - img "Person working on digital illustration of a vivid orange car front in graphic design software on a desktop computer." [ref=e384]
+          - img "Group of young adults posing indoors with teal and white balloons and a Happy New Year sign in the background." [ref=e385]
+          - img "Person wearing a cap working on a desktop computer displaying a mobile app design interface while others work in the background." [ref=e386]
+          - img "A man wearing glasses and a beige jacket points at a computer screen while a woman in an orange headscarf types on the keyboard in an office setting." [ref=e387]
+        - generic [ref=e388]:
+          - img "Person working on digital illustration of a vivid orange car front in graphic design software on a desktop computer." [ref=e389]
+          - img "Group of young adults posing indoors with teal and white balloons and a Happy New Year sign in the background." [ref=e390]
+          - img "Person wearing a cap working on a desktop computer displaying a mobile app design interface while others work in the background." [ref=e391]
+          - img "A man wearing glasses and a beige jacket points at a computer screen while a woman in an orange headscarf types on the keyboard in an office setting." [ref=e392]
+    - generic [ref=e395]:
+      - generic [ref=e396]:
+        - generic [ref=e397]:
+          - generic [ref=e398]:
+            - heading "Got Questions?" [level=2] [ref=e399]
+            - heading "We’ve Got Answers" [level=2] [ref=e400]
+          - paragraph [ref=e401]: If you’re unsure where to start or want to see how we can help, reach out, and we’ll walk you through it.
+        - generic [ref=e402]:
+          - generic [ref=e403]:
+            - generic [ref=e404]:
+              - heading "Book an Intro Call" [level=3] [ref=e405]
+              - generic [ref=e406]: Time to get introduced and explore how Orbix Studio can help.
+            - link "Book a Call" [ref=e407]:
+              - /url: https://cal.com/orbixstudiollc/free-ux-strategy-book-now-call
+              - generic [ref=e409]: Book a Call
+          - generic [ref=e413]:
+            - generic [ref=e414]: Do you prefer email communication?
+            - link "hello@orbix.studio" [ref=e415]:
+              - /url: mailto:hello@orbix.studio
+      - generic [ref=e416]:
+        - generic [ref=e417]:
+          - button "Who founded Orbix Studio and who runs it today?" [ref=e418] [cursor=pointer]:
+            - heading "Who founded Orbix Studio and who runs it today?" [level=3] [ref=e420]
+          - navigation "Who founded Orbix Studio and who runs it today?":
+            - paragraph [ref=e425]: Orbix Studio was founded and is led by Shohanur Rahman, who built the agency around one belief that great products start with great user experience. The team is 30+ designers, engineers, and producers spread across New York, Riyadh, Dubai, and Dhaka, serving 80+ SaaS founders worldwide.
+        - generic [ref=e426]:
+          - button "What does Orbix Studio specialize in?" [ref=e427] [cursor=pointer]:
+            - heading "What does Orbix Studio specialize in?" [level=3] [ref=e429]
+          - navigation "What does Orbix Studio specialize in?":
+            - paragraph [ref=e434]: We specialize in product design for B2B SaaS and AI teams - UI/UX, brand, motion, and full-stack development inside one team. Most clients are Seed-to-Series-B founders who want a complete product-and-marketing partner instead of stitching four separate vendors together. 150+ projects shipped to date.
+        - generic [ref=e435]:
+          - button "How long has Orbix Studio been in business?" [ref=e436] [cursor=pointer]:
+            - heading "How long has Orbix Studio been in business?" [level=3] [ref=e438]
+          - navigation "How long has Orbix Studio been in business?":
+            - paragraph [ref=e443]: Orbix has been operating since 2023, with the LLC formally registered as a US entity. Over six years we have delivered 200+ design projects, helped clients raise a combined $10B+, and earned recognition on Behance (39 badges), Clutch (38+ reviews), and Top Worldwide Dribbble status.
+        - generic [ref=e444]:
+          - button "Where is Orbix Studio located?" [ref=e445] [cursor=pointer]:
+            - heading "Where is Orbix Studio located?" [level=3] [ref=e447]
+          - navigation "Where is Orbix Studio located?":
+            - paragraph [ref=e452]: We are headquartered in New York with active offices in Riyadh, Dubai, and Dhaka. The team is 100% remote, which lets us cover US, EU, and GCC business hours and keep costs predictable for clients. No physical office overhead, no commute, no rigid timezone friction.
+        - generic [ref=e453]:
+          - button "How many designers and developers work at Orbix Studio?" [ref=e454] [cursor=pointer]:
+            - heading "How many designers and developers work at Orbix Studio?" [level=3] [ref=e456]
+          - navigation "How many designers and developers work at Orbix Studio?":
+            - paragraph [ref=e461]: The team is 30+ creatives — senior designers, design leads, front-end and back-end developers, motion artists, illustrators, and project managers. Every engagement runs as a small pod (2–5 people) led by a senior designer, so you talk to the people doing the work, not account managers.
+        - generic [ref=e462]:
+          - button "What kind of clients does Orbix Studio work with?" [ref=e463] [cursor=pointer]:
+            - heading "What kind of clients does Orbix Studio work with?" [level=3] [ref=e465]
+          - navigation "What kind of clients does Orbix Studio work with?":
+            - paragraph [ref=e470]: We work with funded B2B SaaS and AI teams (Seed–Series B), enterprise workflow products, and growing startups across fintech, healthcare, e-mobility, and logistics. Past clients include Circle K, RollUpLife, GiveHub, and Privilee. We do not take pre-seed solo projects or D2C e-commerce work.
+        - generic [ref=e471]:
+          - button "What is Orbix Studio's design and development process?" [ref=e472] [cursor=pointer]:
+            - heading "What is Orbix Studio's design and development process?" [level=3] [ref=e474]
+          - navigation "What is Orbix Studio's design and development process?":
+            - paragraph [ref=e479]:
+              - text: "Three steps: Plan, Structure, Build. Plan - define the product goal and priority feature."
+              - text: Structure - map the user flow and key screens.
+              - text: Build - designers and developers work in parallel to ship production-ready experiences. Most product engagements move from kickoff to shipped product inside 2–6 weeks.
+        - generic [ref=e480]:
+          - button "What awards has Orbix Studio won?" [ref=e481] [cursor=pointer]:
+            - heading "What awards has Orbix Studio won?" [level=3] [ref=e483]
+          - navigation "What awards has Orbix Studio won?":
+            - paragraph [ref=e488]: We have earned 39 Behance badges, the i.design Winner 2025 award for the GiveHub project, the Muzli Dashboard Showcase 2025 feature, and Top Worldwide ranking on Dribbble. 38+ reviews on Clutch, 50+ on GoodFirms, and 450+ reviews across Fiverr verified profiles.
+        - generic [ref=e489]:
+          - button "How is Orbix Studio different from other UI/UX agencies?" [ref=e490] [cursor=pointer]:
+            - heading "How is Orbix Studio different from other UI/UX agencies?" [level=3] [ref=e492]: How is Orbix Studio different from other UI/UX agencies?
+          - navigation "How is Orbix Studio different from other UI/UX agencies?":
+            - paragraph [ref=e497]:
+              - text: Three measurable things.
+              - text: One - design and development share one team, so we ship in 2–6 weeks instead of 4 months.
+              - text: Two - AI production is bundled into the same retainer.
+              - text: Three - clients report 4x design capacity, 60% faster time-to-market, with proof published on Clutch.
+        - generic [ref=e498]:
+          - button "Is Orbix Studio a sustainable or eco-friendly design agency?" [ref=e499] [cursor=pointer]:
+            - heading "Is Orbix Studio a sustainable or eco-friendly design agency?" [level=3] [ref=e501]: Is Orbix Studio a sustainable or eco-friendly design agency?
+          - navigation "Is Orbix Studio a sustainable or eco-friendly design agency?":
+            - paragraph [ref=e506]: Yes. We operate 100% remotely (zero commute emissions), run a paperless workflow on cloud-only documents, and host on Google Cloud and AWS both certified renewable-energy data centers. Low-impact operations are part of how we deliver high-volume creative work at scale, responsibly.
+    - generic [ref=e509]:
+      - heading "Present on Top Creative Platforms" [level=2] [ref=e510]
+      - generic [ref=e511]:
+        - link "10+ Projects Live" [ref=e512]:
+          - /url: https://webflow.com/templates/designers/orbix-studio
+          - generic [ref=e515]: 10+ Projects Live
+        - generic [ref=e520]: 5+ Projects Live
+        - link "Top Worldwide" [ref=e522]:
+          - /url: https://dribbble.com/OrbixstudioLLC
+          - generic [ref=e525]: Top Worldwide
+        - link "42+ Badges" [ref=e527]:
+          - /url: https://www.behance.net/orbixstudiollc
+          - generic [ref=e530]: 42+ Badges
+        - link "450+ Reviews" [ref=e532]:
+          - /url: https://www.fiverr.com/aparicitshohan
+          - generic [ref=e535]: 450+ Reviews
+        - link "43+ Reviews" [ref=e537]:
+          - /url: https://clutch.co/profile/orbix-studio
+          - generic [ref=e540]: 43+ Reviews
+        - link "52+ Reviews" [ref=e542]:
+          - /url: https://www.goodfirms.co/company/orbix-studio-llc
+          - generic [ref=e545]: 52+ Reviews
+        - link "5+ Projects Live" [ref=e547]:
+          - /url: https://www.designrush.com/agency/profile/orbix-studio
+          - generic [ref=e550]: 5+ Projects Live
+  - generic [ref=e555]:
+    - generic [ref=e558]:
+      - generic [ref=e559]:
+        - generic [ref=e560]:
+          - link "Orbix Studio":
+            - /url: /
+            - img "Orbix Studio"
+          - generic [ref=e561]:
+            - heading "Orbix Studio" [level=3] [ref=e562]
+            - generic [ref=e563]: We design and build scalable digital products that support complex workflows and business-critical systems.
+          - link "Company Deck" [ref=e564]:
+            - /url: https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing
+            - generic [ref=e566]: Company Deck
+        - generic [ref=e568]:
+          - generic [ref=e569]:
+            - generic [ref=e570]: Services
+            - generic [ref=e571]:
+              - link "UI/UX Design" [ref=e572]:
+                - /url: /services/ui-ux-design
+              - link "Web Development" [ref=e573]:
+                - /url: /services/full-stack-development
+              - link "AI Creative Production" [ref=e574]:
+                - /url: /services/ai-creative-production
+              - link "Webflow" [ref=e575]:
+                - /url: /services/webflow-expert-agency
+              - link "MVP Development" [ref=e576]:
+                - /url: /services/mvp-development
+              - generic [ref=e577]: Framer
+              - link "SaaS Design" [ref=e578]:
+                - /url: /services/saas-design
+              - link "Custom Illustration" [ref=e579]:
+                - /url: /services/custom-illustration
+              - link "Mobile App" [ref=e580]:
+                - /url: /services/mobile-app-development
+              - link "Motion Design" [ref=e581]:
+                - /url: /services/motion-design
+              - link "Branding" [ref=e582]:
+                - /url: /services/brand-design
+              - link "Creative Marketing" [ref=e583]:
+                - /url: /services/creative-marketing
+          - generic [ref=e584]:
+            - generic [ref=e585]:
+              - generic [ref=e586]: Quick Links
+              - generic [ref=e587]:
+                - link "Case Studies" [ref=e588]:
+                  - /url: /case-studies
+                - link "About" [ref=e589]:
+                  - /url: /about
+                - link "Pricing" [ref=e590]:
+                  - /url: /pricing
+                - link "Careers" [ref=e591]:
+                  - /url: /career
+                - link "Blog" [ref=e592]:
+                  - /url: /blogs
+                - link "Contact" [ref=e593]:
+                  - /url: /contact
+            - generic [ref=e594]:
+              - generic [ref=e595]: Follow Us
+              - generic [ref=e596]:
+                - link "Facebook" [ref=e597]:
+                  - /url: https://www.facebook.com/orbixstudioLLC/
+                - link "LinkedIn" [ref=e598]:
+                  - /url: https://www.linkedin.com/company/orbixstudio/
+                - link "Instagram" [ref=e599]:
+                  - /url: https://www.instagram.com/orbixstudiollc/?hl=en
+                - link "(X) Twitter" [ref=e600]:
+                  - /url: https://x.com/OrbixStudio
+                - link "Pinterest" [ref=e601]:
+                  - /url: https://www.pinterest.com/orbixstudio/
+                - link "Dribbble" [ref=e602]:
+                  - /url: https://dribbble.com/OrbixstudioLLC
+                - link "Behance" [ref=e603]:
+                  - /url: https://www.behance.net/orbixstudiollc
+      - generic [ref=e605]:
+        - generic [ref=e606]:
+          - generic [ref=e607]:
+            - generic [ref=e608]: Email us
+            - link "hello@orbix.studio" [ref=e609]:
+              - /url: mailto:hello@orbix.studio
+          - generic [ref=e610]:
+            - generic [ref=e611]: Call Us
+            - link "+1 (646) 598-7983" [ref=e613]:
+              - /url: https://wa.me/16465987983
+        - generic [ref=e614]:
+          - generic [ref=e615]: Limited Liability Company Based In
+          - generic [ref=e616]:
+            - generic [ref=e618]:
+              - generic [ref=e619]:
+                - generic:
+                  - img "flug"
+                - generic [ref=e620]:
+                  - generic [ref=e621]: NEW YORK
+                  - generic [ref=e622]: 88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States
+              - img "Shape" [ref=e624]
+            - generic [ref=e627]:
+              - generic:
+                - img "flug"
+              - generic [ref=e628]:
+                - generic [ref=e629]: KSA
+                - generic [ref=e630]: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia
+              - img "Shape" [ref=e632]
+            - generic [ref=e635]:
+              - generic:
+                - img "flug"
+              - generic [ref=e636]:
+                - generic [ref=e637]: DUBAI
+                - generic [ref=e638]: 35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates
+              - img "Shape" [ref=e640]
+            - generic [ref=e643]:
+              - generic:
+                - img "flug"
+              - generic [ref=e644]:
+                - generic [ref=e645]: DHAKA
+                - generic [ref=e646]: OPL Ayub Tower, Dhaka 1216
+              - img "Shape" [ref=e648]
+    - generic [ref=e652]:
+      - generic [ref=e653]: © 2023-2026, Orbix Studio | All Rights Reserved.
+      - generic [ref=e654]:
+        - link "Terms of Services" [ref=e655]:
+          - /url: /terms-of-service
+        - link "Privacy Policy" [ref=e656]:
+          - /url: /privacy-policy
+        - link "Refund Policy" [ref=e657]:
+          - /url: /refund-policy

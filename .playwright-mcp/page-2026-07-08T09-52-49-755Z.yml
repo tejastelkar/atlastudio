@@ -1,0 +1,364 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Atlas Studio home" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e7]:
+            - generic [ref=e8]: Atlas
+            - generic [ref=e9]: Studio
+        - navigation "Primary" [ref=e10]:
+          - button "Services +" [ref=e12] [cursor=pointer]:
+            - text: Services
+            - generic [ref=e13]: +
+          - link "Case Studies" [ref=e14] [cursor=pointer]:
+            - /url: /case-studies
+          - link "Pricing" [ref=e15] [cursor=pointer]:
+            - /url: /pricing
+          - link "About Us" [ref=e16] [cursor=pointer]:
+            - /url: /about
+          - link "Blog" [ref=e17] [cursor=pointer]:
+            - /url: /blogs
+        - link "Contact Us" [ref=e18] [cursor=pointer]:
+          - /url: /contact
+    - main [ref=e20]:
+      - generic [ref=e21]:
+        - generic [ref=e23]:
+          - generic [ref=e26]: SaaS Design Services
+          - heading "SaaS Design Agency for Product-led Companies" [level=1] [ref=e27]
+          - link "Improve Your SaaS Design" [ref=e29] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e31]: Improve Your SaaS Design
+        - generic [ref=e34]:
+          - generic [ref=e35]: Trusted by 80+ SaaS Founders and Product Teams
+          - generic [ref=e36]:
+            - generic [ref=e37]:
+              - generic [ref=e38]:
+                - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e42]
+                - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=e46]
+              - generic [ref=e52]:
+                - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e56]
+                - img "Hand holding a multi-colored stress relief ball with red, blue, yellow, and green sections." [ref=e60]
+            - generic [ref=e66]:
+              - generic [ref=e67]:
+                - img "Line graph showing a steady increase from 0% to 100% over time." [ref=e70]
+                - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e72]
+                - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=e75]
+              - generic [ref=e81]:
+                - img "Line graph showing a steady increase from 0% to 100% over time." [ref=e84]
+                - img "Sailboat on water with reflection, under a sky with clouds and a bright sun flare." [ref=e86]
+                - img "Cute puppy wearing sunglasses and a red collar, lying on sand with paw raised." [ref=e89]
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - generic [ref=e101]:
+            - generic [ref=e104]: The Value of SaaS Design
+            - heading "Make your digital experience match your brand" [level=2] [ref=e105]
+          - generic [ref=e107]: Great SaaS design does more than make your product look polished. It helps users onboard faster, complete tasks more easily, and stay engaged over time. We design product experiences that reduce friction, improve activation, and support long-term retention.
+        - generic:
+          - img "Hands holding a tablet displaying a financial overview dashboard with charts, account details, and transaction summaries from Fintera."
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - heading "Why Orbix studio for SaaS Design?" [level=2] [ref=e112]
+          - generic [ref=e113]: We design SaaS websites and product experiences that support usability, conversion, and long-term growth.
+        - generic [ref=e114]:
+          - generic [ref=e116]:
+            - generic [ref=e117]: Increase in conversion
+            - heading "30%" [level=3] [ref=e118]
+          - generic [ref=e121]:
+            - generic [ref=e122]: Long-term client partnerships
+            - heading "6+ Months" [level=3] [ref=e123]
+          - generic [ref=e125]:
+            - generic [ref=e126]: Startups from seed to Series A
+            - heading "60+" [level=3] [ref=e127]
+          - generic [ref=e129]:
+            - generic [ref=e130]: From brief to launch
+            - heading "4-8 Weeks" [level=3] [ref=e131]
+      - generic [ref=e134]:
+        - generic [ref=e135]:
+          - generic [ref=e137]: SaaS Design Services
+          - heading "Design That Supports Every SaaS Touchpoint" [level=2] [ref=e138]
+          - generic [ref=e139]: Our SaaS design services enhance key touchpoints, from websites to user journeys, improving digital experiences.
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - img "Person holding a tablet displaying a project management dashboard with charts, graphs, and task statistics."
+            - generic [ref=e142]:
+              - heading "SaaS Product Design" [level=3] [ref=e143]:
+                - strong [ref=e144]: SaaS Product Design
+              - generic [ref=e145]: Create SaaS product designs with clear workflows and polished interfaces.
+          - generic [ref=e146]:
+            - img "Hand holding smartphone displaying an event app with popular events like a lunch party and ongoing football tournament." [ref=e147]
+            - generic [ref=e148]:
+              - heading "SaaS UI Design" [level=3] [ref=e149]:
+                - strong [ref=e150]: SaaS UI Design
+              - generic [ref=e151]: High-quality interface design for SaaS products, including layouts, components, states, and visual consistency across screens.
+          - generic [ref=e152]:
+            - img "Person looking at a large digital dashboard screen showing financial data, charts, and transaction details." [ref=e153]
+            - generic [ref=e154]:
+              - heading "UX/UI Design" [level=3] [ref=e155]:
+                - strong [ref=e156]: UX/UI Design
+              - generic [ref=e157]: Thoughtful UX and UI that bring more clarity to the experience, reduce friction, and help users move through your product with confidence.
+          - generic [ref=e158]:
+            - img "Two young people wearing green shirts sitting at a table and discussing content on a tablet."
+            - generic [ref=e159]:
+              - heading "SaaS Website Design" [level=3] [ref=e160]:
+                - strong [ref=e161]: SaaS Website Design
+              - generic [ref=e162]: Websites crafted to articulate your product, establish trust swiftly, and direct visitors to demos or trials.
+          - generic [ref=e163]:
+            - img "Graphic interface showing a text size icon, a bar chart, and a section with blurred text and an abstract blue wave image."
+            - generic [ref=e164]:
+              - heading "Design Systems" [level=3] [ref=e165]:
+                - strong [ref=e166]: Design Systems
+              - generic [ref=e167]: Consistent design systems speed up decision-making and improve collaboration between design and development.
+          - generic [ref=e168]:
+            - img "Hand holding a paper with colorful wireframe sketches and notes on a whiteboard with additional notes and to-do list items." [ref=e169]
+            - generic [ref=e170]:
+              - heading "SaaS Onboarding Flow Design" [level=3] [ref=e171]:
+                - strong [ref=e172]: SaaS Onboarding Flow Design
+              - generic [ref=e173]: Onboarding experiences designed to reduce friction, explain value faster, and help new users reach key actions sooner.
+          - generic [ref=e174]:
+            - img "A man in a green shirt presenting ideas on a whiteboard with colorful sticky notes to an attentive group of three people." [ref=e175]
+            - generic [ref=e176]:
+              - heading "User Flow Design" [level=3] [ref=e177]:
+                - strong [ref=e178]: User Flow Design
+              - generic [ref=e179]: Step-by-step journey mapping for the actions users need to complete, from first click to successful outcome.
+      - generic [ref=e182]:
+        - generic [ref=e183]:
+          - generic [ref=e185]: Our Process
+          - heading "A Faster Way To Design And Build SaaS Products" [level=2] [ref=e186]
+          - generic [ref=e187]: Most teams lose time juggling separate designers, developers, and slow handoffs. We bring design and development together in one streamlined process, so you can move from idea to launch with more speed, clarity, and less friction.
+        - generic [ref=e195]:
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - generic [ref=e199]: Step 1
+              - generic [ref=e200]: Plan
+            - generic [ref=e204]:
+              - generic [ref=e205]:
+                - heading "Define the Product Goal" [level=3] [ref=e206]
+                - paragraph [ref=e207]: We align on the outcome, the user problem, and the highest-priority feature or flow to tackle first.
+              - generic [ref=e208]:
+                - img "Smiling man with beard waving during a video call interface on screen."
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - generic [ref=e212]: Step 2
+              - generic [ref=e213]: Structure
+            - generic [ref=e217]:
+              - generic [ref=e218]:
+                - heading "Map the User Experience" [level=3] [ref=e219]
+                - paragraph [ref=e220]: We shape the product structure, key screens, and user journeys before design and development begin.
+              - generic [ref=e221]:
+                - img "Website homepage showing food delivery app with tagline 'Fast, Fresh & Delivered To Your Door' and app interface on mobile phones."
+          - generic [ref=e222]:
+            - generic [ref=e223]:
+              - generic [ref=e225]: Step 3
+              - generic [ref=e226]: Build
+            - generic [ref=e230]:
+              - generic [ref=e231]:
+                - heading "Design and Build Together" [level=3] [ref=e232]
+                - paragraph [ref=e233]: Designers and developers work in parallel to create production-ready product experiences faster.
+              - generic [ref=e234]:
+                - img "Dashboard interface on a tablet showing user welcome message, compliance score gauge at 94%, financial metrics, and usage statistics."
+      - generic [ref=e238]:
+        - generic [ref=e239]:
+          - heading "Bring this level of Creativity to your next project" [level=2] [ref=e240]
+          - generic [ref=e241]: This is just one of many services—what you build is up to you. Let’s talk.
+        - link "Book a Demo" [ref=e242] [cursor=pointer]:
+          - /url: https://api.whatsapp.com/send/?phone=16465987983&text&type=phone_number&app_absent=0
+          - generic [ref=e244]: Book a Demo
+      - generic [ref=e247]:
+        - heading "What SaaS Teams Say About Working With Atlas Studio" [level=2] [ref=e248]
+        - generic [ref=e249]:
+          - tabpanel "client-1" [ref=e251]:
+            - generic [ref=e255]:
+              - generic [ref=e258]:
+                - generic [ref=e259]: Website Design
+                - generic [ref=e261]: App Design
+                - generic [ref=e263]: Branding
+              - generic [ref=e265]:
+                - generic [ref=e266]: "\"Atlas Studio has created remarkable work for The Whitney building that helped us define not just this individual building but the new direction in which we are heading as a group\""
+                - generic [ref=e267]:
+                  - generic [ref=e268]: Tiyahnn Bryant
+                  - generic [ref=e269]: CEO at RollUpLife Inc
+                - generic [ref=e270]:
+                  - generic [ref=e271]:
+                    - generic [ref=e272]:
+                      - generic [ref=e273]: 4X
+                      - generic [ref=e274]: Increase in design capacity
+                    - generic [ref=e275]:
+                      - generic [ref=e276]: 60%
+                      - generic [ref=e277]: Reduction in time to market
+                    - generic [ref=e278]:
+                      - generic [ref=e279]: 40+
+                      - generic [ref=e280]: Number of brands
+                  - generic [ref=e281]:
+                    - generic:
+                      - img "Smartphone displaying a digital weather app showing a sunny day with a temperature of 36 degrees Celsius."
+                    - generic [ref=e282]:
+                      - heading "GiveHub -" [level=3] [ref=e283]
+                      - generic [ref=e284]: Transparent Donation & Charity Platform
+          - tablist [ref=e285]:
+            - tab "client-1" [selected] [ref=e286] [cursor=pointer]:
+              - img "Logo of XL Axiata with the text 'Raih Performa Tertinggi' next to an orange 'XL' in a rounded square."
+            - tab "client-2" [ref=e287] [cursor=pointer]
+            - tab "aria-label-3" [ref=e288] [cursor=pointer]:
+              - img "Casa de las Letras logo with an open book and purple text."
+            - tab "client-4" [ref=e289] [cursor=pointer]
+            - tab "client-7" [ref=e290] [cursor=pointer]
+            - tab "client-5" [ref=e291] [cursor=pointer]
+            - tab "client-6" [ref=e292] [cursor=pointer]
+            - tab "client-8" [ref=e293] [cursor=pointer]
+      - generic [ref=e296]:
+        - generic [ref=e297]:
+          - generic [ref=e300]: RESOURCES
+          - heading "Get deeper insights, tips, and real talk from the blog." [level=2] [ref=e301]
+        - list [ref=e303]:
+          - listitem [ref=e304]:
+            - generic [ref=e305]:
+              - generic:
+                - img "SaaS dark mode UI design concept showing a modern dark interface with red lighting, highlighting best practices for accessibility, color systems, readability, and user experience."
+              - generic [ref=e306]:
+                - generic [ref=e307]: SaaS
+                - generic [ref=e308]: 10 Min
+              - generic [ref=e309]:
+                - heading "SaaS Dark Mode UI Design Best Practices for Better User Experience" [level=3] [ref=e310]
+                - generic [ref=e311]: Learn how to create a better SaaS dark mode UI design with proven UX principles, accessibility best practices, scalable color systems, real-world examples, and practical design tips.
+          - listitem [ref=e312]:
+            - generic [ref=e313]:
+              - generic:
+                - img "Illustration of the SaaS aha moment showing user activation, engagement metrics, and growth dashboard representing the first value realization in a SaaS product."
+              - generic [ref=e314]:
+                - generic [ref=e315]: SaaS
+                - generic [ref=e316]: 10 Min
+              - generic [ref=e317]:
+                - heading "What Is the Aha Moment in SaaS? Definition, Types & Examples in 2026" [level=3] [ref=e318]
+                - generic [ref=e319]: New SaaS users decide fast whether your product is worth keeping. Learn what the aha moment in SaaS really means and how to help users reach it faster.
+          - listitem [ref=e320]:
+            - generic [ref=e321]:
+              - generic:
+                - img "Editorial SaaS free trial landing page hero design featuring a user working on a laptop with a modern landing page concept focused on increasing free trial conversions."
+              - generic [ref=e322]:
+                - generic [ref=e323]: SaaS
+                - generic [ref=e324]: 15 Min
+              - generic [ref=e325]:
+                - 'heading "SaaS Free Trial Landing Page: Anatomy of a Page That Converts" [level=3] [ref=e326]'
+                - generic [ref=e327]: SaaS free trial landing pages leak signups from friction, not traffic. See the 8 elements, 10 real examples, and 2026 benchmarks that fix it.
+        - link "View All Blog" [ref=e328] [cursor=pointer]:
+          - /url: /blogs
+          - generic [ref=e330]: View All Blog
+      - generic [ref=e334]:
+        - generic [ref=e335]:
+          - generic [ref=e336]:
+            - generic [ref=e337]:
+              - heading "Got Questions?" [level=2] [ref=e338]
+              - heading "We’ve Got Answers" [level=2] [ref=e339]
+            - paragraph [ref=e340]: If you’re unsure where to start or want to see how we can help, reach out, and we’ll walk you through it.
+          - generic [ref=e341]:
+            - generic [ref=e342]:
+              - generic [ref=e343]:
+                - heading "Book an Intro Call" [level=3] [ref=e344]
+                - generic [ref=e345]: Let’s talk through your goals, your timeline, and how Atlas Studio can support your team.
+              - link "Book a Call" [ref=e346] [cursor=pointer]:
+                - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+                - generic [ref=e348]: Book a Call
+            - generic [ref=e352]:
+              - generic [ref=e353]: Do you prefer email communication?
+              - link "hello@atlastudio.in" [ref=e354] [cursor=pointer]:
+                - /url: mailto:hello@atlastudio.in
+        - generic [ref=e355]:
+          - generic [ref=e356]:
+            - button "What does a SaaS design agency actually do?" [ref=e357] [cursor=pointer]:
+              - heading "What does a SaaS design agency actually do?" [level=3] [ref=e359]:
+                - strong [ref=e360]: What does a SaaS design agency actually do?
+            - navigation "What does a SaaS design agency actually do?":
+              - paragraph [ref=e365]: A SaaS design agency is a product design partner for software companies we run the research, design the flows, ship the UI, build the design system, and sit inside your sprints until the product is live. Think of us as a plug-in product design team, not a vendor you email files to.
+          - generic [ref=e366]:
+            - button "How much does it cost to hire a SaaS design agency in 2026?" [ref=e367] [cursor=pointer]:
+              - heading "How much does it cost to hire a SaaS design agency in 2026?" [level=3] [ref=e369]
+            - navigation "How much does it cost to hire a SaaS design agency in 2026?":
+              - paragraph [ref=e374]: Expect $3,000–$15,000 a month for a serious SaaS design partner in 2026, or $15,000–$150,000 for a fixed redesign project. Atlas Studio runs on flat monthly plans $2,999 for Startup and $5,499 for Scale-ups so you skip the hourly-invoice anxiety and know exactly what your design capacity is every month.
+          - generic [ref=e375]:
+            - button "How long does a full SaaS redesign take?" [ref=e376] [cursor=pointer]:
+              - heading "How long does a full SaaS redesign take?" [level=3] [ref=e378]
+            - navigation "How long does a full SaaS redesign take?":
+              - paragraph [ref=e383]: A focused SaaS redesign takes four to eight weeks with us; a full enterprise platform can run three to six months. The biggest variable isn't design it's how fast your team can review and make decisions. We keep momentum with weekly syncs and async Loom walkthroughs so feedback never stalls a sprint.
+          - generic [ref=e384]:
+            - button "How is a SaaS design agency different from a generalist design agency?" [ref=e385] [cursor=pointer]:
+              - heading "How is a SaaS design agency different from a generalist design agency?" [level=3] [ref=e387]
+            - navigation "How is a SaaS design agency different from a generalist design agency?":
+              - paragraph [ref=e392]: "A generalist agency designs anything - websites, apps, brands, ads. A SaaS design agency lives inside product complexity: multi-step flows, data-heavy dashboards, permission layers, onboarding activation, retention patterns. We've shipped 60+ B2B SaaS products, so we won't burn two weeks learning what a workspace-and-seat model is."
+          - generic [ref=e393]:
+            - button "Can you help with onboarding flows and improving activation rates?" [ref=e394] [cursor=pointer]:
+              - heading "Can you help with onboarding flows and improving activation rates?" [level=3] [ref=e396]
+            - navigation "Can you help with onboarding flows and improving activation rates?":
+              - paragraph [ref=e401]: Yes onboarding and activation are where most SaaS products leak trial users. We audit the current flow, identify the drop-off step, rebuild it around a 60-second aha moment, and A/B the new version. Clients typically see a 20–30% lift in activation within the first month after we ship.
+          - generic [ref=e402]:
+            - button "Do you work with pre-seed startups or only funded teams?" [ref=e403] [cursor=pointer]:
+              - heading "Do you work with pre-seed startups or only funded teams?" [level=3] [ref=e405]
+            - navigation "Do you work with pre-seed startups or only funded teams?":
+              - paragraph [ref=e410]: Our sweet spot is Seed to Series B — teams with $500K–$25M raised, a real product, and real users. We do take on pre-seed founders occasionally when the idea is sharp and the founder is decisive, but if you're still validating the concept with no budget, a design sprint is a better first step than a full engagement.
+          - generic [ref=e411]:
+            - button "How do you measure success on a SaaS design project?" [ref=e412] [cursor=pointer]:
+              - heading "How do you measure success on a SaaS design project?" [level=3] [ref=e414]
+            - navigation "How do you measure success on a SaaS design project?":
+              - paragraph [ref=e419]: Design work is only done when a business metric moves. We align on the north-star KPI at kickoff activation, conversion, retention, NPS, time-to-value instrument it before we ship, and track it for 30–60 days after. If the number didn't move, the work isn't finished.
+          - generic [ref=e420]:
+            - button "Can you design a SaaS product if we don't have engineers yet?" [ref=e421] [cursor=pointer]:
+              - heading "Can you design a SaaS product if we don't have engineers yet?" [level=3] [ref=e423]
+            - navigation "Can you design a SaaS product if we don't have engineers yet?":
+              - paragraph [ref=e428]: Yes, and we'll save you from designing something that can't ship. We'll sketch flows, build clickable Figma prototypes, and translate screens into Webflow or a React MVP so you can demo to investors. When you do hire engineers, you'll hand them a ready-to-build spec, not a mood board.
+          - generic [ref=e429]:
+            - button "What deliverables do I get at the end of a SaaS design engagement?" [ref=e430] [cursor=pointer]:
+              - heading "What deliverables do I get at the end of a SaaS design engagement?" [level=3] [ref=e432]: What deliverables do I get at the end of a SaaS design engagement?
+            - navigation "What deliverables do I get at the end of a SaaS design engagement?":
+              - paragraph [ref=e437]: "You walk away with: a production-ready Figma file, a design system with tokens and components, user-flow diagrams, annotated developer-handoff specs, a clickable prototype, accessibility notes, and any front-end code we built. All of it yours, all of it documented, no designer required to open the file."
+          - generic [ref=e438]:
+            - button "How is a pod-based engagement different from hiring a single designer?" [ref=e439] [cursor=pointer]:
+              - heading "How is a pod-based engagement different from hiring a single designer?" [level=3] [ref=e441]: How is a pod-based engagement different from hiring a single designer?
+            - navigation "How is a pod-based engagement different from hiring a single designer?":
+              - paragraph [ref=e446]: One designer is one brain with one bandwidth ceiling. A pod gives you a designer, a researcher, a developer, and a lead who all share context so UI, UX, and development move in parallel instead of waiting on each other. Pod-based engagements typically ship 2–3x faster than a solo-designer model.
+      - generic [ref=e449]:
+        - heading "Present on Top Creative Platforms" [level=2] [ref=e450]
+        - generic [ref=e451]:
+          - link "10+ Projects Live" [ref=e452] [cursor=pointer]:
+            - /url: https://webflow.com/templates/designers/orbix-studio
+            - generic [ref=e455]: 10+ Projects Live
+          - generic [ref=e460]: 5+ Projects Live
+          - link "Top Worldwide" [ref=e462] [cursor=pointer]:
+            - /url: https://dribbble.com/atlastudio
+            - generic [ref=e465]: Top Worldwide
+          - link "42+ Badges" [ref=e467] [cursor=pointer]:
+            - /url: https://www.behance.net/atlastudio
+            - generic [ref=e470]: 42+ Badges
+          - link "450+ Reviews" [ref=e472] [cursor=pointer]:
+            - /url: https://www.fiverr.com/aparicitshohan
+            - generic [ref=e475]: 450+ Reviews
+          - link "43+ Reviews" [ref=e477] [cursor=pointer]:
+            - /url: https://clutch.co/profile/orbix-studio
+            - generic [ref=e480]: 43+ Reviews
+          - link "52+ Reviews" [ref=e482] [cursor=pointer]:
+            - /url: https://www.goodfirms.co/company/orbix-studio-llc
+            - generic [ref=e485]: 52+ Reviews
+          - link "5+ Projects Live" [ref=e487] [cursor=pointer]:
+            - /url: https://www.designrush.com/agency/profile/orbix-studio
+            - generic [ref=e490]: 5+ Projects Live
+    - contentinfo [ref=e495]:
+      - generic [ref=e496]:
+        - generic [ref=e497]:
+          - generic [ref=e498]:
+            - generic [ref=e499]: Atlas
+            - generic [ref=e500]: Studio
+          - paragraph [ref=e501]: Founded by Tejastelkar. We build custom websites, Shopify stores, and high-conversion digital experiences for ambitious brands.
+        - generic [ref=e502]:
+          - link "SaaS Design" [ref=e503] [cursor=pointer]:
+            - /url: /services/saas-design
+          - link "MVP Development" [ref=e504] [cursor=pointer]:
+            - /url: /services/mvp-development
+          - link "About" [ref=e505] [cursor=pointer]:
+            - /url: /about
+          - link "Blog" [ref=e506] [cursor=pointer]:
+            - /url: /blogs
+        - generic [ref=e507]:
+          - link "hello@atlastudio.in" [ref=e508] [cursor=pointer]:
+            - /url: mailto:hello@atlastudio.in
+          - link "Book A Call" [ref=e509] [cursor=pointer]:
+            - /url: https://cal.com/atlastudio/free-ux-strategy-book-now-call
+  - alert [ref=e510]

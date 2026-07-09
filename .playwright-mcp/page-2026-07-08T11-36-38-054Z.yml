@@ -1,0 +1,1653 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - text: "\""
+    - generic [ref=e3]:
+      - generic [ref=e5]:
+        - link "\\\"home\\\"" [ref=e7] [cursor=pointer]:
+          - /url: \"/\"
+          - img "\\\"Atlas" [ref=e8]
+        - navigation [ref=e9]:
+          - generic [ref=e10]:
+            - generic [ref=e11]:
+              - link "Services" [ref=e12] [cursor=pointer]:
+                - /url: \"/services\"
+              - img "\\\"\\\"" [ref=e14]
+            - navigation "Services \\\"\\\"" [ref=e15]:
+              - generic [ref=e17]:
+                - generic [ref=e18]:
+                  - link "\\\"\\\" UI/UX Design Simple and clear screen layouts UI/UX Consulting UI/UX Design UX Audit Website Design Website Design SaaS Design \\\"\\\"" [ref=e19] [cursor=pointer]:
+                    - /url: \"/services/ui-ux-design\"
+                    - generic [ref=e20]:
+                      - img "\\\"\\\"" [ref=e22]
+                      - generic [ref=e23]:
+                        - generic [ref=e24]: UI/UX Design
+                        - generic [ref=e25]: Simple and clear screen layouts
+                    - generic [ref=e26]:
+                      - generic [ref=e28]: UI/UX Consulting
+                      - generic [ref=e30]: UI/UX Design
+                      - generic [ref=e32]: UX Audit
+                      - generic [ref=e34]: Website Design
+                      - generic [ref=e36]: Website Design
+                      - generic [ref=e38]: SaaS Design
+                    - img "\\\"\\\"" [ref=e40]
+                  - link "\\\"\\\" SaaS Design Software tools that make sense Dashboard UI, Onboarding Flow B2B Product Pricing Page SaaS Landing Page \\\"\\\"" [ref=e41] [cursor=pointer]:
+                    - /url: \"/services/saas-design\"
+                    - generic [ref=e42]:
+                      - img "\\\"\\\"" [ref=e44]
+                      - generic [ref=e45]:
+                        - generic [ref=e46]: SaaS Design
+                        - generic [ref=e47]: Software tools that make sense
+                    - generic [ref=e48]:
+                      - generic [ref=e50]: Dashboard UI,
+                      - generic [ref=e52]: Onboarding Flow
+                      - generic [ref=e54]: B2B Product
+                      - generic [ref=e56]: Pricing Page
+                      - generic [ref=e58]: SaaS Landing Page
+                    - img "\\\"\\\"" [ref=e60]
+                  - link "\\\"\\\" Branding A standout style for your business Brand Identity Logo Design Visual Language Brand Strategy Brand Guidelines Brand Collateral \\\"\\\"" [ref=e61] [cursor=pointer]:
+                    - /url: \"/services/brand-design\"
+                    - generic [ref=e62]:
+                      - img "\\\"\\\"" [ref=e64]
+                      - generic [ref=e65]:
+                        - generic [ref=e66]: Branding
+                        - generic [ref=e67]: A standout style for your business
+                    - generic [ref=e68]:
+                      - generic [ref=e70]: Brand Identity
+                      - generic [ref=e72]: Logo Design
+                      - generic [ref=e74]: Visual Language
+                      - generic [ref=e76]: Brand Strategy
+                      - generic [ref=e78]: Brand Guidelines
+                      - generic [ref=e80]: Brand Collateral
+                    - img "\\\"\\\"" [ref=e82]
+                  - link "\\\"\\\" MVP Development Fast launch for your idea MVP Strategy Product Scoping Clickable Prototype Clickable Prototype User Validation Feature Prioritization \\\"\\\"" [ref=e83] [cursor=pointer]:
+                    - /url: \"/services/mvp-development\"
+                    - generic [ref=e84]:
+                      - img "\\\"\\\"" [ref=e86]
+                      - generic [ref=e87]:
+                        - generic [ref=e88]: MVP Development
+                        - generic [ref=e89]: Fast launch for your idea
+                    - generic [ref=e90]:
+                      - generic [ref=e92]: MVP Strategy
+                      - generic [ref=e94]: Product Scoping
+                      - generic [ref=e96]: Clickable Prototype
+                      - generic [ref=e98]: Clickable Prototype
+                      - generic [ref=e100]: User Validation
+                      - generic [ref=e102]: Feature Prioritization
+                    - img "\\\"\\\"" [ref=e104]
+                  - link "\\\"\\\" Mobile App Dev Perfect apps for any phone Design Android React Native App UI/UX App Design App Prototyping App Store Assets \\\"\\\"" [ref=e105] [cursor=pointer]:
+                    - /url: \"/services/mobile-app-development\"
+                    - generic [ref=e106]:
+                      - img "\\\"\\\"" [ref=e108]
+                      - generic [ref=e109]:
+                        - generic [ref=e110]: Mobile App Dev
+                        - generic [ref=e111]: Perfect apps for any phone
+                    - generic [ref=e112]:
+                      - generic [ref=e114]: Design Android
+                      - generic [ref=e116]: React Native
+                      - generic [ref=e118]: App UI/UX
+                      - generic [ref=e120]: App Design
+                      - generic [ref=e122]: App Prototyping
+                      - generic [ref=e124]: App Store Assets
+                    - img "\\\"\\\"" [ref=e126]
+                  - link "\\\"\\\" Webflow Super fast no-code websites Webflow Development, Webflow CMS Landing Pages Webflow SEO E-commerce Webflow Interactions \\\"\\\"" [ref=e127] [cursor=pointer]:
+                    - /url: \"/services/webflow-expert-agency\"
+                    - generic [ref=e128]:
+                      - img "\\\"\\\"" [ref=e130]
+                      - generic [ref=e131]:
+                        - generic [ref=e132]: Webflow
+                        - generic [ref=e133]: Super fast no-code websites
+                    - generic [ref=e134]:
+                      - generic [ref=e136]: Webflow Development,
+                      - generic [ref=e138]: Webflow CMS
+                      - generic [ref=e140]: Landing Pages
+                      - generic [ref=e142]: Webflow SEO
+                      - generic [ref=e144]: E-commerce
+                      - generic [ref=e146]: Webflow Interactions
+                    - img "\\\"\\\"" [ref=e148]
+                - generic [ref=e150]:
+                  - link "\\\"\\\" Motion Design Graphics that move smoothly \\\"\\\"" [ref=e151] [cursor=pointer]:
+                    - /url: \"/services/motion-design\"
+                    - img "\\\"\\\"" [ref=e153]
+                    - generic [ref=e154]:
+                      - generic [ref=e155]: Motion Design
+                      - generic [ref=e156]: Graphics that move smoothly
+                    - img "\\\"\\\"" [ref=e158]
+                  - 'link "\\\"\\\" Creative Markting Ads to grab attention` \\\"\\\"" [ref=e159] [cursor=pointer]':
+                    - /url: \"/services/creative-marketing\"
+                    - img "\\\"\\\"" [ref=e161]
+                    - generic [ref=e162]:
+                      - generic [ref=e163]: Creative Markting
+                      - generic [ref=e164]: "Ads to grab attention`"
+                    - img "\\\"\\\"" [ref=e166]
+                  - link "\\\"\\\" Ai Product Ads to grab attention \\\"\\\"" [ref=e167] [cursor=pointer]:
+                    - /url: \"/services/ai-creative-production\"
+                    - img "\\\"\\\"" [ref=e169]
+                    - generic [ref=e170]:
+                      - generic [ref=e171]: Ai Product
+                      - generic [ref=e172]: Ads to grab attention
+                    - img "\\\"\\\"" [ref=e174]
+                  - link "\\\"\\\" Custom Illustration Unique art for your brand. \\\"\\\"" [ref=e175] [cursor=pointer]:
+                    - /url: \"/services/custom-illustration\"
+                    - img "\\\"\\\"" [ref=e177]
+                    - generic [ref=e178]:
+                      - generic [ref=e179]: Custom Illustration
+                      - generic [ref=e180]: Unique art for your brand.
+                    - img "\\\"\\\"" [ref=e182]
+                  - link "\\\"\\\" Full Stack Development Solid code that powers everything \\\"\\\"" [ref=e183] [cursor=pointer]:
+                    - /url: \"/services/full-stack-development\"
+                    - img "\\\"\\\"" [ref=e185]
+                    - generic [ref=e186]:
+                      - generic [ref=e187]: Full Stack Development
+                      - generic [ref=e188]: Solid code that powers everything
+                    - img "\\\"\\\"" [ref=e190]
+          - generic [ref=e191]:
+            - link "Case Studies (42)" [ref=e193] [cursor=pointer]:
+              - /url: \"/case-studies\"
+              - text: Case Studies
+              - superscript [ref=e194]: (42)
+            - navigation "Case Studies (42)" [ref=e195]:
+              - generic [ref=e197]:
+                - generic [ref=e198]:
+                  - generic [ref=e199]:
+                    - generic [ref=e200]: Our Latest Case Studies
+                    - generic [ref=e201]: We design and build scalable digital products that support complex workflows and business-critical systems.
+                  - link "Explore Case Studies \\\"\\\"" [ref=e202] [cursor=pointer]:
+                    - /url: \"/case-studies\"
+                    - generic [ref=e203]: Explore Case Studies
+                    - img "\\\"\\\"" [ref=e205]
+                - generic [ref=e206]:
+                  - generic [ref=e207]:
+                    - generic [ref=e208]:
+                      - generic [ref=e209]:
+                        - generic [ref=e210]: Gourmeat
+                        - generic [ref=e211]: Gourmeat is a modern food delivery app designed to make online food ordering fast, simple, and convenient
+                      - link "View Case Study \\\"\\\"" [ref=e213] [cursor=pointer]:
+                        - /url: \"/case-studies/gourmeat-food-app\"
+                        - generic [ref=e214]:
+                          - generic [ref=e215]: View Case Study
+                          - img "\\\"\\\"" [ref=e217]
+                    - img "\\\"Case" [ref=e218]
+                  - generic [ref=e219]:
+                    - generic [ref=e220]:
+                      - generic [ref=e221]:
+                        - generic [ref=e222]: Flowrix
+                        - generic [ref=e223]: Flowrix is a modern, high-impact creative agency website built to showcase services, portfolios, and brand storytelling with clarity and Confidence
+                      - link "View Case Study \\\"\\\"" [ref=e225] [cursor=pointer]:
+                        - /url: \"/case-studies/flowrix-website\"
+                        - generic [ref=e226]:
+                          - generic [ref=e227]: View Case Study
+                          - img "\\\"\\\"" [ref=e229]
+                    - img "\\\"Case" [ref=e230]
+                  - generic [ref=e231]:
+                    - generic [ref=e232]:
+                      - generic [ref=e233]:
+                        - generic [ref=e234]: SwiftWash
+                        - generic [ref=e235]: A laundry services app. This project involve creating a more intuitive, user-friendly, and visually appealing UI/UX design.
+                      - link "View Case Study \\\"\\\"" [ref=e237] [cursor=pointer]:
+                        - /url: \"/case-studies/swift-wash-app\"
+                        - generic [ref=e238]:
+                          - generic [ref=e239]: View Case Study
+                          - img "\\\"\\\"" [ref=e241]
+                    - img "\\\"Case" [ref=e242]
+          - generic [ref=e243]:
+            - link "Pricing" [ref=e245] [cursor=pointer]:
+              - /url: \"/pricing\"
+            - navigation "Pricing" [ref=e246]:
+              - generic [ref=e248]:
+                - generic [ref=e249]:
+                  - generic [ref=e250]:
+                    - generic [ref=e251]: Ready To Scale Your Conversions?
+                    - generic [ref=e252]: We design and build scalable digital products that support complex workflows and business-critical systems.
+                  - link "Explore Pricing \\\"\\\"" [ref=e253] [cursor=pointer]:
+                    - /url: \"/pricing\"
+                    - generic [ref=e254]: Explore Pricing
+                    - img "\\\"\\\"" [ref=e256]
+                - generic [ref=e257]:
+                  - generic [ref=e258]:
+                    - generic [ref=e259]:
+                      - generic [ref=e260]: Startup
+                      - list [ref=e261]:
+                        - listitem [ref=e262]: High-converting website in 2 weeks
+                        - listitem [ref=e263]: Investor-ready pitch deck
+                        - listitem [ref=e264]: Brand identity in 10 days
+                        - listitem [ref=e265]: App, Website & MVP product
+                        - listitem [ref=e266]: 100 Hours per month
+                      - link "Book a Discovery Call \\\"\\\"" [ref=e268] [cursor=pointer]:
+                        - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+                        - generic [ref=e269]:
+                          - generic [ref=e270]: Book a Discovery Call
+                          - img "\\\"\\\"" [ref=e272]
+                    - img "\\\"Pricing\\\"" [ref=e273]
+                  - generic [ref=e274]:
+                    - generic [ref=e275]:
+                      - generic [ref=e276]: Enterprise
+                      - list [ref=e277]:
+                        - listitem [ref=e278]: World-class pod-based engagement
+                        - listitem [ref=e279]: Multiple pods in parallel
+                        - listitem [ref=e280]: Design system rollout
+                        - listitem [ref=e281]: WCAG 2.2 AA Compliance
+                        - listitem [ref=e282]: 200 Hours per month
+                      - link "Book a Discovery Call \\\"\\\"" [ref=e284] [cursor=pointer]:
+                        - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+                        - generic [ref=e285]:
+                          - generic [ref=e286]: Book a Discovery Call
+                          - img "\\\"\\\"" [ref=e288]
+                    - img "\\\"Pricing\\\"" [ref=e289]
+          - link "About Us" [ref=e290] [cursor=pointer]:
+            - /url: \"/about\"
+            - generic [ref=e291]: About Us
+          - generic [ref=e292]:
+            - link "Blog" [ref=e294] [cursor=pointer]:
+              - /url: \"/blogs\"
+            - navigation "Blog" [ref=e295]:
+              - generic [ref=e297]:
+                - generic [ref=e298]:
+                  - generic [ref=e299]:
+                    - generic [ref=e300]: Our Latest Articles
+                    - generic [ref=e301]: Expert insights, website audits, design guides, and best practices to help you build better digital products and grow your business.
+                  - link "Browse All Articles \\\"\\\"" [ref=e302] [cursor=pointer]:
+                    - /url: \"/blogs\"
+                    - generic [ref=e303]: Browse All Articles
+                    - img "\\\"\\\"" [ref=e305]
+                - generic [ref=e306]:
+                  - generic [ref=e307]:
+                    - generic [ref=e308]:
+                      - generic [ref=e309]:
+                        - generic [ref=e310]: SaaS Website Design Guide
+                        - link "Learn SaaS website design from the ground up. Discover essential pages, best practices, user journeys, and conversion strategies." [ref=e312] [cursor=pointer]:
+                          - /url: \"https://www.atlastudio.in/blogs/ux-audit-cost\"
+                      - link "View Full Blog \\\"\\\"" [ref=e314] [cursor=pointer]:
+                        - /url: \"/blogs/saas-website-design-guide\"
+                        - generic [ref=e315]:
+                          - generic [ref=e316]: View Full Blog
+                          - img "\\\"\\\"" [ref=e318]
+                    - img "\\\"Case" [ref=e319]
+                  - generic [ref=e320]:
+                    - generic [ref=e321]:
+                      - generic [ref=e322]:
+                        - generic [ref=e323]: SaaS Website Audit Checklist
+                        - link "Use this complete SaaS website audit checklist to review technical SEO, Core Web Vitals, tracking, security, and conversion elements before launch." [ref=e325] [cursor=pointer]:
+                          - /url: \"https://www.atlastudio.in/blogs/saas-website-audit-checklist\"
+                      - link "View Full Blog \\\"\\\"" [ref=e327] [cursor=pointer]:
+                        - /url: \"/blogs/saas-website-audit-checklist\"
+                        - generic [ref=e328]:
+                          - generic [ref=e329]: View Full Blog
+                          - img "\\\"\\\"" [ref=e331]
+                    - img "\\\"Case" [ref=e332]
+                  - generic [ref=e333]:
+                    - generic [ref=e334]:
+                      - generic [ref=e335]:
+                        - generic [ref=e336]: SaaS Website Design Cost
+                        - link "Planning a SaaS website? Learn typical costs, what's included, and why some websites cost $5,000 while others cost $100,000 or more." [ref=e338] [cursor=pointer]:
+                          - /url: \"https://www.atlastudio.in/blogs/saas-website-design-cost\"
+                      - link "View Full Blog \\\"\\\"" [ref=e340] [cursor=pointer]:
+                        - /url: \"/blogs/saas-website-design-cost\"
+                        - generic [ref=e341]:
+                          - generic [ref=e342]: View Full Blog
+                          - img "\\\"\\\"" [ref=e344]
+                    - img "\\\"Case" [ref=e345]
+          - link "Services \\\"\\\"" [ref=e346] [cursor=pointer]:
+            - /url: \"/services\"
+            - generic [ref=e347]: Services
+            - img "\\\"\\\"" [ref=e349]
+          - link "Case Studies (09)" [ref=e350] [cursor=pointer]:
+            - /url: \"/case-studies\"
+            - generic [ref=e351]:
+              - text: Case Studies
+              - superscript [ref=e352]: (09)
+          - link "Pricing" [ref=e353] [cursor=pointer]:
+            - /url: \"/pricing\"
+            - generic [ref=e354]: Pricing
+          - link "Templates \\\"\\\"" [ref=e355] [cursor=pointer]:
+            - /url: \"#\"
+            - generic [ref=e356]: Templates
+            - img "\\\"\\\"" [ref=e358]
+          - link "Resources \\\"\\\"" [ref=e359] [cursor=pointer]:
+            - /url: \"/blogs\"
+            - generic [ref=e360]: Resources
+            - img "\\\"\\\"" [ref=e362]
+          - link "Blog" [ref=e363] [cursor=pointer]:
+            - /url: \"/blogs\"
+            - generic [ref=e364]: Blog
+          - generic [ref=e365]:
+            - generic [ref=e367]: Resources
+            - navigation "Resources" [ref=e368]:
+              - generic [ref=e370]:
+                - generic [ref=e371]:
+                  - generic [ref=e372]:
+                    - generic [ref=e373]: Resources
+                    - generic [ref=e374]: Explore ready-made templates, design resources, and practical insights to streamline your workflow and accelerate delivery.
+                    - generic [ref=e375]:
+                      - link "Contact us" [ref=e376] [cursor=pointer]:
+                        - /url: \"/contact\"
+                        - generic [ref=e377]: Contact us
+                      - link "Free Resources \\\"\\\"" [ref=e378] [cursor=pointer]:
+                        - /url: \"https://webflow.com/@orbix\"
+                        - generic [ref=e379]: Free Resources
+                        - img "\\\"\\\"" [ref=e381]
+                  - link "Teamplate \\\"\\\"" [ref=e382] [cursor=pointer]:
+                    - /url: \"/resources\"
+                    - generic [ref=e383]: Teamplate
+                    - img "\\\"\\\"" [ref=e385]
+                - generic [ref=e386]:
+                  - generic [ref=e387]:
+                    - generic [ref=e388]:
+                      - generic [ref=e389]: Finorix
+                      - generic [ref=e390]: Finorix is a clean and modern Webflow template built for personal finance apps, budgeting tools, and fintech startups.
+                      - link "View Templates \\\"\\\"" [ref=e392] [cursor=pointer]:
+                        - /url: \"https://webflow.com/templates/html/finorix-website-template\"
+                        - generic [ref=e393]:
+                          - generic [ref=e394]: View Templates
+                          - img "\\\"\\\"" [ref=e396]
+                    - img "\\\"Hands" [ref=e397]
+                  - generic [ref=e398]:
+                    - generic [ref=e399]:
+                      - generic [ref=e400]: Flowrix
+                      - generic [ref=e401]: Flowrix is a bold and dynamic Webflow template crafted for creative agencies, studios, and freelancers who want to showcase their work with impact.
+                      - link "View Templates \\\"\\\"" [ref=e403] [cursor=pointer]:
+                        - /url: \"https://webflow.com/templates/html/flowrix-website-template\"
+                        - generic [ref=e404]:
+                          - generic [ref=e405]: View Templates
+                          - img "\\\"\\\"" [ref=e407]
+                    - img "\\\"Two" [ref=e408]
+                  - generic [ref=e409]:
+                    - generic [ref=e410]:
+                      - generic [ref=e411]: Zeryna
+                      - generic [ref=e412]: Zeryna is a bold, modern Webflow template crafted for creative agencies, studios, and independent designers.
+                      - link "View Templates \\\"\\\"" [ref=e414] [cursor=pointer]:
+                        - /url: \"https://webflow.com/templates/html/zeryna-website-template\"
+                        - generic [ref=e415]:
+                          - generic [ref=e416]: View Templates
+                          - img "\\\"\\\"" [ref=e418]
+                    - img "\\\"Hands" [ref=e419]
+          - link "Book a Discovery Call \\\"\\\"" [ref=e421] [cursor=pointer]:
+            - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+            - generic [ref=e422]:
+              - generic [ref=e423]: Book a Discovery Call
+              - img "\\\"\\\"" [ref=e425]
+        - generic [ref=e426]:
+          - link "Contact Us \\\"\\\"" [ref=e427] [cursor=pointer]:
+            - /url: \"/contact\"
+            - generic [ref=e428]:
+              - generic [ref=e429]: Contact Us
+              - img "\\\"\\\"" [ref=e430]
+          - generic "\\\"menu\\\"" [ref=e431]:
+            - generic [ref=e432]:
+              - img "\\\"\\\"" [ref=e433]
+              - img "\\\"\\\"" [ref=e434]
+      - main [ref=e435]:
+        - generic [ref=e436]:
+          - generic [ref=e438]:
+            - generic [ref=e439]:
+              - img "\\\"\\\"" [ref=e441]
+              - generic [ref=e442]: Webflow Design & Development
+            - heading "Professional Webflow Development Agency" [level=1] [ref=e443]
+            - link "Schedule a Demo \\\"\\\"" [ref=e445] [cursor=pointer]:
+              - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+              - generic [ref=e446]:
+                - generic [ref=e447]: Schedule a Demo
+                - img "\\\"\\\"" [ref=e449]
+          - generic [ref=e451]:
+            - generic [ref=e452]: Trusted by 80+ SaaS Founders and Product Teams
+            - generic [ref=e453]:
+              - generic [ref=e454]:
+                - generic [ref=e455]:
+                  - img "\\\"\\\"" [ref=e457]
+                  - img "\\\"\\\"" [ref=e459]
+                  - img "\\\"Sailboat" [ref=e461]
+                  - img "\\\"\\\"" [ref=e463]
+                  - img "\\\"\\\"" [ref=e465]
+                  - img "\\\"Hand" [ref=e467]
+                  - img "\\\"\\\"" [ref=e469]
+                  - img "\\\"\\\"" [ref=e471]
+                  - img "\\\"\\\"" [ref=e473]
+                  - img "\\\"\\\"" [ref=e475]
+                  - img "\\\"\\\"" [ref=e477]
+                - generic [ref=e478]:
+                  - img "\\\"\\\"" [ref=e480]
+                  - img "\\\"\\\"" [ref=e482]
+                  - img "\\\"Sailboat" [ref=e484]
+                  - img "\\\"\\\"" [ref=e486]
+                  - img "\\\"\\\"" [ref=e488]
+                  - img "\\\"Hand" [ref=e490]
+                  - img "\\\"\\\"" [ref=e492]
+                  - img "\\\"\\\"" [ref=e494]
+                  - img "\\\"\\\"" [ref=e496]
+                  - img "\\\"\\\"" [ref=e498]
+                  - img "\\\"\\\"" [ref=e500]
+              - generic [ref=e501]:
+                - generic [ref=e502]:
+                  - img "\\\"\\\"" [ref=e504]
+                  - img "\\\"Line" [ref=e506]
+                  - img "\\\"Sailboat" [ref=e508]
+                  - img "\\\"\\\"" [ref=e510]
+                  - img "\\\"Cute" [ref=e512]
+                  - img "\\\"\\\"" [ref=e514]
+                  - img "\\\"\\\"" [ref=e516]
+                  - img "\\\"\\\"" [ref=e518]
+                  - img "\\\"\\\"" [ref=e520]
+                  - img "\\\"\\\"" [ref=e522]
+                - generic [ref=e523]:
+                  - img "\\\"\\\"" [ref=e525]
+                  - img "\\\"Line" [ref=e527]
+                  - img "\\\"Sailboat" [ref=e529]
+                  - img "\\\"\\\"" [ref=e531]
+                  - img "\\\"Cute" [ref=e533]
+                  - img "\\\"\\\"" [ref=e535]
+                  - img "\\\"\\\"" [ref=e537]
+                  - img "\\\"\\\"" [ref=e539]
+                  - img "\\\"\\\"" [ref=e541]
+                  - img "\\\"\\\"" [ref=e543]
+        - generic [ref=e547]:
+          - generic [ref=e548]:
+            - generic [ref=e549]:
+              - generic [ref=e550]:
+                - img "\\\"\\\"" [ref=e552]
+                - generic [ref=e553]: Webflow Design & Build
+              - heading "Get a Custom Webflow Website Designed and Developed in 1 Week" [level=2] [ref=e554]:
+                - text: Get a Custom Webflow
+                - generic [ref=e555]:
+                  - text: Website
+                  - emphasis [ref=e556]: Designed and Developed in 1 Week
+            - generic [ref=e558]: In just 1 week, we design and develop a custom Webflow website tailored to your brand, content, and goals. It’s a fast, focused process built to deliver a premium site without dragging the project out for weeks.
+            - link "Start Your Project \\\"\\\"" [ref=e559] [cursor=pointer]:
+              - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+              - generic [ref=e560]:
+                - generic [ref=e561]: Start Your Project
+                - img "\\\"\\\"" [ref=e563]
+          - img "\\\"Two" [ref=e565]
+        - generic [ref=e568]:
+          - generic [ref=e569]:
+            - heading "Why Orbix studio?" [level=2] [ref=e570]
+            - generic [ref=e571]: Atlas Studio is a global UI/UX design and development agency with six years of hands-on Webflow experience. We help brands launch polished, high-performing websites with the speed, structure, and quality modern teams expect.
+          - generic [ref=e572]:
+            - generic [ref=e574]:
+              - generic [ref=e575]: Webflow and website projects successfully delivered across startups and growing brands
+              - heading "140+" [level=3] [ref=e576]
+            - generic [ref=e578]:
+              - generic [ref=e579]: Brands and internal teams supported through design and development projects
+              - heading "80+" [level=3] [ref=e580]
+            - generic [ref=e582]:
+              - generic [ref=e583]: Years of hands-on experience building custom websites in Webflow
+              - heading "06+" [level=3] [ref=e584]
+            - generic [ref=e586]:
+              - generic [ref=e587]: Average client rating across projects focused on quality, speed, and trust
+              - heading "4.9" [level=3] [ref=e588]
+        - generic [ref=e591]:
+          - generic [ref=e592]:
+            - generic [ref=e593]:
+              - img "\\\"\\\"" [ref=e595]
+              - generic [ref=e596]: What We Offer
+            - heading "Custom Webflow Design & Dev for B2B SaaS and AI Products" [level=2] [ref=e597]
+            - generic [ref=e598]: Our team designs and develops custom Webflow websites from start to finish. You get a site that looks sharp, works smoothly, and is ready to support marketing and growth.
+          - generic [ref=e599]:
+            - generic [ref=e600]:
+              - img "\\\"Person" [ref=e601]
+              - img "\\\"\\\"" [ref=e602]
+              - generic [ref=e603]:
+                - heading "Figma to Webflow Development" [level=3] [ref=e604]:
+                  - strong [ref=e605]: Figma to Webflow Development
+                - generic [ref=e606]: Convert Figma designs into a flawless Webflow build, launch-ready.
+            - generic [ref=e607]:
+              - img "\\\"Person" [ref=e608]
+              - generic [ref=e609]:
+                - heading "Custom Webflow Design" [level=3] [ref=e610]:
+                  - strong [ref=e611]: Custom Webflow Design
+                - generic [ref=e612]: We design custom Webflow sites that reflect your brand and align with your vision.
+            - generic [ref=e613]:
+              - img "\\\"Person" [ref=e614]
+              - generic [ref=e615]:
+                - heading "Webflow Landing Page Design" [level=3] [ref=e616]:
+                  - strong [ref=e617]: Webflow Landing Page Design
+                - generic [ref=e618]: We specialize in crafting Webflow landing pages that deliver a focused message and drive conversions.
+            - generic [ref=e619]:
+              - img "\\\"Person" [ref=e620]
+              - generic [ref=e621]:
+                - heading "Full Webflow Design + Development" [level=3] [ref=e622]:
+                  - strong [ref=e623]: Full Webflow Design + Development
+                - generic [ref=e624]: We oversee the complete website creation, from design to Webflow build, for a smooth experience.
+            - generic [ref=e625]:
+              - img "\\\"Person" [ref=e626]
+              - generic [ref=e627]:
+                - heading "Webflow CMS Architecture" [level=3] [ref=e628]:
+                  - strong [ref=e629]: Webflow CMS Architecture
+                - generic [ref=e630]: A strategic CMS design helps manage expanding content efficiently, keeping everything organized.
+            - generic [ref=e631]:
+              - img "\\\"Computer" [ref=e632]
+              - generic [ref=e633]:
+                - heading "Custom Animations & Interactions" [level=3] [ref=e634]:
+                  - strong [ref=e635]: Custom Animations & Interactions
+                - generic [ref=e636]: Effective motion enhances a website's appeal and guides user focus, adding personality without distraction.
+        - generic [ref=e639]:
+          - generic [ref=e640]:
+            - generic [ref=e642]: Our Process
+            - heading "A Clear Webflow Process Built for Fast, Custom Website Launches" [level=2] [ref=e643]
+            - generic [ref=e644]: Every project moves through a focused four-step process, from requirements and planning to custom design, Webflow development, and launch. That keeps the work clear, fast, and easier to move forward without unnecessary delays.
+          - generic [ref=e646]:
+            - generic [ref=e647]:
+              - generic [ref=e648]:
+                - generic [ref=e650]: Step 1
+                - generic [ref=e651]: Plan
+              - img "\\\"\\\"" [ref=e655]
+              - generic [ref=e656]:
+                - generic [ref=e657]:
+                  - heading "Gather Requirements" [level=3] [ref=e658]:
+                    - strong [ref=e659]: Gather Requirements
+                  - paragraph [ref=e660]: Every project starts with understanding your goals, content, required pages, and references.
+                - img "\\\"Smiling" [ref=e662]
+            - generic [ref=e663]:
+              - generic [ref=e664]:
+                - generic [ref=e666]: Step 2
+                - generic [ref=e667]: Design
+              - img "\\\"\\\"" [ref=e671]
+              - generic [ref=e672]:
+                - generic [ref=e673]:
+                  - heading "Create the UI/UX Direction" [level=3] [ref=e674]:
+                    - strong [ref=e675]: Create the UI/UX Direction
+                  - paragraph [ref=e676]: With the structure in place, the visual design is created around your brand.
+                - img "\\\"Website" [ref=e678]
+            - generic [ref=e679]:
+              - generic [ref=e680]:
+                - generic [ref=e682]: Step 3
+                - generic [ref=e683]: Build
+              - img "\\\"\\\"" [ref=e687]
+              - generic [ref=e688]:
+                - generic [ref=e689]:
+                  - heading "Develop, and Launch in Webflow" [level=3] [ref=e690]:
+                    - strong [ref=e691]: Develop, and Launch in Webflow
+                  - paragraph [ref=e692]: After approval, the design is developed in Webflow, and prepared for a smooth launch.
+                - img "\\\"Dashboard" [ref=e694]
+        - generic [ref=e697]:
+          - generic [ref=e698]:
+            - generic [ref=e699]:
+              - img "\\\"\\\"" [ref=e701]
+              - generic [ref=e702]: Why Atlas Studio
+            - heading "What Makes Our Webflow Builds Worth It" [level=2] [ref=e703]
+          - generic [ref=e704]:
+            - generic [ref=e705]:
+              - img "\\\"\\\"" [ref=e706]
+              - generic [ref=e707]:
+                - heading "Custom, Not Template-Based" [level=3] [ref=e708]:
+                  - strong [ref=e709]: Custom, Not Template-Based
+                - generic [ref=e710]: Every website is designed around your brand, content, and goals, so the final result feels distinct instead of off-the-shelf
+            - generic [ref=e711]:
+              - img "\\\"\\\"" [ref=e712]
+              - generic [ref=e713]:
+                - heading "Built to Launch Faster" [level=3] [ref=e714]:
+                  - strong [ref=e715]: Built to Launch Faster
+                - generic [ref=e716]: A clear process keeps design and development moving together. It helps the site go live without dragging through weeks of unnecessary delay.
+            - generic [ref=e717]:
+              - img "\\\"\\\"" [ref=e718]
+              - generic [ref=e719]:
+                - heading "Easy to Manage Later" [level=3] [ref=e720]:
+                  - strong [ref=e721]: Easy to Manage Later
+                - generic [ref=e722]: Clean structure and thoughtful setup make updates simpler. So, your team can manage content without constant friction.
+            - generic [ref=e723]:
+              - img "\\\"\\\"" [ref=e724]
+              - generic [ref=e725]:
+                - heading "Structured to Scale" [level=3] [ref=e726]:
+                  - strong [ref=e727]: Structured to Scale
+                - generic [ref=e728]: The site is built with future growth in mind. This makes it easier to add pages, collections, and new content over time.
+            - generic [ref=e729]:
+              - img "\\\"\\\"" [ref=e730]
+              - generic [ref=e731]:
+                - heading "Polished in the Details" [level=3] [ref=e732]:
+                  - strong [ref=e733]: Polished in the Details
+                - generic [ref=e734]: Well-handled interactions, spacing, and responsive behavior give the site a smoother feel across the whole experience.
+            - generic [ref=e735]:
+              - img "\\\"\\\"" [ref=e736]
+              - generic [ref=e737]:
+                - heading "Ready for Real Use" [level=3] [ref=e738]:
+                  - strong [ref=e739]: Ready for Real Use
+                - generic [ref=e740]: Launch is not treated like the finish line alone. The final build is prepared to support marketing, content updates, and day-to-day business needs.
+        - generic [ref=e744]:
+          - generic [ref=e745]:
+            - generic [ref=e747]:
+              - img "\\\"\\\"" [ref=e749]
+              - generic [ref=e750]: Why Work With Atlas Studio
+            - generic [ref=e751]:
+              - heading "A Faster, More Thoughtful Way to Build in Webflow" [level=2] [ref=e752]
+              - generic [ref=e753]: From strategy to launch, the process stays focused, collaborative, and built around delivering custom Webflow websites without unnecessary delays.
+          - generic [ref=e754]:
+            - generic [ref=e755]:
+              - img "\\\"\\\"" [ref=e757]
+              - generic [ref=e758]:
+                - generic [ref=e759]: Fast Turnaround
+                - generic [ref=e760]: Projects move quickly without losing quality or attention to detail.
+            - generic [ref=e761]:
+              - img "\\\"\\\"" [ref=e763]
+              - generic [ref=e764]:
+                - strong [ref=e766]: Custom-First Approach
+                - generic [ref=e767]: Every site is shaped around the brand instead of forcing a template.
+            - generic [ref=e768]:
+              - img "\\\"\\\"" [ref=e770]
+              - generic [ref=e771]:
+                - strong [ref=e773]: Clear Communication
+                - generic [ref=e774]: Feedback, revisions, and progress stay organized from start to finish.
+            - generic [ref=e775]:
+              - img "\\\"\\\"" [ref=e777]
+              - generic [ref=e778]:
+                - generic [ref=e779]: Built for Growth
+                - generic [ref=e780]: The final site is easier to manage, expand, and improve over time.
+          - link "Start Your Project \\\"\\\"" [ref=e781] [cursor=pointer]:
+            - /url: \"/contact\"
+            - generic [ref=e782]:
+              - generic [ref=e783]: Start Your Project
+              - img "\\\"\\\"" [ref=e785]
+        - generic [ref=e788]:
+          - img "\\\"\\\"" [ref=e789]
+          - generic [ref=e790]:
+            - generic [ref=e791]:
+              - heading "Ready to Build Your Next Webflow Website?" [level=2] [ref=e792]
+              - generic [ref=e793]: We help SaaS and AI companies design and develop Webflow websites that look sharp, load fast, and support growth.
+            - link "\\\"\\\" Book a Discovery Call" [ref=e794] [cursor=pointer]:
+              - /url: \"https://api.whatsapp.com/send/?phone=16465987983&text&type=phone_number&app_absent=0\"
+              - generic [ref=e795]:
+                - img "\\\"\\\"" [ref=e796]
+                - generic [ref=e797]: Book a Discovery Call
+        - generic [ref=e800]:
+          - heading "What SaaS Teams Say About Working With Atlas Studio" [level=2] [ref=e801]
+          - generic [ref=e802]:
+            - generic [ref=e803]:
+              - generic "\\\"client-1\\\"" [ref=e804]:
+                - generic [ref=e806]:
+                  - generic [ref=e807]:
+                    - generic [ref=e808]:
+                      - img "\\\"\\\"" [ref=e810]
+                      - generic [ref=e811]:
+                        - generic [ref=e812]: Website Design
+                        - generic [ref=e813]: App Design
+                        - generic [ref=e814]: Branding
+                    - img "\\\"\\\"" [ref=e816]
+                  - generic [ref=e817]:
+                    - generic [ref=e818]: \"Atlas Studio has created remarkable work for The Whitney building that helped us define not just this individual building but the new direction in which we are heading as a group\"
+                    - generic [ref=e819]:
+                      - generic [ref=e820]: Tiyahnn Bryant
+                      - generic [ref=e821]: CEO at RollUpLife Inc
+                    - generic [ref=e822]:
+                      - generic [ref=e823]:
+                        - generic [ref=e824]:
+                          - generic [ref=e825]: 4X
+                          - generic [ref=e826]: Increase in design capacity
+                        - generic [ref=e827]:
+                          - generic [ref=e828]: 60%
+                          - generic [ref=e829]: Reduction in time to market
+                        - generic [ref=e830]:
+                          - generic [ref=e831]: 40+
+                          - generic [ref=e832]: Number of brands
+                      - generic [ref=e833]:
+                        - img "\\\"Smartphone" [ref=e835]
+                        - generic [ref=e836]:
+                          - heading "GiveHub -" [level=3] [ref=e837]
+                          - generic [ref=e838]: Transparent Donation & Charity Platform
+              - generic "\\\"client-2\\\"" [ref=e839]:
+                - generic [ref=e841]:
+                  - generic [ref=e842]:
+                    - generic [ref=e843]:
+                      - img "\\\"\\\"" [ref=e845]
+                      - generic [ref=e846]:
+                        - generic [ref=e847]: Website Design
+                        - generic [ref=e848]: App Design
+                        - generic [ref=e849]: Branding
+                    - img "\\\"\\\"" [ref=e851]
+                  - generic [ref=e852]:
+                    - generic [ref=e853]: “Understood what I needed and provided a professional and quick service. I would recommend.”
+                    - generic [ref=e854]:
+                      - generic [ref=e855]: Daniel Proper
+                      - generic [ref=e856]: CEO
+                    - generic [ref=e858]:
+                      - generic [ref=e859]:
+                        - generic [ref=e860]: 4X
+                        - generic [ref=e861]: Increase in design capacity
+                      - generic [ref=e862]:
+                        - generic [ref=e863]: 60%
+                        - generic [ref=e864]: Reduction in time to market
+                      - generic [ref=e865]:
+                        - generic [ref=e866]: 40+
+                        - generic [ref=e867]: Number of brands
+              - generic "\\\"aria-label-3\\\"" [ref=e868]:
+                - generic [ref=e870]:
+                  - generic [ref=e871]:
+                    - generic [ref=e872]:
+                      - img "\\\"\\\"" [ref=e874]
+                      - generic [ref=e875]:
+                        - generic [ref=e876]: Website Design
+                        - generic [ref=e877]: App Design
+                        - generic [ref=e878]: Branding
+                    - img "\\\"\\\"" [ref=e880]
+                  - generic [ref=e881]:
+                    - generic [ref=e882]: \"The team was very solution-oriented, proactive, engaged, and came up with intelligent workarounds for our specific requirements.\"
+                    - generic [ref=e883]:
+                      - generic [ref=e884]: Brynjar Glimsdal
+                      - generic [ref=e885]: Product Manager E-Mobility, Circle K
+                    - generic [ref=e887]:
+                      - generic [ref=e888]:
+                        - generic [ref=e889]: "5.0"
+                        - generic [ref=e890]: Increase in design capacity
+                        - img "\\\"\\\"" [ref=e891]
+                      - generic [ref=e892]:
+                        - generic [ref=e893]: 60%
+                        - generic [ref=e894]: Reduction in time to market
+                      - generic [ref=e895]:
+                        - generic [ref=e896]: 38+
+                        - generic [ref=e897]: Number of brands
+              - generic "\\\"client-4\\\"" [ref=e898]:
+                - generic [ref=e900]:
+                  - generic [ref=e901]:
+                    - generic [ref=e902]:
+                      - img "\\\"\\\"" [ref=e904]
+                      - generic [ref=e905]:
+                        - generic [ref=e906]: Website Design
+                        - generic [ref=e907]: App Design
+                        - generic [ref=e908]: Branding
+                    - img "\\\"\\\"" [ref=e910]
+                  - generic [ref=e911]:
+                    - generic [ref=e912]: \"They were extremely easy to work with.\"
+                    - generic [ref=e914]: Alexander Levit
+                    - generic [ref=e916]:
+                      - generic [ref=e917]:
+                        - generic [ref=e918]: "5.0"
+                        - img "\\\"\\\"" [ref=e919]
+                      - generic [ref=e920]:
+                        - generic [ref=e921]: 60%
+                        - generic [ref=e922]: Reduction in time to market
+                      - generic [ref=e923]:
+                        - generic [ref=e924]: 38+
+                        - generic [ref=e925]: Number of brands
+              - generic "\\\"client-7\\\"" [ref=e926]:
+                - generic [ref=e928]:
+                  - generic [ref=e929]:
+                    - generic [ref=e930]:
+                      - img "\\\"\\\"" [ref=e932]
+                      - generic [ref=e933]:
+                        - generic [ref=e934]: Website Design
+                        - generic [ref=e935]: Website Design
+                        - generic [ref=e936]: Website Design
+                    - img "\\\"\\\"" [ref=e938]
+                  - generic [ref=e939]:
+                    - generic [ref=e940]: “Their service delivery and attention to detail were top-notch.”
+                    - generic [ref=e942]: Jessica Epley
+                    - generic [ref=e944]:
+                      - generic [ref=e945]:
+                        - generic [ref=e946]: 4X
+                        - generic [ref=e947]: Increase in design capacity
+                      - generic [ref=e948]:
+                        - generic [ref=e949]: 60%
+                        - generic [ref=e950]: Reduction in time to market
+                      - generic [ref=e951]:
+                        - generic [ref=e952]: 40+
+                        - generic [ref=e953]: Number of brands
+              - generic "\\\"client-5\\\"" [ref=e954]:
+                - generic [ref=e956]:
+                  - generic [ref=e957]:
+                    - generic [ref=e958]:
+                      - img "\\\"\\\"" [ref=e960]
+                      - generic [ref=e961]:
+                        - generic [ref=e962]: Website Design
+                        - generic [ref=e963]: Website Design
+                        - generic [ref=e964]: Website Design
+                    - img "\\\"\\\"" [ref=e966]
+                  - generic [ref=e967]:
+                    - generic [ref=e968]: \"The expertise of the designer and developer assigned to the project was clear.\"
+                    - generic [ref=e969]:
+                      - generic [ref=e970]: Robel Yemane
+                      - generic [ref=e971]: Engineering Leader, Privilee
+                    - generic [ref=e973]:
+                      - generic [ref=e974]:
+                        - generic [ref=e975]: 4X
+                        - generic [ref=e976]: Increase in design capacity
+                      - generic [ref=e977]:
+                        - generic [ref=e978]: 60%
+                        - generic [ref=e979]: Reduction in time to market
+                      - generic [ref=e980]:
+                        - generic [ref=e981]: 40+
+                        - generic [ref=e982]: Number of brands
+              - generic "\\\"client-6\\\"" [ref=e983]:
+                - generic [ref=e985]:
+                  - generic [ref=e986]:
+                    - generic [ref=e987]:
+                      - img "\\\"\\\"" [ref=e989]
+                      - generic [ref=e990]:
+                        - generic [ref=e991]: Website Design
+                        - generic [ref=e992]: Website Design
+                        - generic [ref=e993]: Website Design
+                    - img "\\\"\\\"" [ref=e995]
+                  - generic [ref=e996]:
+                    - generic [ref=e997]: \"They’re a multidimensional team that enables us to share and work with the team successfully.\"
+                    - generic [ref=e999]: Laura Kornhauser
+                    - generic [ref=e1001]:
+                      - generic [ref=e1002]:
+                        - generic [ref=e1003]: "5.0"
+                        - img "\\\"\\\"" [ref=e1004]
+                      - generic [ref=e1005]:
+                        - generic [ref=e1006]: 60%
+                        - generic [ref=e1007]: Reduction in time to market
+                      - generic [ref=e1008]:
+                        - generic [ref=e1009]: 38+
+                        - generic [ref=e1010]: Number of brands
+              - generic "\\\"client-8\\\"" [ref=e1011]:
+                - generic [ref=e1013]:
+                  - generic [ref=e1014]:
+                    - generic [ref=e1015]:
+                      - img "\\\"\\\"" [ref=e1017]
+                      - generic [ref=e1018]:
+                        - generic [ref=e1019]: Website Design
+                        - generic [ref=e1020]: Website Design
+                        - generic [ref=e1021]: Website Design
+                    - img "\\\"\\\"" [ref=e1023]
+                  - generic [ref=e1024]:
+                    - generic [ref=e1025]: \"The team was very solution-oriented, proactive, engaged, and came up with intelligent workarounds for our specific requirements.\"
+                    - generic [ref=e1026]:
+                      - generic [ref=e1027]: Carlos Baltazar
+                      - generic [ref=e1028]: Office Operations & HR Manager, Provida Family Medicine
+                    - generic [ref=e1030]:
+                      - generic [ref=e1031]:
+                        - generic [ref=e1032]: "5.0"
+                        - img "\\\"\\\"" [ref=e1033]
+                      - generic [ref=e1034]:
+                        - generic [ref=e1035]: 60%
+                        - generic [ref=e1036]: Reduction in time to market
+                      - generic [ref=e1037]:
+                        - generic [ref=e1038]: 38+
+                        - generic [ref=e1039]: Number of brands
+            - generic [ref=e1040]:
+              - link "\\\"client-1\\\"" [ref=e1041] [cursor=pointer]:
+                - /url: \"#w-tabs-0-data-w-pane-0\"
+                - img "\\\"Logo" [ref=e1042]
+              - link "\\\"client-2\\\"" [ref=e1043] [cursor=pointer]:
+                - /url: \"#w-tabs-0-data-w-pane-1\"
+                - img "\\\"\\\"" [ref=e1044]
+              - link "\\\"aria-label-3\\\"" [ref=e1045] [cursor=pointer]:
+                - /url: \"#w-tabs-0-data-w-pane-2\"
+                - img "\\\"Casa" [ref=e1046]
+              - link "\\\"client-4\\\"" [ref=e1047] [cursor=pointer]:
+                - /url: \"#w-tabs-0-data-w-pane-3\"
+                - img "\\\"\\\"" [ref=e1048]
+              - link "\\\"client-7\\\"" [ref=e1049] [cursor=pointer]:
+                - /url: \"#w-tabs-0-data-w-pane-4\"
+                - img "\\\"\\\"" [ref=e1050]
+              - link "\\\"client-5\\\"" [ref=e1051] [cursor=pointer]:
+                - /url: \"#w-tabs-0-data-w-pane-5\"
+                - img "\\\"\\\"" [ref=e1052]
+              - link "\\\"client-6\\\"" [ref=e1053] [cursor=pointer]:
+                - /url: \"#w-tabs-0-data-w-pane-6\"
+                - img "\\\"\\\"" [ref=e1054]
+              - link "\\\"client-8\\\"" [ref=e1055] [cursor=pointer]:
+                - /url: \"#w-tabs-0-data-w-pane-7\"
+                - img "\\\"\\\"" [ref=e1056]
+        - generic [ref=e1059]:
+          - generic [ref=e1060]:
+            - generic [ref=e1061]:
+              - img "\\\"\\\"" [ref=e1063]
+              - generic [ref=e1064]: RESOURCES
+            - heading "Get deeper insights, tips, and real talk from the blog." [level=2] [ref=e1065]
+          - generic [ref=e1067]:
+            - link "\\\"Thumbnail Web Design 10 Min How Much Does Website Design Cost for a B2B SaaS Company? B2B SaaS website design costs $5,000 to $150,000 or more. See real price ranges by stage, what drives the cost, and how to budget yours right." [ref=e1069] [cursor=pointer]:
+              - /url: \"/blogs/website-design-cost\"
+              - img "\\\"Thumbnail" [ref=e1071]
+              - generic [ref=e1072]:
+                - generic [ref=e1073]: Web Design
+                - generic [ref=e1074]: 10 Min
+              - generic [ref=e1075]:
+                - heading "How Much Does Website Design Cost for a B2B SaaS Company?" [level=3] [ref=e1076]
+                - generic [ref=e1077]: B2B SaaS website design costs $5,000 to $150,000 or more. See real price ranges by stage, what drives the cost, and how to budget yours right.
+            - 'link "\\\"Healthcare Web Design 15 Min Healthcare Website Design Cost: Complete Pricing Guide for Clinics, Hospitals & Medical Practices See average healthcare website pricing, cost by organization type, HIPAA compliance costs, feature pricing, and practical budgeting advice for healthcare providers." [ref=e1079] [cursor=pointer]':
+              - /url: \"/blogs/healthcare-website-design-cost\"
+              - img "\\\"Healthcare" [ref=e1081]
+              - generic [ref=e1082]:
+                - generic [ref=e1083]: Web Design
+                - generic [ref=e1084]: 15 Min
+              - generic [ref=e1085]:
+                - 'heading "Healthcare Website Design Cost: Complete Pricing Guide for Clinics, Hospitals & Medical Practices" [level=3] [ref=e1086]'
+                - generic [ref=e1087]: See average healthcare website pricing, cost by organization type, HIPAA compliance costs, feature pricing, and practical budgeting advice for healthcare providers.
+            - link "\\\"Healthcare Web Design 15 Min Healthcare Web Design Trends in 2026 Healthcare web design trends are rewriting patient trust. See 10 patterns, a 30-feature analysis table, and the self-audit every clinic needs in 2026." [ref=e1089] [cursor=pointer]:
+              - /url: \"/blogs/healthcare-web-design-trends\"
+              - img "\\\"Healthcare" [ref=e1091]
+              - generic [ref=e1092]:
+                - generic [ref=e1093]: Web Design
+                - generic [ref=e1094]: 15 Min
+              - generic [ref=e1095]:
+                - heading "Healthcare Web Design Trends in 2026" [level=3] [ref=e1096]
+                - generic [ref=e1097]: Healthcare web design trends are rewriting patient trust. See 10 patterns, a 30-feature analysis table, and the self-audit every clinic needs in 2026.
+          - link "View All Blog \\\"\\\"" [ref=e1098] [cursor=pointer]:
+            - /url: \"/blogs\"
+            - generic [ref=e1099]:
+              - generic [ref=e1100]: View All Blog
+              - img "\\\"\\\"" [ref=e1102]
+        - generic [ref=e1105]:
+          - generic [ref=e1106]:
+            - generic [ref=e1107]:
+              - generic [ref=e1108]:
+                - heading "Got Questions?" [level=2] [ref=e1109]
+                - heading "We’ve Got Answers" [level=2] [ref=e1110]
+              - paragraph [ref=e1111]: If you’re unsure where to start or want to see how we can help, reach out, and we’ll walk you through it.
+            - generic [ref=e1112]:
+              - generic [ref=e1113]:
+                - img "\\\"\\\"" [ref=e1114]
+                - generic [ref=e1115]:
+                  - heading "Book an Intro Call" [level=3] [ref=e1116]
+                  - generic [ref=e1117]: Let’s talk through your goals, your timeline, and how Atlas Studio can support your team.
+                - link "Book a Call \\\"\\\"" [ref=e1118] [cursor=pointer]:
+                  - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+                  - generic [ref=e1119]:
+                    - generic [ref=e1120]: Book a Call
+                    - img "\\\"\\\"" [ref=e1122]
+              - generic [ref=e1123]:
+                - img "\\\"\\\"" [ref=e1125]
+                - generic [ref=e1126]:
+                  - generic [ref=e1127]: Do you prefer email communication?
+                  - link "hello@atlastudio.in" [ref=e1128] [cursor=pointer]:
+                    - /url: \"mailto:hello@atlastudio.in\"
+          - generic [ref=e1129]:
+            - generic [ref=e1130]:
+              - heading "What does a Webflow agency do that a freelancer can't?" [level=3] [ref=e1133]
+              - navigation "What does a Webflow agency do that a freelancer can't?" [ref=e1134]:
+                - paragraph [ref=e1136]: A Webflow agency brings a team of a designer, a developer, a copywriter, and a QA layer on one contract. A freelancer is great for a small site. An agency is what you need when the build includes CMS architecture, 50+ pages, custom interactions, SEO setup, and integrations with your stack. Different jobs, different tools.
+            - generic [ref=e1137]:
+              - heading "How much does a Webflow website cost from an agency in 2026?" [level=3] [ref=e1140]
+              - navigation "How much does a Webflow website cost from an agency in 2026?" [ref=e1141]:
+                - paragraph [ref=e1143]: A marketing site from a quality Webflow agency sits at $5,000 - $15,000 in 2026. Larger CMS-driven sites run $15,000 - $50,000. Our Startup plan ships a conversion-ready Webflow site inside $2,999/month (100 hours) so you get design, build, and copy as one deliverable, not three invoices.
+            - generic [ref=e1144]:
+              - heading "How long does it take to design and build a Webflow site?" [level=3] [ref=e1147]
+              - navigation "How long does it take to design and build a Webflow site?" [ref=e1148]:
+                - paragraph [ref=e1150]: A focused marketing site ships in two weeks with our Startup plan. A full brand site with 30+ pages and a CMS takes three to six weeks. Migrations from WordPress or Framer usually add one to two weeks depending on content volume. We hold weekly checkpoints so you always know which week you're in.
+            - generic [ref=e1151]:
+              - heading "Can you migrate our existing WordPress or Framer site to Webflow?" [level=3] [ref=e1154]
+              - navigation "Can you migrate our existing WordPress or Framer site to Webflow?" [ref=e1155]:
+                - paragraph [ref=e1157]: "Yes we handle WordPress, Framer, Wix, Squarespace, and static-site migrations to Webflow regularly. The work is part rebuild, part import: we structure your CMS in Webflow, port your content, preserve your URLs, set up 301s, and re-submit the sitemap to Google so rankings don't drop."
+            - generic [ref=e1158]:
+              - heading "Is Webflow good for SEO, or do we lose rankings when we migrate?" [level=3] [ref=e1161]
+              - navigation "Is Webflow good for SEO, or do we lose rankings when we migrate?" [ref=e1162]:
+                - paragraph [ref=e1164]: Webflow is strong for SEO fast hosting, clean semantic HTML, built-in schema, editable meta tags, and auto-optimized images. You only lose rankings if a migration is done lazily. Done right (URL-map preserved, 301 redirects in place, sitemap re-indexed, Core Web Vitals checked), most clients see rankings hold or climb within 30 days.
+            - generic [ref=e1165]:
+              - heading "What makes Atlas Studio different from other UI/UX design agencies?" [level=3] [ref=e1168]
+              - navigation "What makes Atlas Studio different from other UI/UX design agencies?" [ref=e1169]:
+                - paragraph [ref=e1171]: You do, always. We transfer the Webflow project to your workspace at launch, with admin access assigned to you. Your domain, your billing, your site. We don't hold projects hostage and we don't upcharge for transfers. If you ever leave Atlas Studio, your site leaves with you no ransom.
+            - generic [ref=e1172]:
+              - heading "Will my team be able to edit the site after launch?" [level=3] [ref=e1175]
+              - navigation "Will my team be able to edit the site after launch?" [ref=e1176]:
+                - paragraph [ref=e1178]: Yes. Webflow's Editor role lets marketers and founders update copy, images, CMS posts, and SEO fields without touching the Designer view. We leave you a short Loom walkthrough plus a written cheat-sheet, so a new hire can publish a blog post in fifteen minutes, not a support ticket.
+            - generic [ref=e1179]:
+              - heading "Can you build custom interactions, animations, and CMS structures in Webflow?" [level=3] [ref=e1182]
+              - navigation "Can you build custom interactions, animations, and CMS structures in Webflow?" [ref=e1183]:
+                - paragraph [ref=e1185]: Yes from scroll-triggered animations and multi-state hovers to nested CMS collections, multi-reference fields, and dynamic filters. We use GSAP, Lottie, and Webflow's native interactions as the toolkit. Where the platform hits a ceiling (complex auth, deep dashboards), we integrate Xano, Memberstack, or a custom API.
+            - generic [ref=e1186]:
+              - heading "What are the hidden costs of running a Webflow site?" [level=3] [ref=e1189]
+              - navigation "What are the hidden costs of running a Webflow site?" [ref=e1190]:
+                - paragraph [ref=e1192]: Budget for Webflow hosting ($15 - $235/month depending on CMS size), a workspace seat ($19 - $49/month per editor), and any third-party add-ons (Memberstack, Finsweet Attributes, Jetboost). Total stack usually lands at $40 - $300/month post-launch. No dev servers, no plugin maintenance, no monthly security patches, that's where the savings come back.
+            - generic [ref=e1193]:
+              - heading "Webflow vs Framer vs WordPress which should our startup pick?" [level=3] [ref=e1196]: Webflow vs Framer vs WordPress which should our startup pick?
+              - navigation "Webflow vs Framer vs WordPress which should our startup pick?" [ref=e1197]:
+                - paragraph [ref=e1199]: Pick Webflow when you need a CMS, custom interactions, and team-editable content (most SaaS sites). Pick Framer when you want fast, design-first marketing pages with tight motion (best for funded startups with heavy brand needs). Pick WordPress when SEO depth, plugins, or e-commerce complexity demand it. For B2B SaaS in 2026, Webflow is our default.
+          - generic [ref=e1200]:
+            - generic [ref=e1201]:
+              - img "\\\"\\\"" [ref=e1202]
+              - generic [ref=e1203]:
+                - heading "Book an Intro Call" [level=3] [ref=e1204]
+                - generic [ref=e1205]: Let’s talk through your goals, your timeline, and how Atlas Studio can support your team.
+              - link "Book a Call \\\"\\\"" [ref=e1206] [cursor=pointer]:
+                - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+                - generic [ref=e1207]:
+                  - generic [ref=e1208]: Book a Call
+                  - img "\\\"\\\"" [ref=e1210]
+            - generic [ref=e1211]:
+              - img "\\\"\\\"" [ref=e1213]
+              - generic [ref=e1214]:
+                - generic [ref=e1215]: Do you prefer email communication?
+                - link "hello@atlastudio.in" [ref=e1216] [cursor=pointer]:
+                  - /url: \"mailto:hello@atlastudio.in\"
+        - generic [ref=e1219]:
+          - heading "Present on Top Creative Platforms" [level=2] [ref=e1220]
+          - generic [ref=e1221]:
+            - link "\\\"\\\" 10+ Projects Live" [ref=e1222] [cursor=pointer]:
+              - /url: \"https://webflow.com/templates/designers/orbix-studio\"
+              - generic [ref=e1223]:
+                - img "\\\"\\\"" [ref=e1224]
+                - generic [ref=e1226]: 10+ Projects Live
+            - generic [ref=e1228]:
+              - img "\\\"\\\"" [ref=e1229]
+              - generic [ref=e1231]: 5+ Projects Live
+            - link "\\\"\\\" Top Worldwide" [ref=e1232] [cursor=pointer]:
+              - /url: \"https://dribbble.com/atlastudio\"
+              - generic [ref=e1233]:
+                - img "\\\"\\\"" [ref=e1234]
+                - generic [ref=e1236]: Top Worldwide
+            - link "\\\"\\\" 42+ Badges" [ref=e1237] [cursor=pointer]:
+              - /url: \"https://www.behance.net/atlastudio\"
+              - generic [ref=e1238]:
+                - img "\\\"\\\"" [ref=e1239]
+                - generic [ref=e1241]: 42+ Badges
+            - link "\\\"\\\" 450+ Reviews" [ref=e1242] [cursor=pointer]:
+              - /url: \"https://www.fiverr.com/aparicitshohan\"
+              - generic [ref=e1243]:
+                - img "\\\"\\\"" [ref=e1244]
+                - generic [ref=e1246]: 450+ Reviews
+            - link "\\\"\\\" 43+ Reviews" [ref=e1247] [cursor=pointer]:
+              - /url: \"https://clutch.co/profile/orbix-studio\"
+              - generic [ref=e1248]:
+                - img "\\\"\\\"" [ref=e1249]
+                - generic [ref=e1251]: 43+ Reviews
+            - link "\\\"\\\" 52+ Reviews" [ref=e1252] [cursor=pointer]:
+              - /url: \"https://www.goodfirms.co/company/orbix-studio-llc\"
+              - generic [ref=e1253]:
+                - img "\\\"\\\"" [ref=e1254]
+                - generic [ref=e1256]: 52+ Reviews
+            - link "\\\"\\\" 5+ Projects Live" [ref=e1257] [cursor=pointer]:
+              - /url: \"https://www.designrush.com/agency/profile/orbix-studio\"
+              - generic [ref=e1258]:
+                - img "\\\"\\\"" [ref=e1259]
+                - generic [ref=e1261]: 5+ Projects Live
+        - generic [ref=e1264]:
+          - generic [ref=e1265]:
+            - generic [ref=e1266]:
+              - heading "Got a project in mind? Let's build it" [level=2] [ref=e1267]
+              - generic [ref=e1268]: We'll schedule a call to discuss your idea. After discovery sessions, we'll send a proposal, and upon approval, we'll get started.
+            - generic [ref=e1269]:
+              - generic [ref=e1270]:
+                - img "\\\"Portrait" [ref=e1272]
+                - generic [ref=e1273]:
+                  - generic [ref=e1274]: Shohanur Rahman
+                  - generic [ref=e1275]: Founder & CEO
+              - generic [ref=e1276]:
+                - img "\\\"Three" [ref=e1278]
+                - generic [ref=e1279]:
+                  - img "\\\"\\\"" [ref=e1281]
+                  - generic [ref=e1282]: 300+ Scaled Brands
+          - generic [ref=e1284]:
+            - form "\\\"Contact" [ref=e1285]:
+              - generic [ref=e1286]:
+                - generic [ref=e1287]: Your Name*
+                - textbox "Your Name* Full Name*" [ref=e1288]:
+                  - /placeholder: \"John
+              - generic [ref=e1289]:
+                - generic [ref=e1290]: Email*
+                - textbox "Email* Email*" [ref=e1291]:
+                  - /placeholder: \"you@company.com\"
+              - generic [ref=e1292]:
+                - generic [ref=e1293]:
+                  - strong [ref=e1294]: Company name
+                  - text: "*"
+                - textbox "Company name*" [ref=e1295]:
+                  - /placeholder: \"You
+              - generic [ref=e1296]:
+                - generic [ref=e1297]: Whatsapp Number*
+                - generic [ref=e1298]:
+                  - textbox [ref=e1300]: \"+1\"
+                  - generic [ref=e1301]:
+                    - generic [ref=e1302]:
+                      - generic "\\\"United":
+                        - list "\\\"List" [ref=e1303]:
+                          - listitem [ref=e1304]: United States+1
+                          - listitem [ref=e1305]: United Kingdom+44
+                          - listitem
+                          - listitem [ref=e1306]: Afghanistan (‫افغانستان‬‎)+93
+                          - listitem [ref=e1307]: Albania (Shqipëri)+355
+                          - listitem [ref=e1308]: Algeria (‫الجزائر‬‎)+213
+                          - listitem [ref=e1309]: American Samoa+1
+                          - listitem [ref=e1310]: Andorra+376
+                          - listitem [ref=e1311]: Angola+244
+                          - listitem [ref=e1312]: Anguilla+1
+                          - listitem [ref=e1313]: Antigua and Barbuda+1
+                          - listitem [ref=e1314]: Argentina+54
+                          - listitem [ref=e1315]: Armenia (Հայաստան)+374
+                          - listitem [ref=e1316]: Aruba+297
+                          - listitem [ref=e1317]: Ascension Island+247
+                          - listitem [ref=e1318]: Australia+61
+                          - listitem [ref=e1319]: Austria (Österreich)+43
+                          - listitem [ref=e1320]: Azerbaijan (Azərbaycan)+994
+                          - listitem [ref=e1321]: Bahamas+1
+                          - listitem [ref=e1322]: Bahrain (‫البحرين‬‎)+973
+                          - listitem [ref=e1323]: Bangladesh (বাংলাদেশ)+880
+                          - listitem [ref=e1324]: Barbados+1
+                          - listitem [ref=e1325]: Belarus (Беларусь)+375
+                          - listitem [ref=e1326]: Belgium (België)+32
+                          - listitem [ref=e1327]: Belize+501
+                          - listitem [ref=e1328]: Benin (Bénin)+229
+                          - listitem [ref=e1329]: Bermuda+1
+                          - listitem [ref=e1330]: Bhutan (འབྲུག)+975
+                          - listitem [ref=e1331]: Bolivia+591
+                          - listitem [ref=e1332]: Bosnia and Herzegovina (Босна и Херцеговина)+387
+                          - listitem [ref=e1333]: Botswana+267
+                          - listitem [ref=e1334]: Brazil (Brasil)+55
+                          - listitem [ref=e1335]: British Indian Ocean Territory+246
+                          - listitem [ref=e1336]: British Virgin Islands+1
+                          - listitem [ref=e1337]: Brunei+673
+                          - listitem [ref=e1338]: Bulgaria (България)+359
+                          - listitem [ref=e1339]: Burkina Faso+226
+                          - listitem [ref=e1340]: Burundi (Uburundi)+257
+                          - listitem [ref=e1341]: Cambodia (កម្ពុជា)+855
+                          - listitem [ref=e1342]: Cameroon (Cameroun)+237
+                          - listitem [ref=e1343]: Canada+1
+                          - listitem [ref=e1344]: Cape Verde (Kabu Verdi)+238
+                          - listitem [ref=e1345]: Caribbean Netherlands+599
+                          - listitem [ref=e1346]: Cayman Islands+1
+                          - listitem [ref=e1347]: Central African Republic (République centrafricaine)+236
+                          - listitem [ref=e1348]: Chad (Tchad)+235
+                          - listitem [ref=e1349]: Chile+56
+                          - listitem [ref=e1350]: China (中国)+86
+                          - listitem [ref=e1351]: Christmas Island+61
+                          - listitem [ref=e1352]: Cocos (Keeling) Islands+61
+                          - listitem [ref=e1353]: Colombia+57
+                          - listitem [ref=e1354]: Comoros (‫جزر القمر‬‎)+269
+                          - listitem [ref=e1355]: Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)+243
+                          - listitem [ref=e1356]: Congo (Republic) (Congo-Brazzaville)+242
+                          - listitem [ref=e1357]: Cook Islands+682
+                          - listitem [ref=e1358]: Costa Rica+506
+                          - listitem [ref=e1359]: Côte d’Ivoire+225
+                          - listitem [ref=e1360]: Croatia (Hrvatska)+385
+                          - listitem [ref=e1361]: Cuba+53
+                          - listitem [ref=e1362]: Curaçao+599
+                          - listitem [ref=e1363]: Cyprus (Κύπρος)+357
+                          - listitem [ref=e1364]: Czech Republic (Česká republika)+420
+                          - listitem [ref=e1365]: Denmark (Danmark)+45
+                          - listitem [ref=e1366]: Djibouti+253
+                          - listitem [ref=e1367]: Dominica+1
+                          - listitem [ref=e1368]: Dominican Republic (República Dominicana)+1
+                          - listitem [ref=e1369]: Ecuador+593
+                          - listitem [ref=e1370]: Egypt (‫مصر‬‎)+20
+                          - listitem [ref=e1371]: El Salvador+503
+                          - listitem [ref=e1372]: Equatorial Guinea (Guinea Ecuatorial)+240
+                          - listitem [ref=e1373]: Eritrea+291
+                          - listitem [ref=e1374]: Estonia (Eesti)+372
+                          - listitem [ref=e1375]: Eswatini+268
+                          - listitem [ref=e1376]: Ethiopia+251
+                          - listitem [ref=e1377]: Falkland Islands (Islas Malvinas)+500
+                          - listitem [ref=e1378]: Faroe Islands (Føroyar)+298
+                          - listitem [ref=e1379]: Fiji+679
+                          - listitem [ref=e1380]: Finland (Suomi)+358
+                          - listitem [ref=e1381]: France+33
+                          - listitem [ref=e1382]: French Guiana (Guyane française)+594
+                          - listitem [ref=e1383]: French Polynesia (Polynésie française)+689
+                          - listitem [ref=e1384]: Gabon+241
+                          - listitem [ref=e1385]: Gambia+220
+                          - listitem [ref=e1386]: Georgia (საქართველო)+995
+                          - listitem [ref=e1387]: Germany (Deutschland)+49
+                          - listitem [ref=e1388]: Ghana (Gaana)+233
+                          - listitem [ref=e1389]: Gibraltar+350
+                          - listitem [ref=e1390]: Greece (Ελλάδα)+30
+                          - listitem [ref=e1391]: Greenland (Kalaallit Nunaat)+299
+                          - listitem [ref=e1392]: Grenada+1
+                          - listitem [ref=e1393]: Guadeloupe+590
+                          - listitem [ref=e1394]: Guam+1
+                          - listitem [ref=e1395]: Guatemala+502
+                          - listitem [ref=e1396]: Guernsey+44
+                          - listitem [ref=e1397]: Guinea (Guinée)+224
+                          - listitem [ref=e1398]: Guinea-Bissau (Guiné Bissau)+245
+                          - listitem [ref=e1399]: Guyana+592
+                          - listitem [ref=e1400]: Haiti+509
+                          - listitem [ref=e1401]: Honduras+504
+                          - listitem [ref=e1402]: Hong Kong (香港)+852
+                          - listitem [ref=e1403]: Hungary (Magyarország)+36
+                          - listitem [ref=e1404]: Iceland (Ísland)+354
+                          - listitem [ref=e1405]: India (भारत)+91
+                          - listitem [ref=e1406]: Indonesia+62
+                          - listitem [ref=e1407]: Iran (‫ایران‬‎)+98
+                          - listitem [ref=e1408]: Iraq (‫العراق‬‎)+964
+                          - listitem [ref=e1409]: Ireland+353
+                          - listitem [ref=e1410]: Isle of Man+44
+                          - listitem [ref=e1411]: Israel (‫ישראל‬‎)+972
+                          - listitem [ref=e1412]: Italy (Italia)+39
+                          - listitem [ref=e1413]: Jamaica+1
+                          - listitem [ref=e1414]: Japan (日本)+81
+                          - listitem [ref=e1415]: Jersey+44
+                          - listitem [ref=e1416]: Jordan (‫الأردن‬‎)+962
+                          - listitem [ref=e1417]: Kazakhstan (Казахстан)+7
+                          - listitem [ref=e1418]: Kenya+254
+                          - listitem [ref=e1419]: Kiribati+686
+                          - listitem [ref=e1420]: Kosovo+383
+                          - listitem [ref=e1421]: Kuwait (‫الكويت‬‎)+965
+                          - listitem [ref=e1422]: Kyrgyzstan (Кыргызстан)+996
+                          - listitem [ref=e1423]: Laos (ລາວ)+856
+                          - listitem [ref=e1424]: Latvia (Latvija)+371
+                          - listitem [ref=e1425]: Lebanon (‫لبنان‬‎)+961
+                          - listitem [ref=e1426]: Lesotho+266
+                          - listitem [ref=e1427]: Liberia+231
+                          - listitem [ref=e1428]: Libya (‫ليبيا‬‎)+218
+                          - listitem [ref=e1429]: Liechtenstein+423
+                          - listitem [ref=e1430]: Lithuania (Lietuva)+370
+                          - listitem [ref=e1431]: Luxembourg+352
+                          - listitem [ref=e1432]: Macau (澳門)+853
+                          - listitem [ref=e1433]: Macedonia (FYROM) (Македонија)+389
+                          - listitem [ref=e1434]: Madagascar (Madagasikara)+261
+                          - listitem [ref=e1435]: Malawi+265
+                          - listitem [ref=e1436]: Malaysia+60
+                          - listitem [ref=e1437]: Maldives+960
+                          - listitem [ref=e1438]: Mali+223
+                          - listitem [ref=e1439]: Malta+356
+                          - listitem [ref=e1440]: Marshall Islands+692
+                          - listitem [ref=e1441]: Martinique+596
+                          - listitem [ref=e1442]: Mauritania (‫موريتانيا‬‎)+222
+                          - listitem [ref=e1443]: Mauritius (Moris)+230
+                          - listitem [ref=e1444]: Mayotte+262
+                          - listitem [ref=e1445]: Mexico (México)+52
+                          - listitem [ref=e1446]: Micronesia+691
+                          - listitem [ref=e1447]: Moldova (Republica Moldova)+373
+                          - listitem [ref=e1448]: Monaco+377
+                          - listitem [ref=e1449]: Mongolia (Монгол)+976
+                          - listitem [ref=e1450]: Montenegro (Crna Gora)+382
+                          - listitem [ref=e1451]: Montserrat+1
+                          - listitem [ref=e1452]: Morocco (‫المغرب‬‎)+212
+                          - listitem [ref=e1453]: Mozambique (Moçambique)+258
+                          - listitem [ref=e1454]: Myanmar (Burma) (မြန်မာ)+95
+                          - listitem [ref=e1455]: Namibia (Namibië)+264
+                          - listitem [ref=e1456]: Nauru+674
+                          - listitem [ref=e1457]: Nepal (नेपाल)+977
+                          - listitem [ref=e1458]: Netherlands (Nederland)+31
+                          - listitem [ref=e1459]: New Caledonia (Nouvelle-Calédonie)+687
+                          - listitem [ref=e1460]: New Zealand+64
+                          - listitem [ref=e1461]: Nicaragua+505
+                          - listitem [ref=e1462]: Niger (Nijar)+227
+                          - listitem [ref=e1463]: Nigeria+234
+                          - listitem [ref=e1464]: Niue+683
+                          - listitem [ref=e1465]: Norfolk Island+672
+                          - listitem [ref=e1466]: North Korea (조선 민주주의 인민 공화국)+850
+                          - listitem [ref=e1467]: Northern Mariana Islands+1
+                          - listitem [ref=e1468]: Norway (Norge)+47
+                          - listitem [ref=e1469]: Oman (‫عُمان‬‎)+968
+                          - listitem [ref=e1470]: Pakistan (‫پاکستان‬‎)+92
+                          - listitem [ref=e1471]: Palau+680
+                          - listitem [ref=e1472]: Palestine (‫فلسطين‬‎)+970
+                          - listitem [ref=e1473]: Panama (Panamá)+507
+                          - listitem [ref=e1474]: Papua New Guinea+675
+                          - listitem [ref=e1475]: Paraguay+595
+                          - listitem [ref=e1476]: Peru (Perú)+51
+                          - listitem [ref=e1477]: Philippines+63
+                          - listitem [ref=e1478]: Poland (Polska)+48
+                          - listitem [ref=e1479]: Portugal+351
+                          - listitem [ref=e1480]: Puerto Rico+1
+                          - listitem [ref=e1481]: Qatar (‫قطر‬‎)+974
+                          - listitem [ref=e1482]: Réunion (La Réunion)+262
+                          - listitem [ref=e1483]: Romania (România)+40
+                          - listitem [ref=e1484]: Russia (Россия)+7
+                          - listitem [ref=e1485]: Rwanda+250
+                          - listitem [ref=e1486]: Saint Barthélemy+590
+                          - listitem [ref=e1487]: Saint Helena+290
+                          - listitem [ref=e1488]: Saint Kitts and Nevis+1
+                          - listitem [ref=e1489]: Saint Lucia+1
+                          - listitem [ref=e1490]: Saint Martin (Saint-Martin (partie française))+590
+                          - listitem [ref=e1491]: Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)+508
+                          - listitem [ref=e1492]: Saint Vincent and the Grenadines+1
+                          - listitem [ref=e1493]: Samoa+685
+                          - listitem [ref=e1494]: San Marino+378
+                          - listitem [ref=e1495]: São Tomé and Príncipe (São Tomé e Príncipe)+239
+                          - listitem [ref=e1496]: Saudi Arabia (‫المملكة العربية السعودية‬‎)+966
+                          - listitem [ref=e1497]: Senegal (Sénégal)+221
+                          - listitem [ref=e1498]: Serbia (Србија)+381
+                          - listitem [ref=e1499]: Seychelles+248
+                          - listitem [ref=e1500]: Sierra Leone+232
+                          - listitem [ref=e1501]: Singapore+65
+                          - listitem [ref=e1502]: Sint Maarten+1
+                          - listitem [ref=e1503]: Slovakia (Slovensko)+421
+                          - listitem [ref=e1504]: Slovenia (Slovenija)+386
+                          - listitem [ref=e1505]: Solomon Islands+677
+                          - listitem [ref=e1506]: Somalia (Soomaaliya)+252
+                          - listitem [ref=e1507]: South Africa+27
+                          - listitem [ref=e1508]: South Korea (대한민국)+82
+                          - listitem [ref=e1509]: South Sudan (‫جنوب السودان‬‎)+211
+                          - listitem [ref=e1510]: Spain (España)+34
+                          - listitem [ref=e1511]: Sri Lanka (ශ්‍රී ලංකාව)+94
+                          - listitem [ref=e1512]: Sudan (‫السودان‬‎)+249
+                          - listitem [ref=e1513]: Suriname+597
+                          - listitem [ref=e1514]: Svalbard and Jan Mayen+47
+                          - listitem [ref=e1515]: Sweden (Sverige)+46
+                          - listitem [ref=e1516]: Switzerland (Schweiz)+41
+                          - listitem [ref=e1517]: Syria (‫سوريا‬‎)+963
+                          - listitem [ref=e1518]: Taiwan (台灣)+886
+                          - listitem [ref=e1519]: Tajikistan+992
+                          - listitem [ref=e1520]: Tanzania+255
+                          - listitem [ref=e1521]: Thailand (ไทย)+66
+                          - listitem [ref=e1522]: Timor-Leste+670
+                          - listitem [ref=e1523]: Togo+228
+                          - listitem [ref=e1524]: Tokelau+690
+                          - listitem [ref=e1525]: Tonga+676
+                          - listitem [ref=e1526]: Trinidad and Tobago+1
+                          - listitem [ref=e1527]: Tunisia (‫تونس‬‎)+216
+                          - listitem [ref=e1528]: Turkey (Türkiye)+90
+                          - listitem [ref=e1529]: Turkmenistan+993
+                          - listitem [ref=e1530]: Turks and Caicos Islands+1
+                          - listitem [ref=e1531]: Tuvalu+688
+                          - listitem [ref=e1532]: U.S. Virgin Islands+1
+                          - listitem [ref=e1533]: Uganda+256
+                          - listitem [ref=e1534]: Ukraine (Україна)+380
+                          - listitem [ref=e1535]: United Arab Emirates (‫الإمارات العربية المتحدة‬‎)+971
+                          - listitem [ref=e1536]: United Kingdom+44
+                          - listitem [ref=e1537]: United States+1
+                          - listitem [ref=e1538]: Uruguay+598
+                          - listitem [ref=e1539]: Uzbekistan (Oʻzbekiston)+998
+                          - listitem [ref=e1540]: Vanuatu+678
+                          - listitem [ref=e1541]: Vatican City (Città del Vaticano)+39
+                          - listitem [ref=e1542]: Venezuela+58
+                          - listitem [ref=e1543]: Vietnam (Việt Nam)+84
+                          - listitem [ref=e1544]: Wallis and Futuna (Wallis-et-Futuna)+681
+                          - listitem [ref=e1545]: Western Sahara (‫الصحراء الغربية‬‎)+212
+                          - listitem [ref=e1546]: Yemen (‫اليمن‬‎)+967
+                          - listitem [ref=e1547]: Zambia+260
+                          - listitem [ref=e1548]: Zimbabwe+263
+                          - listitem [ref=e1549]: Åland Islands+358
+                    - textbox "\\\"(201)" [ref=e1550]
+                  - generic [ref=e1551]: Valid number\n
+              - generic [ref=e1552]:
+                - generic [ref=e1553]: Project budget*
+                - combobox "Project budget* Project budget*" [ref=e1554]:
+                  - option "Select range..." [selected]
+                  - option "Under $2K"
+                  - option "$2K – $5K"
+                  - option "$5K – $10K"
+                  - option "$10K – $25K"
+                  - option "$25K+"
+              - generic [ref=e1555]:
+                - generic [ref=e1556]: Service required*
+                - combobox "Service required*" [ref=e1557]:
+                  - option "Select service..." [selected]
+                  - option "UI/UX Design"
+                  - option "SaaS Design"
+                  - option "Branding"
+                  - option "CRO"
+                  - option "Mobile App"
+                  - option "Development"
+                  - option "MVP"
+                  - option "Web design"
+              - generic [ref=e1558]:
+                - generic [ref=e1559]: Heard about us?*
+                - generic [ref=e1560]:
+                  - generic [ref=e1561]:
+                    - textbox "Clutch" [ref=e1562]: \"Clutch\"
+                    - text: Clutch
+                  - generic [ref=e1563]:
+                    - textbox "Chatgpt" [ref=e1564]: \"Chatgpt\"
+                    - text: Chatgpt
+                  - generic [ref=e1565]:
+                    - textbox "Google" [ref=e1566]: \"Google\"
+                    - text: Google
+                  - generic [ref=e1567]:
+                    - textbox "Bedance" [ref=e1568]: \"Bedance\"
+                    - text: Bedance
+                  - generic [ref=e1569]:
+                    - textbox "Dribble" [ref=e1570]: \"Dribble\"
+                    - text: Dribble
+                  - generic [ref=e1571]:
+                    - textbox "Others" [ref=e1572]: \"Others\"
+                    - text: Others
+              - generic [ref=e1573]:
+                - generic [ref=e1574]: Project details*
+                - textbox "Project details*" [ref=e1575]:
+                  - /placeholder: \"Tell
+                - generic [ref=e1576]:
+                  - textbox "Happy to get once week trail (20hrs)" [ref=e1577]
+                  - text: Happy to get once week trail (20hrs)
+              - generic [ref=e1578]:
+                - textbox [ref=e1579]: \"Send
+                - generic [ref=e1580]:
+                  - link "Prefer Email?" [ref=e1582] [cursor=pointer]:
+                    - /url: \"mailto:hello@atlastudio.in\"
+                  - link "Book A Call Directly" [ref=e1583] [cursor=pointer]:
+                    - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+            - generic "\\\"Contact" [ref=e1584]:
+              - generic [ref=e1586]:
+                - text: Thank you!
+                - text: Your submission has been received!
+            - generic "\\\"Contact" [ref=e1587]:
+              - generic [ref=e1588]: Oops! Something went wrong while submitting the form.
+      - generic [ref=e1589]:
+        - generic [ref=e1592]:
+          - generic [ref=e1593]:
+            - generic [ref=e1594]:
+              - link "\\\"Atlas" [ref=e1595] [cursor=pointer]:
+                - /url: \"/\"
+                - img "\\\"Atlas" [ref=e1596]
+              - generic [ref=e1597]:
+                - heading "Atlas Studio" [level=3] [ref=e1598]
+                - generic [ref=e1599]: We design and build scalable digital products that support complex workflows and business-critical systems.
+              - link "Company Deck \\\"\\\"" [ref=e1600] [cursor=pointer]:
+                - /url: \"https://drive.google.com/file/d/1MNCXEWjLnnmPJynix0Cjw3U-64FLqW8c/view?usp=sharing\"
+                - generic [ref=e1601]:
+                  - generic [ref=e1602]: Company Deck
+                  - img "\\\"\\\"" [ref=e1604]
+            - generic [ref=e1605]:
+              - generic [ref=e1606]:
+                - generic [ref=e1607]: Drop Us a Line
+                - link "hello@atlastudio.in" [ref=e1608] [cursor=pointer]:
+                  - /url: \"mailto:hello@atlastudio.in\"
+              - generic [ref=e1609]:
+                - generic [ref=e1610]: Call Us
+                - generic [ref=e1611]:
+                  - img "\\\"\\\"" [ref=e1612]
+                  - link "+1 (646) 598-7983" [ref=e1613] [cursor=pointer]:
+                    - /url: \"https://wa.me/16465987983\"
+            - generic [ref=e1614]:
+              - generic [ref=e1615]:
+                - generic [ref=e1616]: Services
+                - generic [ref=e1617]:
+                  - link "UI/UX Design" [ref=e1618] [cursor=pointer]:
+                    - /url: \"/services/ui-ux-design\"
+                  - link "Web Development" [ref=e1619] [cursor=pointer]:
+                    - /url: \"/services/full-stack-development\"
+                  - link "AI Creative Production" [ref=e1620] [cursor=pointer]:
+                    - /url: \"/services/ai-creative-production\"
+                  - link "Webflow" [ref=e1621] [cursor=pointer]:
+                    - /url: \"/services/webflow-expert-agency\"
+                  - link "MVP Development" [ref=e1622] [cursor=pointer]:
+                    - /url: \"/services/mvp-development\"
+                  - generic [ref=e1623]: Framer
+                  - link "SaaS Design" [ref=e1624] [cursor=pointer]:
+                    - /url: \"/services/saas-design\"
+                  - link "Custom Illustration" [ref=e1625] [cursor=pointer]:
+                    - /url: \"/services/custom-illustration\"
+                  - link "Mobile App" [ref=e1626] [cursor=pointer]:
+                    - /url: \"/services/mobile-app-development\"
+                  - link "Motion Design" [ref=e1627] [cursor=pointer]:
+                    - /url: \"/services/motion-design\"
+                  - link "Branding" [ref=e1628] [cursor=pointer]:
+                    - /url: \"/services/brand-design\"
+                  - link "Creative Marketing" [ref=e1629] [cursor=pointer]:
+                    - /url: \"/services/creative-marketing\"
+              - generic [ref=e1630]:
+                - generic [ref=e1631]:
+                  - generic [ref=e1632]: Quick Links
+                  - generic [ref=e1633]:
+                    - link "Case Studies" [ref=e1634] [cursor=pointer]:
+                      - /url: \"/case-studies\"
+                    - link "About" [ref=e1635] [cursor=pointer]:
+                      - /url: \"/about\"
+                    - link "Pricing" [ref=e1636] [cursor=pointer]:
+                      - /url: \"/pricing\"
+                    - link "Careers" [ref=e1637] [cursor=pointer]:
+                      - /url: \"/career\"
+                    - link "Blog" [ref=e1638] [cursor=pointer]:
+                      - /url: \"/blogs\"
+                    - link "Contact" [ref=e1639] [cursor=pointer]:
+                      - /url: \"/contact\"
+                - generic [ref=e1640]:
+                  - generic [ref=e1641]: Follow Us
+                  - generic [ref=e1642]:
+                    - link "Facebook" [ref=e1643] [cursor=pointer]:
+                      - /url: \"https://www.facebook.com/atlastudioLLC/\"
+                    - link "LinkedIn" [ref=e1644] [cursor=pointer]:
+                      - /url: \"https://www.linkedin.com/company/atlastudio/\"
+                    - link "Instagram" [ref=e1645] [cursor=pointer]:
+                      - /url: \"https://www.instagram.com/atlastudio/?hl=en\"
+                    - link "(X) Twitter" [ref=e1646] [cursor=pointer]:
+                      - /url: \"https://x.com/AtlasStudio\"
+                    - link "Pinterest" [ref=e1647] [cursor=pointer]:
+                      - /url: \"https://www.pinterest.com/atlastudio/\"
+                    - link "Dribbble" [ref=e1648] [cursor=pointer]:
+                      - /url: \"https://dribbble.com/atlastudio\"
+                    - link "Behance" [ref=e1649] [cursor=pointer]:
+                      - /url: \"https://www.behance.net/atlastudio\"
+          - generic [ref=e1650]:
+            - generic [ref=e1651]:
+              - generic [ref=e1652]:
+                - generic [ref=e1653]: Email us
+                - link "hello@atlastudio.in" [ref=e1654] [cursor=pointer]:
+                  - /url: \"mailto:hello@atlastudio.in\"
+              - generic [ref=e1655]:
+                - generic [ref=e1656]: Call Us
+                - generic [ref=e1657]:
+                  - link "+1 (646) 598-7983" [ref=e1658] [cursor=pointer]:
+                    - /url: \"https://wa.me/16465987983\"
+                  - img "\\\"\\\"" [ref=e1659]
+            - generic [ref=e1660]:
+              - generic [ref=e1661]: Limited Liability Company Based In
+              - generic [ref=e1662]:
+                - generic [ref=e1663]:
+                  - generic [ref=e1664]:
+                    - img "\\\"flug\\\"" [ref=e1666]
+                    - generic [ref=e1667]:
+                      - generic [ref=e1668]: NEW YORK
+                      - generic [ref=e1669]: 88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States
+                  - img "\\\"Shape\\\"" [ref=e1671]
+                - generic [ref=e1673]:
+                  - img "\\\"flug\\\"" [ref=e1675]
+                  - generic [ref=e1676]:
+                    - generic [ref=e1677]: KSA
+                    - generic [ref=e1678]: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia
+                  - img "\\\"Shape\\\"" [ref=e1680]
+                - generic [ref=e1682]:
+                  - img "\\\"flug\\\"" [ref=e1684]
+                  - generic [ref=e1685]:
+                    - generic [ref=e1686]: DUBAI
+                    - generic [ref=e1687]: 35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates
+                  - img "\\\"Shape\\\"" [ref=e1689]
+                - generic [ref=e1691]:
+                  - img "\\\"flug\\\"" [ref=e1693]
+                  - generic [ref=e1694]:
+                    - generic [ref=e1695]: DHAKA
+                    - generic [ref=e1696]: OPL Ayub Tower, Dhaka 1216
+                  - img "\\\"Shape\\\"" [ref=e1698]
+              - generic [ref=e1699]:
+                - generic [ref=e1700]:
+                  - link "\\\"usa\\\"" [ref=e1701] [cursor=pointer]:
+                    - /url: \"#w-tabs-1-data-w-pane-0\"
+                    - img "\\\"\\\"" [ref=e1702]
+                  - link "\\\"ksa\\\"" [ref=e1703] [cursor=pointer]:
+                    - /url: \"#w-tabs-1-data-w-pane-1\"
+                    - img "\\\"\\\"" [ref=e1704]
+                  - link "\\\"uae\\\"" [ref=e1705] [cursor=pointer]:
+                    - /url: \"#w-tabs-1-data-w-pane-2\"
+                    - img "\\\"\\\"" [ref=e1706]
+                  - link "\\\"bd\\\"" [ref=e1707] [cursor=pointer]:
+                    - /url: \"#w-tabs-1-data-w-pane-3\"
+                    - img "\\\"\\\"" [ref=e1708]
+                - generic [ref=e1709]:
+                  - generic "\\\"usa\\\"" [ref=e1710]:
+                    - generic [ref=e1712]:
+                      - generic [ref=e1713]: NEW YORK
+                      - generic [ref=e1714]:
+                        - text: 88-12 Francis Lewis Blvd, Queens Village, NY 11427,
+                        - text: United States
+                  - generic "\\\"ksa\\\"" [ref=e1715]:
+                    - generic [ref=e1716]:
+                      - generic [ref=e1717]:
+                        - generic [ref=e1718]: KSA
+                        - generic [ref=e1719]:
+                          - text: الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314,
+                          - text: Saudi Arabia
+                      - img "\\\"Shape\\\"" [ref=e1721]
+                  - generic "\\\"uae\\\"" [ref=e1722]:
+                    - generic [ref=e1723]:
+                      - generic [ref=e1724]:
+                        - generic [ref=e1725]: DUBAI
+                        - generic [ref=e1726]:
+                          - text: 35 35A St - Al Qusais - Al Twar Fourth - Dubai,
+                          - text: United Arab Emirates
+                      - img "\\\"Shape\\\"" [ref=e1728]
+                  - generic "\\\"bd\\\"" [ref=e1729]:
+                    - generic [ref=e1730]:
+                      - generic [ref=e1731]:
+                        - generic [ref=e1732]: DHAKA
+                        - generic [ref=e1733]:
+                          - text: OPL Ayub Tower, Dhaka 1216,
+                          - text: Bangladesh
+                      - img "\\\"Shape\\\"" [ref=e1735]
+        - generic [ref=e1738]:
+          - generic [ref=e1739]: © 2023-2026, Atlas Studio | All Rights Reserved.
+          - generic [ref=e1740]:
+            - link "Terms of Services" [ref=e1741] [cursor=pointer]:
+              - /url: \"/terms-of-service\"
+            - link "Privacy Policy" [ref=e1742] [cursor=pointer]:
+              - /url: \"/privacy-policy\"
+            - link "Refund Policy" [ref=e1743] [cursor=pointer]:
+              - /url: \"/refund-policy\"
+      - generic [ref=e1745]:
+        - generic [ref=e1746]:
+          - generic [ref=e1747]:
+            - generic [ref=e1748]:
+              - generic [ref=e1749]:
+                - heading "Ready to build your next SaaS product?" [level=3] [ref=e1750]
+                - generic [ref=e1751]: Whether you're starting with an idea or improving an existing product, we'll help you find the best way to move forward
+              - generic [ref=e1752]:
+                - img "\\\"\\\"" [ref=e1753]
+                - generic [ref=e1754]: Trusted by 80+ SaaS startups & product teams
+            - generic [ref=e1755]:
+              - img "\\\"\\\"" [ref=e1756]
+              - img "\\\"\\\"" [ref=e1757]
+              - img "\\\"\\\"" [ref=e1758]
+              - img "\\\"\\\"" [ref=e1759]
+              - img "\\\"\\\"" [ref=e1760]
+          - img "\\\"\\\"" [ref=e1762]
+        - generic [ref=e1763]:
+          - generic [ref=e1764]: Book a Free Discovery Call
+          - generic [ref=e1765]:
+            - form "\\\"Popup" [ref=e1766]:
+              - generic [ref=e1767]:
+                - generic [ref=e1768]: Full Name*
+                - textbox "\\\"John" [ref=e1769]
+              - generic [ref=e1770]:
+                - generic [ref=e1771]: Email*
+                - textbox "\\\"you@company.com\\\"" [ref=e1772]
+              - generic [ref=e1773]:
+                - generic [ref=e1774]: How did you find us*
+                - textbox "\\\"Tell" [ref=e1776]
+              - generic [ref=e1777]:
+                - generic [ref=e1778]: Project budget*
+                - combobox [ref=e1779]:
+                  - option "Select range..." [selected]
+                  - option "Under $2K"
+                  - option "$2K – $5K"
+                  - option "$5K – $10K"
+                  - option "$10K – $25K"
+                  - option "$25K+"
+              - generic [ref=e1780]:
+                - generic [ref=e1781]: What are you building*
+                - textbox "What are you building*" [ref=e1782]:
+                  - /placeholder: \"Tell
+              - generic [ref=e1783]:
+                - generic [ref=e1784]: What do you need help with?
+                - generic [ref=e1785]:
+                  - generic [ref=e1786]:
+                    - textbox "UI/UX Design" [ref=e1787]: \"UI/UX
+                    - text: UI/UX Design
+                  - generic [ref=e1788]:
+                    - textbox "SaaS Design" [ref=e1789]: \"SaaS
+                    - text: SaaS Design
+                  - generic [ref=e1790]:
+                    - textbox "MVP Development" [ref=e1791]: \"MVP
+                    - text: MVP Development
+                  - generic [ref=e1792]:
+                    - textbox "Mobile Apps" [ref=e1793]: \"Mobile
+                    - text: Mobile Apps
+                  - generic [ref=e1794]:
+                    - textbox "Web Development" [ref=e1795]: \"Web
+                    - text: Web Development
+                  - generic [ref=e1796]:
+                    - textbox "Webflow" [ref=e1797]: \"Webflow\"
+                    - text: Webflow
+                  - generic [ref=e1798]:
+                    - textbox "AI Products" [ref=e1799]: \"AI
+                    - text: AI Products
+              - generic [ref=e1800]:
+                - textbox [ref=e1801]: \"Book
+                - generic [ref=e1802]:
+                  - link "Prefer Email?" [ref=e1804] [cursor=pointer]:
+                    - /url: \"mailto:hello@atlastudio.in\"
+                  - link "Book A Call Directly" [ref=e1805] [cursor=pointer]:
+                    - /url: \"https://cal.com/atlastudio/free-ux-strategy-book-now-call\"
+            - generic "\\\"Popup" [ref=e1806]:
+              - generic [ref=e1808]:
+                - text: Thank you!
+                - text: Your submission has been received!
+            - generic "\\\"Popup" [ref=e1809]:
+              - generic [ref=e1810]: Oops! Something went wrong while submitting the form.
+          - img "\\\"\\\"" [ref=e1812]
+    - text: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  - alert [ref=e1813]

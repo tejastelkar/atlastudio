@@ -1,0 +1,33 @@
+{
+  "local": {
+    "title": "Atlas Studio",
+    "bodyClass": "min-h-full body",
+    "htmlClass": "h-full antialiased w-mod-js lenis w-mod-ix",
+    "h1": "Professional Webflow Development Agency",
+    "sectionCount": 14,
+    "serviceBanner": true
+  },
+  "remote": {
+    "title": "Webflow Development Agency for Startups | Orbix Studio",
+    "bodyClass": "body",
+    "htmlClass": "w-mod-js lenis w-mod-ix",
+    "h1": "Professional Webflow Development Agency",
+    "sectionCount": 14,
+    "serviceBanner": true
+  },
+  "consoleMessages": [
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "log",
+      "text": "[HMR] connected"
+    },
+    {
+      "type": "warning",
+      "text": "Oops! This page has improperly configured forms. Please contact your website administrator to fix this issue."
+    }
+  ],
+  "pageErrors": []
+}
