@@ -310,6 +310,7 @@ export const ATLAS_BLOG_SECTION = {
       category: "Web Design",
       readTime: "10 Min",
       title: "How Much Does Website Design Cost for a B2B SaaS Company",
+      description: "Planning a SaaS website? Learn typical costs, what's included, and why some websites cost $5,000 while others cost $100,000 or more.",
       href: "/blog/website-design-cost",
     },
     {
@@ -317,6 +318,7 @@ export const ATLAS_BLOG_SECTION = {
       category: "Web Design",
       readTime: "15 Min",
       title: "Healthcare Website Design Cost: Complete Guide",
+      description: "Learn SaaS website design from the ground up. Discover essential pages, best practices, user journeys, and conversion strategies.",
       href: "/blog/healthcare-website-cost",
     },
     {
@@ -324,6 +326,7 @@ export const ATLAS_BLOG_SECTION = {
       category: "Web Design",
       readTime: "15 Min",
       title: "Healthcare Web Design Trends in 2026",
+      description: "Use this complete SaaS website audit checklist to review technical SEO, Core Web Vitals, tracking, security, and conversion elements before launch.",
       href: "/blog/healthcare-web-design-trends",
     },
   ],
