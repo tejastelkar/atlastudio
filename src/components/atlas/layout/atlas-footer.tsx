@@ -110,35 +110,7 @@ export function AtlasFooter() {
             </div>
           </div>
 
-          <div className="lg:w-[68%] flex flex-col gap-8 lg:pl-10">
-            <h4 className="text-[#8e8e8e] text-[12px] tracking-[0.06em] uppercase font-medium">
-              {ATLAS_FOOTER_DATA.locations.heading}
-            </h4>
-            
-            {/* Locations Grid with subtle borders mimicking Orbix */}
-            <div className="grid grid-cols-2 md:grid-cols-4 relative border-t border-l border-black/[0.04]">
-              {ATLAS_FOOTER_DATA.locations.items.map((loc, i) => (
-                <div
-                  key={i}
-                  className="group relative flex flex-col justify-start gap-4 p-6 border-b border-r border-black/[0.04] bg-transparent hover:bg-black/[0.02] transition-colors duration-300"
-                >
-                  <img
-                    src={loc.flag}
-                    alt={loc.country}
-                    className="w-10 h-10 object-contain drop-shadow-sm rounded-full overflow-hidden"
-                  />
-                  <div className="flex flex-col gap-1">
-                    <div className="font-medium text-[17px] tracking-tight">
-                      {loc.country}
-                    </div>
-                    <div className="text-[14px] text-[#6b6b6b] leading-[1.6]">
-                      {loc.address}
-                    </div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
+
         </div>
       </div>
 

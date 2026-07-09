@@ -57,31 +57,6 @@ export const ATLAS_FOOTER_DATA = {
     whatsappLink: "https://wa.me/16465987983",
     whatsappIcon: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6a02f7dd49b52eddc98dba32_eca28097-61f6-41d2-b3e5-08c65c91274c.svg"
   },
-  locations: {
-    heading: "Limited Liability Company Based In",
-    items: [
-      {
-        country: "NEW YORK",
-        address: "88-12 Francis Lewis Blvd, Queens Village, NY 11427, United States",
-        flag: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69608f9dfb7367650626a14c_fi_14009732.svg"
-      },
-      {
-        country: "KSA",
-        address: "الأمير سعود بن محمد بن مقرن, Al Falah, Riyadh 13314, Saudi Arabia",
-        flag: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69608f9dfb7367650626a149_fi_14009803.svg"
-      },
-      {
-        country: "DUBAI",
-        address: "35 35A St - Al Qusais - Al Twar Fourth - Dubai - United Arab Emirates",
-        flag: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69608f9dfb7367650626a14a_fi_14009735.svg"
-      },
-      {
-        country: "DHAKA",
-        address: "OPL Ayub Tower, Dhaka 1216",
-        flag: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69608f9dfb7367650626a14b_fi_16569446.svg"
-      }
-    ]
-  },
   legal: {
     copyright: "© 2023-2026, Atlas Studio | All Rights Reserved.",
     links: [
