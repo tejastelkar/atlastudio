@@ -40,6 +40,40 @@ export function AtlasFooter() {
                 className="w-[18px] h-[18px] relative z-10 invert group-hover:rotate-45 transition-transform duration-300"
               />
             </Link>
+
+            {/* Contact Info (Moved from bottom tier) */}
+            <div className="flex flex-col gap-8 mt-4 pt-8 border-t border-black/[0.08] w-full">
+              <div className="flex flex-col gap-3">
+                <h5 className="text-[#8e8e8e] text-[12px] tracking-[0.06em] uppercase font-medium">
+                  Email us
+                </h5>
+                <a
+                  href={`mailto:${ATLAS_FOOTER_DATA.contact.email}`}
+                  className="text-[20px] font-medium tracking-[-0.02em] hover:opacity-70 transition-opacity w-fit"
+                >
+                  {ATLAS_FOOTER_DATA.contact.email}
+                </a>
+              </div>
+              <div className="flex flex-col gap-3">
+                <h5 className="text-[#8e8e8e] text-[12px] tracking-[0.06em] uppercase font-medium">
+                  Call Us
+                </h5>
+                <div className="flex items-center gap-3">
+                  <a
+                    href={ATLAS_FOOTER_DATA.contact.whatsappLink}
+                    target="_blank"
+                    className="text-[20px] font-medium tracking-[-0.02em] hover:opacity-70 transition-opacity"
+                  >
+                    {ATLAS_FOOTER_DATA.contact.phone}
+                  </a>
+                  <img
+                    src={ATLAS_FOOTER_DATA.contact.whatsappIcon}
+                    alt="WhatsApp"
+                    className="w-6 h-6"
+                  />
+                </div>
+              </div>
+            </div>
           </div>
 
           <div className="lg:w-[68%] grid grid-cols-1 md:grid-cols-4 gap-x-6 gap-y-12 lg:pl-10">
@@ -74,45 +108,6 @@ export function AtlasFooter() {
         </div>
       </div>
 
-      {/* Bottom half */}
-      <div className="atlas-container">
-        <div className="flex flex-col lg:flex-row gap-16 py-16 lg:py-20">
-          <div className="lg:w-[32%] flex flex-col justify-center gap-12">
-            <div className="flex flex-col gap-3">
-              <h5 className="text-[#8e8e8e] text-[12px] tracking-[0.06em] uppercase font-medium">
-                Email us
-              </h5>
-              <a
-                href={`mailto:${ATLAS_FOOTER_DATA.contact.email}`}
-                className="text-[22px] font-medium tracking-[-0.02em] hover:opacity-70 transition-opacity w-fit"
-              >
-                {ATLAS_FOOTER_DATA.contact.email}
-              </a>
-            </div>
-            <div className="flex flex-col gap-3">
-              <h5 className="text-[#8e8e8e] text-[12px] tracking-[0.06em] uppercase font-medium">
-                Call Us
-              </h5>
-              <div className="flex items-center gap-3">
-                <a
-                  href={ATLAS_FOOTER_DATA.contact.whatsappLink}
-                  target="_blank"
-                  className="text-[22px] font-medium tracking-[-0.02em] hover:opacity-70 transition-opacity"
-                >
-                  {ATLAS_FOOTER_DATA.contact.phone}
-                </a>
-                <img
-                  src={ATLAS_FOOTER_DATA.contact.whatsappIcon}
-                  alt="WhatsApp"
-                  className="w-7 h-7"
-                />
-              </div>
-            </div>
-          </div>
-
-
-        </div>
-      </div>
 
       {/* Bottom strip */}
       <div className="w-full bg-[#090909] text-white">
