@@ -24,3 +24,6 @@
 - **Automatic Commits**: After EVERY completed task or significant file modification, the agent MUST automatically commit the changes and push them to the remote repository. 
 - **Git Push Destination**: Code must be pushed to `https://github.com/tejastelkar/atlastudio.git`.
 - **Commit Messages**: Use clear, descriptive commit messages summarizing the changes made.
+
+## 6. Reference Cloning Workflow
+- **Pixel-Perfect Protocol**: Whenever instructed to copy or clone a section from a reference website, you MUST strictly follow the detailed, iterative workflow defined in `.agents/CLONING_PROTOCOL.md`. Do not bypass the verification loops, script evaluations, or screenshot comparisons outlined in that document.
