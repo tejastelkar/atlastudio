@@ -331,3 +331,44 @@ export const ATLAS_BLOG_SECTION = {
     },
   ],
 } as const;
+
+export const ATLAS_MEMBERSHIP_BENEFITS = {
+  tag: "Membership Benefits",
+  firstLine: "Monthly Product",
+  secondLine: "Support ",
+  italicLine: "As You Grow",
+  subtitle:
+    "We plug into your team with ongoing design support that helps you move faster, handle new priorities, and improve the product as you grow.",
+  items: [
+    {
+      title: "Fixed Monthly Rate",
+      description: "Pay one predictable flat\nfee every month.",
+      icon: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69e736894d7813af3c2f780e_1c845db0-b6c1-4c65-b880-35ab97c7d353.svg",
+    },
+    {
+      title: "Fast Delivery",
+      description: "Experience rapid turnaround\ntimes on every request.",
+      icon: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69e61f54dc1aea3ca6fab885_system-regular-33-speed.svg",
+    },
+    {
+      title: "Premium Quality",
+      description: "Get senior-level design\noutput on every task.",
+      icon: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69e737621a3e451517427b51_63b1e15b-0914-498e-84a5-ec7ca99cd15c.svg",
+    },
+    {
+      title: "Scalable & Flexible",
+      description: "Adapt your design capacity to\nyour current roadmap",
+      icon: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69e737cac5d00fc52bf6fe23_9a9e454a-e17c-4d28-b328-de0ae138ad84.svg",
+    },
+    {
+      title: "Unique & Custom",
+      description: "Every interface is built from the ground up specifically for your product.",
+      icon: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69e738231a1e94efb6a54ce4_bb9026a0-4b4a-40d3-9016-78ca006ea580.svg",
+    },
+    {
+      title: "Strategic Design Board",
+      description: "Manage your entire design\nqueue in one place.",
+      icon: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69e738aa1eea406d0967c09c_a80cec11-cf74-4cb4-be9b-4355f05c5996.svg",
+    },
+  ],
+} as const;
