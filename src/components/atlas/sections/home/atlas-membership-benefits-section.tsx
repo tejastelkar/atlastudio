@@ -6,8 +6,8 @@ import { ATLAS_MEMBERSHIP_BENEFITS } from "@/lib/atlas-homepage-data";
 export function AtlasMembershipBenefitsSection() {
   return (
     <section className="py-[120px] bg-white">
-      <div className="container mx-auto px-4 md:px-[60px] max-w-[1500px]">
-        <div className="flex flex-col items-center text-center gap-6 mb-20">
+      <div className="container mx-auto px-4 md:px-[60px] max-w-[1500px] flex flex-col gap-[60px]">
+        <div className="flex flex-col items-center text-center gap-6 max-w-[680px] mx-auto">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -22,11 +22,11 @@ export function AtlasMembershipBenefitsSection() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.1 }}
-            className="m-0 text-[64px] leading-[1.2] tracking-[-0.01em] font-medium text-black max-w-[1200px]"
+            className="m-0 text-[64px] leading-[1.2] tracking-[-0.01em] font-medium text-black max-w-[820px]"
           >
             {ATLAS_MEMBERSHIP_BENEFITS.firstLine}{" "}
-            {ATLAS_MEMBERSHIP_BENEFITS.secondLine}
-            <span className="font-ivyoradisplay italic font-normal">
+            <span>{ATLAS_MEMBERSHIP_BENEFITS.secondLine}</span>{" "}
+            <span className="font-ivyoradisplay italic font-normal capitalize">
               {ATLAS_MEMBERSHIP_BENEFITS.italicLine}
             </span>
           </motion.h2>
@@ -35,7 +35,7 @@ export function AtlasMembershipBenefitsSection() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
-            className="text-[18px] leading-[1.6] text-black max-w-[680px]"
+            className="text-[18px] leading-[1.6] tracking-[-0.01em] text-black max-w-[680px]"
           >
             {ATLAS_MEMBERSHIP_BENEFITS.subtitle}
           </motion.p>

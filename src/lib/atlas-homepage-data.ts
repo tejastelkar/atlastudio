@@ -334,9 +334,9 @@ export const ATLAS_BLOG_SECTION = {
 
 export const ATLAS_MEMBERSHIP_BENEFITS = {
   tag: "Membership Benefits",
-  firstLine: "Monthly Product",
-  secondLine: "Support ",
-  italicLine: "As You Grow",
+  firstLine: "Monthly",
+  secondLine: "Product Support",
+  italicLine: "as You Grow",
   subtitle:
     "We plug into your team with ongoing design support that helps you move faster, handle new priorities, and improve the product as you grow.",
   items: [
