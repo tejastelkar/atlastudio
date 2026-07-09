@@ -442,3 +442,57 @@ export const ATLAS_FAQ = {
     },
   ],
 } as const;
+
+export const ATLAS_PLATFORMS = {
+  heading: "Present on Top Creative Platforms",
+  items: [
+    {
+      logo: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6960c61e81e2e7fffd78d425_Webflow%20logo.svg",
+      hoverText: "10+ Projects Live",
+      width: 133,
+      height: 23,
+    },
+    {
+      logo: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6960c61e81e2e7fffd78d42a_Frame%20(17).svg",
+      hoverText: "5+ Projects Live",
+      width: 128,
+      height: 34,
+    },
+    {
+      logo: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6960c61e81e2e7fffd78d429_dribbble.svg",
+      hoverText: "Top Worldwide",
+      width: 113,
+      height: 44,
+    },
+    {
+      logo: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6960c61e81e2e7fffd78d426_Behance.svg",
+      hoverText: "42+ Badges",
+      width: 96,
+      height: 39,
+    },
+    {
+      logo: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69eb10b91012bae5601f692d_svgviewer-output%20(2).svg",
+      hoverText: "450+ Reviews",
+      width: 89,
+      height: 27,
+    },
+    {
+      logo: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6960c61e81e2e7fffd78d428_download%202.svg",
+      hoverText: "43+ Reviews",
+      width: 72,
+      height: 22,
+    },
+    {
+      logo: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6960c61e81e2e7fffd78d427_Frame%20(18).svg",
+      hoverText: "52+ Reviews",
+      width: 138,
+      height: 27,
+    },
+    {
+      logo: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69915a06f18cc4d01b9f21ba_image%206346447.svg",
+      hoverText: "5+ Projects Live",
+      width: 122,
+      height: 28,
+    },
+  ],
+} as const;

@@ -9,6 +9,7 @@ import { AtlasReviewsSection } from "@/components/atlas/sections/home/atlas-revi
 import { AtlasBlogSection } from "@/components/atlas/sections/home/atlas-blog-section";
 import { AtlasMembershipBenefitsSection } from "@/components/atlas/sections/home/atlas-membership-benefits-section";
 import { AtlasFaqSection } from "@/components/atlas/sections/home/atlas-faq-section";
+import { AtlasPlatformsSection } from "@/components/atlas/sections/home/atlas-platforms-section";
 
 export function HomePage() {
   return (
@@ -23,6 +24,7 @@ export function HomePage() {
       <AtlasBlogSection />
       <AtlasMembershipBenefitsSection />
       <AtlasFaqSection />
+      <AtlasPlatformsSection />
     </AtlasPageShell>
   );
 }
