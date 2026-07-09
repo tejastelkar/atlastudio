@@ -23,10 +23,7 @@ type WebflowHeroProps = {
 export function WebflowHero({ data }: WebflowHeroProps) {
   return (
     <section className="relative w-full min-h-screen border-b border-[#eaeaea] overflow-hidden flex flex-col items-center justify-center -mt-[230px] md:-mt-[190px] lg:-mt-[132px] pt-[230px] md:pt-[190px] lg:pt-[132px]">
-      {/* Background Grid Lines */}
-      <div className="absolute inset-0 pointer-events-none z-0">
-        <div className="absolute top-0 bottom-0 left-1/2 w-[1px] bg-[#00000014] -translate-x-1/2" />
-      </div>
+
 
       <div className="atlas-container relative z-10 flex flex-col items-center text-center">
         {/* Badge */}
@@ -40,20 +37,14 @@ export function WebflowHero({ data }: WebflowHeroProps) {
           <span className="text-[13px] leading-none font-medium text-[#2d2d2d]">{data.badge.text}</span>
         </motion.div>
 
-        {/* Heading with crosshair exactly between the two lines */}
+        {/* Heading */}
         <motion.h1
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.1 }}
-          className="relative text-[40px] leading-[1.1] md:text-[56px] lg:text-[72px] tracking-[-0.01em] mb-10 flex flex-col items-center w-full"
+          className="text-[40px] leading-[1.1] md:text-[56px] lg:text-[72px] tracking-[-0.01em] mb-10 flex flex-col items-center"
         >
-          {/* Horizontal crosshair line — anchored to the BOTTOM of first span (= TOP of second span) */}
-          <span className="font-medium text-[#111] relative">
-            {data.heading.regular}
-            {/* Line and dot sit at the bottom edge of this span, which is the gap between lines */}
-            <span className="absolute -bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 w-3.5 h-3.5 rounded-full bg-black z-10" />
-            <span className="absolute -bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 w-[200vw] h-[1px] bg-[#00000014] -translate-x-1/2 z-0" />
-          </span>
+          <span className="font-medium text-[#111]">{data.heading.regular}</span>
           <span className="font-ivyoradisplay font-normal italic ml-0 md:ml-12 lg:ml-16">{data.heading.italic}</span>
         </motion.h1>
 
