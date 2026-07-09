@@ -372,3 +372,73 @@ export const ATLAS_MEMBERSHIP_BENEFITS = {
     },
   ],
 } as const;
+
+export const ATLAS_FAQ = {
+  heading: "Got Questions?",
+  italicHeading: "We've Got Answers",
+  description:
+    "If you're unsure where to start or want to see how we can help, reach out, and we'll walk you through it.",
+  cta: {
+    profileImage:
+      "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6996b43a6e125a1553a3ba75_Ellipse%201455.avif",
+    title: "Book an Intro Call",
+    subtitle:
+      "Let's talk through your goals, your timeline, and how Atlas Studio can support your team.",
+    buttonText: "Book a Free Call",
+    buttonHref: "/contact",
+    emailLabel: "Prefer Email Instead?",
+    email: "hello@atlasinteractive.studio",
+  },
+  items: [
+    {
+      question: "What kind of companies do you work with?",
+      answer:
+        "We mainly work with B2B, SaaS, and growing teams that need strong design, fast execution, and a creative partner that understands digital products.",
+    },
+    {
+      question: "What is your starting price?",
+      answer:
+        "Our projects typically start at $2,999, depending on the scope, timeline, and level of support you need.",
+    },
+    {
+      question: "How long does a project usually take?",
+      answer:
+        "Most projects take between 2 to 4 weeks, depending on the size of the work. Smaller engagements can move faster, while larger product or brand projects may take longer.",
+    },
+    {
+      question: "Do you only do design, or development too?",
+      answer:
+        "We do both. Alongside UI/UX and brand design, we also support product builds and development so ideas can move from concept to launch without the usual handoff delays.",
+    },
+    {
+      question: "How do you communicate during projects?",
+      answer:
+        "We keep communication simple and clear through shared channels, regular updates, and quick check-ins so you always know what's happening and what's next.",
+    },
+    {
+      question: "What services does Atlas Studio offer?",
+      answer:
+        "Atlas Studio offers product design, UI/UX, branding, creative marketing, and development. We help teams with websites, web and mobile apps, design systems, prototypes, brand identity, pitch materials, and full product experiences from strategy to launch.",
+    },
+    {
+      question: "Do you work with teams in different time zones?",
+      answer:
+        "Yes. We work with clients across different time zones and build our process to keep communication smooth, responsive, and easy to manage.",
+    },
+    {
+      question: "Why Hire A UI/UX Design Agency Instead Of A Freelancer?",
+      answer:
+        "A UI/UX design agency like Atlas Studio provides a dedicated team covering strategy, design, and development — ensuring faster delivery, consistent quality, and scalable support. Unlike freelancers, an agency offers structured processes and accountability.",
+    },
+    {
+      question: "Can you redesign an existing product?",
+      answer:
+        "Yes. We can improve an existing product's UX, refresh the visual design, and help bring the experience up to a higher standard without starting from scratch.",
+    },
+    {
+      question: "What makes Atlas Studio different?",
+      answer:
+        "We combine high-quality design, fast execution, and flexible support in one team, so you can move from idea to launch without the usual delays and handoff issues.",
+    },
+  ],
+} as const;
