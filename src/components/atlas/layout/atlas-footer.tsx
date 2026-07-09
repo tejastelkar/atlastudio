@@ -1,74 +1,161 @@
-import Link from "next/link";
+"use client";
 
-import {
-  ATLAS_EMAIL,
-  ATLAS_PHONE_NUMBER,
-  ATLAS_PRIMARY_SERVICES,
-  ATLAS_QUICK_LINKS,
-  ATLAS_SOCIAL_LINKS,
-  ATLAS_WHATSAPP_LINK,
-} from "@/lib/atlas-site-data";
+import Link from "next/link";
+import { ATLAS_FOOTER_DATA } from "@/lib/atlas-footer-data";
+import { motion } from "framer-motion";
 
 export function AtlasFooter() {
   return (
-    <footer className="bg-white pt-10">
-      <div className="w-[min(1400px,calc(100%-48px))] mx-auto grid grid-cols-1 lg:grid-cols-[320px_minmax(0,1fr)] gap-14 py-11 lg:pb-12 border-t border-black/6">
-        <div className="flex flex-col gap-[22px]">
-          <div className="inline-flex items-center gap-[14px]">
-            <span className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-[#090909] text-white text-xl font-medium">A</span>
-            <span className="text-[26px] tracking-[-0.04em] leading-none font-medium">
-              Atlas <span className="font-ivyoradisplay italic font-normal">Studio</span>
-            </span>
-          </div>
-          <p className="m-0 text-xl leading-[1.5] text-atlas-muted-text">
-            Founder-led website, Shopify, web-app, and SEO execution for serious SaaS,
-            ecommerce, and B2B brands.
-          </p>
-          <div className="flex flex-col gap-2.5 text-atlas-muted-text">
-            <a href={`mailto:${ATLAS_EMAIL}`}>{ATLAS_EMAIL}</a>
-            <a href={ATLAS_WHATSAPP_LINK} target="_blank" rel="noreferrer">
-              {ATLAS_PHONE_NUMBER}
-            </a>
-          </div>
-        </div>
-
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-7">
-          <div className="flex flex-col gap-4">
-            <div className="text-[28px] leading-none font-ivyoradisplay italic font-normal">Services</div>
-            {ATLAS_PRIMARY_SERVICES.map((service) => (
-              <Link key={`${service.href}-${service.title}`} href={service.href} className="text-atlas-muted-text text-lg leading-[1.3]">
-                {service.title}
-              </Link>
-            ))}
-          </div>
-
-          <div className="flex flex-col gap-4">
-            <div className="text-[28px] leading-none font-ivyoradisplay italic font-normal">Quick Links</div>
-            {ATLAS_QUICK_LINKS.map((link) => (
-              <Link key={link.href} href={link.href} className="text-atlas-muted-text text-lg leading-[1.3]">
-                {link.title}
-              </Link>
-            ))}
+    <footer className="bg-[#f5f5f7]">
+      {/* Top half */}
+      <div className="atlas-container">
+        <div className="flex flex-col lg:flex-row gap-16 py-16 lg:py-20 border-b border-black/[0.08]">
+          <div className="lg:w-[32%] flex flex-col items-start gap-8">
+            <Link href="/" className="inline-block">
+              <img
+                src={ATLAS_FOOTER_DATA.company.logo}
+                alt={ATLAS_FOOTER_DATA.company.name}
+                className="h-[34px] object-contain"
+              />
+            </Link>
+            <div className="flex flex-col gap-2">
+              <h3 className="text-2xl font-medium leading-none tracking-tight">
+                {ATLAS_FOOTER_DATA.company.name}
+              </h3>
+              <p className="text-[17px] text-[#4f4f4f] max-w-[280px] leading-[1.4] mt-1">
+                {ATLAS_FOOTER_DATA.company.description}
+              </p>
+            </div>
+            <Link
+              href={ATLAS_FOOTER_DATA.company.deckLink}
+              target="_blank"
+              className="group relative inline-flex items-center gap-3 px-[30px] py-[15px] rounded-full bg-[#010101] text-white hover:bg-[#1a1a1a] transition-colors overflow-hidden mt-2"
+            >
+              <span className="relative z-10 font-medium text-[15px] tracking-wide">
+                {ATLAS_FOOTER_DATA.company.deckText}
+              </span>
+              <img
+                src="https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6a02e5294c7e5a3b0f092cb6_c19e8168-0ed9-4f0e-b697-48454f24cfde.svg"
+                alt=""
+                className="w-[18px] h-[18px] relative z-10 invert group-hover:rotate-45 transition-transform duration-300"
+              />
+            </Link>
           </div>
 
-          <div className="flex flex-col gap-4">
-            <div className="text-[28px] leading-none font-ivyoradisplay italic font-normal">Follow Us</div>
-            {ATLAS_SOCIAL_LINKS.map((link) => (
-              <a key={link.href} href={link.href} target="_blank" rel="noreferrer" className="text-atlas-muted-text text-lg leading-[1.3]">
-                {link.title}
-              </a>
+          <div className="lg:w-[68%] grid grid-cols-1 md:grid-cols-4 gap-x-6 gap-y-12 lg:pl-10">
+            {ATLAS_FOOTER_DATA.links.map((col, idx) => (
+              <div 
+                key={idx} 
+                className={`flex flex-col gap-6 ${col.isTwoCol ? 'md:col-span-2' : 'md:col-span-1'}`}
+              >
+                {col.title ? (
+                  <h4 className="font-ivyoradisplay text-[24px] italic tracking-wide text-[#010101]">
+                    {col.title}
+                  </h4>
+                ) : (
+                  <div className="h-[28px] hidden md:block" />
+                )}
+                
+                {/* Links container */}
+                <div className={`grid ${col.isTwoCol ? 'grid-cols-2 gap-x-4' : 'grid-cols-1'} gap-y-3`}>
+                  {col.items.map((link, i) => (
+                    <Link
+                      key={i}
+                      href={link.href}
+                      className="text-[17px] text-[#4f4f4f] hover:text-[#010101] transition-colors duration-300 w-fit leading-relaxed"
+                    >
+                      {link.label}
+                    </Link>
+                  ))}
+                </div>
+              </div>
             ))}
           </div>
         </div>
       </div>
 
-      <div className="w-screen ml-[calc(50%-50vw)] mr-[calc(50%-50vw)] bg-[#090909]">
-        <div className="w-[min(1400px,calc(100%-48px))] mx-auto flex flex-col md:flex-row items-start md:items-center justify-center md:justify-between gap-6 min-h-[104px] py-6 md:py-0 text-white">
-          <span>© 2023-2026, Atlas Studio | All Rights Reserved.</span>
-          <div className="flex flex-wrap gap-6">
-            <Link href="/terms-of-service">Terms of Service</Link>
-            <Link href="/privacy-policy">Privacy Policy</Link>
-            <Link href="/refund-policy">Refund Policy</Link>
+      {/* Bottom half */}
+      <div className="atlas-container">
+        <div className="flex flex-col lg:flex-row gap-16 py-16 lg:py-20">
+          <div className="lg:w-[32%] flex flex-col justify-center gap-12">
+            <div className="flex flex-col gap-3">
+              <h5 className="text-[#8e8e8e] text-[12px] tracking-[0.06em] uppercase font-medium">
+                Email us
+              </h5>
+              <a
+                href={`mailto:${ATLAS_FOOTER_DATA.contact.email}`}
+                className="text-[22px] font-medium tracking-[-0.02em] hover:opacity-70 transition-opacity w-fit"
+              >
+                {ATLAS_FOOTER_DATA.contact.email}
+              </a>
+            </div>
+            <div className="flex flex-col gap-3">
+              <h5 className="text-[#8e8e8e] text-[12px] tracking-[0.06em] uppercase font-medium">
+                Call Us
+              </h5>
+              <div className="flex items-center gap-3">
+                <a
+                  href={ATLAS_FOOTER_DATA.contact.whatsappLink}
+                  target="_blank"
+                  className="text-[22px] font-medium tracking-[-0.02em] hover:opacity-70 transition-opacity"
+                >
+                  {ATLAS_FOOTER_DATA.contact.phone}
+                </a>
+                <img
+                  src={ATLAS_FOOTER_DATA.contact.whatsappIcon}
+                  alt="WhatsApp"
+                  className="w-7 h-7"
+                />
+              </div>
+            </div>
+          </div>
+
+          <div className="lg:w-[68%] flex flex-col gap-8 lg:pl-10">
+            <h4 className="text-[#8e8e8e] text-[12px] tracking-[0.06em] uppercase font-medium">
+              {ATLAS_FOOTER_DATA.locations.heading}
+            </h4>
+            
+            {/* Locations Grid with subtle borders mimicking Orbix */}
+            <div className="grid grid-cols-2 md:grid-cols-4 relative border-t border-l border-black/[0.04]">
+              {ATLAS_FOOTER_DATA.locations.items.map((loc, i) => (
+                <div
+                  key={i}
+                  className="group relative flex flex-col justify-start gap-4 p-6 border-b border-r border-black/[0.04] bg-transparent hover:bg-black/[0.02] transition-colors duration-300"
+                >
+                  <img
+                    src={loc.flag}
+                    alt={loc.country}
+                    className="w-10 h-10 object-contain drop-shadow-sm rounded-full overflow-hidden"
+                  />
+                  <div className="flex flex-col gap-1">
+                    <div className="font-medium text-[17px] tracking-tight">
+                      {loc.country}
+                    </div>
+                    <div className="text-[14px] text-[#6b6b6b] leading-[1.6]">
+                      {loc.address}
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Bottom strip */}
+      <div className="w-full bg-[#090909] text-white">
+        <div className="atlas-container flex flex-col md:flex-row justify-between items-center min-h-[80px] py-6 md:py-0 text-[14px] text-white/60">
+          <div>{ATLAS_FOOTER_DATA.legal.copyright}</div>
+          <div className="flex flex-wrap items-center justify-center gap-6 mt-4 md:mt-0">
+            {ATLAS_FOOTER_DATA.legal.links.map((link, i) => (
+              <Link
+                key={i}
+                href={link.href}
+                className="hover:text-white transition-colors"
+              >
+                {link.label}
+              </Link>
+            ))}
           </div>
         </div>
       </div>

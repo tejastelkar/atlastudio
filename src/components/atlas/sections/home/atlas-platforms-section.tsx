@@ -17,12 +17,12 @@ export function AtlasPlatformsSection() {
               className="group relative flex items-center justify-center bg-[rgba(9,9,9,0.2)] border border-[#202020] h-[84px] overflow-hidden"
             >
               {/* Yellow Accent */}
-              <div className="absolute left-0 top-1/2 -translate-y-1/2 w-[2px] h-[18px] bg-[#ecfba9]" />
+              <div className="absolute left-0 top-1/2 -translate-y-1/2 w-[2px] h-[18px] bg-[#ecfba9] z-10" />
               
               {/* Animated Content Wrapper */}
-              <div className="relative w-full h-full transition-transform duration-300 ease-in-out group-hover:-translate-y-[42px]">
-                {/* Logo */}
-                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex items-center justify-center w-full">
+              <div className="relative w-full h-full transition-transform duration-500 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover:-translate-y-full">
+                {/* Logo Container */}
+                <div className="absolute inset-0 flex items-center justify-center w-full h-full">
                   <Image
                     src={item.logo}
                     alt={item.hoverText}
@@ -33,9 +33,9 @@ export function AtlasPlatformsSection() {
                   />
                 </div>
                 
-                {/* Hover Text */}
-                <div className="absolute top-[82px] left-1/2 -translate-x-1/2 flex flex-col items-center justify-center text-white text-[16px]">
-                  <span className="whitespace-nowrap">{item.hoverText}</span>
+                {/* Hover Content Panel */}
+                <div className="absolute top-full left-0 w-full h-full flex flex-col items-center justify-center bg-gradient-to-b from-[#ffffff] via-[#ebf8f9] to-[#cbf0f1] text-black">
+                  <span className="text-[22px] font-medium leading-[1.2] tracking-[-0.01em]">{item.hoverText}</span>
                 </div>
               </div>
             </a>

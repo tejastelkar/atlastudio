@@ -9,7 +9,8 @@ When instructed to copy or clone a section from a reference website (e.g., Orbix
    - **Typography**: Computed `font-family`, `font-size`, `font-weight`, `line-height`, `letter-spacing`, and text transformations.
    - **Layout/Spacing**: Exact computed `padding`, `margin`, `gap`, `width`, and `height` values for all containers and nested elements.
    - **Colors**: Exact computed `background-color`, text `color`, border colors, opacity, and gradients.
-   - **Animations**: Check for any Framer Motion attributes, CSS transitions, hover states, transforms (`scale`, `translate`), or scroll-triggered reveal parameters.
+   - **Animations & Interactions**: Check for any Framer Motion attributes, CSS transitions, scroll-triggered reveals, and **crucially**, interactive states.
+   - **Mandatory Hover State Check**: You MUST use the Chrome MCP `hover` tool or `evaluate_script` to trigger `:hover` states on interactive elements (buttons, cards, links). Take a screenshot of the element *while hovered* and extract the modified styles (background gradients, text color changes, opacity changes, transforms). NEVER assume a hover state is simple without verifying it visually on the reference site.
 
 ### Step 2: Implementation & Component Extraction
 1. **Code Scaffold**: Scaffold the cloned section into a logical React component following our architecture (e.g., `src/components/atlas/sections/...`).
@@ -25,6 +26,7 @@ When instructed to copy or clone a section from a reference website (e.g., Orbix
    - *Are margins and paddings perfectly aligned?*
    - *Are line breaks happening at the exact same words?*
    - *Do hover interactions and entrance animations mimic the reference flawlessly?*
+3. **Verify Interactive States**: You MUST trigger the hover state on your local implementation using Chrome MCP and take a screenshot to compare side-by-side with the reference site's hover state screenshot. Verify background color/gradient swaps, icon visibility, text color changes, and transform values perfectly match the original.
 
 ### Step 4: Iterative Refinement
 1. **Iterate**: If *any* discrepancy exists, no matter how small, modify the component code to correct it.
