@@ -10,7 +10,7 @@ When instructed to copy or clone a section from a reference website (e.g., Orbix
    - **Layout/Spacing**: Exact computed `padding`, `margin`, `gap`, `width`, and `height` values for all containers and nested elements.
    - **Colors**: Exact computed `background-color`, text `color`, border colors, opacity, and gradients.
    - **Animations & Interactions**: Check for any Framer Motion attributes, CSS transitions, scroll-triggered reveals, and **crucially**, interactive states.
-   - **Mandatory Hover State Check**: You MUST use the Chrome MCP `hover` tool or `evaluate_script` to trigger `:hover` states on interactive elements (buttons, cards, links). Take a screenshot of the element *while hovered* and extract the modified styles (background gradients, text color changes, opacity changes, transforms). NEVER assume a hover state is simple without verifying it visually on the reference site.
+   - **Mandatory Hover State Check**: You MUST use the Chrome MCP `hover` tool or `evaluate_script` to trigger `:hover` states on interactive elements (buttons, cards, links). Take a screenshot of the element *while hovered* and extract the modified styles. **CRITICAL:** Use `evaluate_script` to check `getComputedStyle(element).transform` and `transition` for BOTH the parent container AND its children (like background images) to see *exactly* what is animating. NEVER assume a hover state is simple without verifying it visually and programmatically on the reference site.
 
 ### Step 2: Implementation & Component Extraction
 1. **Code Scaffold**: Scaffold the cloned section into a logical React component following our architecture (e.g., `src/components/atlas/sections/...`).

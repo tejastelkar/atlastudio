@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import { ATLAS_WEBFLOW_PAGE_DATA } from '@/lib/atlas-webflow-page-data';
@@ -52,12 +54,12 @@ export default function WebflowServicesGrid() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: 0.1 * (index % 2) }}
-              className="rounded-[24px] md:rounded-[32px] overflow-hidden flex flex-col relative aspect-[4/3] group border border-[#eaeaea]"
+              className="rounded-[24px] md:rounded-[32px] overflow-hidden flex flex-col relative aspect-[4/3] group border border-[#eaeaea] transition-transform duration-500 ease-out hover:scale-[1.02]"
             >
               <img
                 src={item.image}
                 alt={item.title}
-                className="absolute inset-0 w-full h-full object-cover object-center transition-transform duration-700 ease-out group-hover:scale-[1.03]"
+                className="absolute inset-0 w-full h-full object-cover object-center"
               />
               
               <div className="absolute top-0 left-0 w-full p-6 md:p-8 lg:p-10 flex flex-col gap-3 md:gap-4 z-10 pointer-events-none">

@@ -117,6 +117,36 @@ export const ATLAS_WEBFLOW_PAGE_DATA = {
       }
     ]
   },
+  process: {
+    heading: {
+      regular: "A Clear Webflow Process Built For ",
+      italic: "Fast, Custom Website Launches"
+    },
+    description: "Every project moves through a focused four-step process, from requirements and planning to custom design, Webflow development, and launch. That keeps the work clear, fast, and easier to move forward without unnecessary delays.",
+    steps: [
+      {
+        stepLabel: "Step 1",
+        stepTitle: "Plan",
+        heading: "Gather Requirements",
+        text: "Every project starts with understanding your goals, content, required pages, and references.",
+        image: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69981769482f9ff059a59204_Frame%202147240698.avif"
+      },
+      {
+        stepLabel: "Step 2",
+        stepTitle: "Design",
+        heading: "Create The UI/UX Direction",
+        text: "With the structure in place, the visual design is created around your brand.",
+        image: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6986e32fc2181b2141e1584b_Frame%202147240613.avif"
+      },
+      {
+        stepLabel: "Step 3",
+        stepTitle: "Build",
+        heading: "Develop, And Launch In Webflow",
+        text: "After approval, the design is developed in Webflow, and prepared for a smooth launch.",
+        image: "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/6986e32fcb670b10281f4be4_Frame%202147240612%20(1).avif"
+      }
+    ]
+  },
   tickerLogos: [
     "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69883f6ab0b28f227e725a86_Group%202087325261.svg",
     "https://cdn.prod.website-files.com/67449b182ce17a6b86b1d726/69883fd7a412a0902b3c3f46_Frame%202147238483.svg",
