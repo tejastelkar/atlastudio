@@ -26,7 +26,7 @@ export function AtlasFaqSection() {
                   {ATLAS_FAQ.heading}
                 </h2>
                 <h2
-                  className="m-0 text-[56px] font-medium leading-[1.1] tracking-[-0.039em] italic font-ivyoradisplay text-black"
+                  className="m-0 text-[56px] font-normal leading-[1.1] tracking-[-0.039em] italic font-ivyoradisplay text-black"
                 >
                   {ATLAS_FAQ.italicHeading}
                 </h2>
@@ -173,7 +173,7 @@ export function AtlasFaqSection() {
                         transition={{ duration: 0.25, ease: "easeInOut" }}
                         className="overflow-hidden"
                       >
-                        <p className="text-[16px] leading-[1.5] text-black pb-5 m-0">
+                        <p className="text-[16px] leading-[1.5] text-black pb-4 m-0">
                           {item.answer}
                         </p>
                       </motion.div>
